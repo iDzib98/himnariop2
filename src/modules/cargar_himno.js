@@ -1,4 +1,5 @@
-import './reveal.js'
+import './reveal.js' //Para pruebas en src
+//import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
 
 export const cargar_himno = (himno) => {
     let color = localStorage.getItem('color')
@@ -105,6 +106,22 @@ export const cargar_himno = (himno) => {
 
     main.appendChild(listaAutores)
 
+    let reproductor = document.createElement('div')
+
+    reproductor.innerHTML = `
+    <audio id="player" src="https://a16016344.github.io/himnariop/himno/mp3/${himno.numero.toString().padStart(3, '0')}.mp3" type="audio/mp3"></audio>
+    <div class="fixed-action-btn">
+  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green" id="btnPlay">
+    <i class="large material-icons">play_arrow</i>
+  </button>
+  <ul>
+  <li><button class="btn-floating red darken-1 waves-effect" onclick="document.getElementById('player').pause(); player.currentTime = 0; btnPlay.classList.remove('pulse')"><i class="material-icons">stop</i></button></li>
+    <li><button class="btn-floating blue waves-effect" onclick="player.pause(); btnPlay.classList.remove('pulse')"><i class="material-icons">pause</i></button></li>
+  </ul>
+</div>`
+
+    main.appendChild(reproductor)
+
     body.appendChild(main)
 
     window.scrollTo(0, 0);
@@ -129,11 +146,11 @@ export const cargar_himno = (himno) => {
             theme = 'white'
         }
         main.classList.remove('container')
-        main.style = `height: calc(100vh - 64px); margin: 0; padding: 0; overflow: hidden;`
+        main.style = `height: calc(100vh - 64px);`
         main.innerHTML = `
           <link rel="stylesheet" href="./styles/revealjs/${theme}.css">
 
-          <div class="reveal">
+          <div class="reveal deck1">
             <div class="slides" id="slides">
             </div>
           </div>
@@ -177,11 +194,16 @@ export const cargar_himno = (himno) => {
         `
 
         slides.appendChild(lastSlide)
-        Reveal.initialize({ embedded: true });
+
+        let deck1 = new Reveal( document.querySelector( '.deck1' ), {
+          embedded: true,
+        } );
+        deck1.initialize();
+
         setTimeout(()=>{
-            Reveal.slide(1);
+            deck1.slide(1);
             setTimeout(()=>{
-                Reveal.slide(0);
+                deck1.slide(0);
                 launchFullScreen(main)
             }, 0)
         }, 0)
@@ -197,13 +219,7 @@ export const cargar_himno = (himno) => {
           }
     })
 
-    Reveal.configure({
-        keyboard: {
-          27: () => { location.reload() }, // do something custom when ESC is pressed
-          13: 'next', // go to the next slide when the ENTER key is pressed
-          32: null // don't do anything when SPACE is pressed (i.e. disable a reveal.js default binding)
-        }
-      });
+    refresh.addEventListener('click', () => {cargar_himno(himno)})
+    M.AutoInit();
 
-    refresh.addEventListener('click', () => {location.reload()})
 }

@@ -144,7 +144,7 @@ export const cargar_home = () => {
     main.appendChild(crearElemento('h3', `- Crecer en Cristo`, ['subtitulo']))
     main.appendChild(crearCollapsible('En fe y en amor', 313, 332))
     main.appendChild(crearCollapsible('En santidad', 333, 345))
-    main.appendChild(crearCollapsible('En dabiduría: conocimiento de Dios', 346, 362))
+    main.appendChild(crearCollapsible('En sabiduría: conocimiento de Dios', 346, 362))
     main.appendChild(crearCollapsible('En poder: pruebas, vida cristiana', 363, 382))
     main.appendChild(crearCollapsible('En gozo: gratitud', 383, 398))
     main.appendChild(crearElemento('h3', `2.3 La comunión con Cristo`, ['subtitulo']))
