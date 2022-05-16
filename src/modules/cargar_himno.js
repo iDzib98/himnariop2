@@ -53,6 +53,8 @@ export const cargar_himno = (himno) => {
     <a class="btn-floating green waves-effect" id="btnPartitura"><i class="material-icons">queue_music</i></a>
     &nbsp
     <a class="btn-floating blue waves-effect" onclick="window.print()"><i class="material-icons">print</i></a>
+    &nbsp
+    <a class="btn-floating indigo waves-effect" onclick="navigator.share({title: 'Himno ${himno.numero}. ${himno.titulo}', text: '${himno.intro}', url: '${location.href}'})"><i class="material-icons">share</i></a>
     `
 
     let intro = document.createElement('p')
