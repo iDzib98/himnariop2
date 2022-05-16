@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let fontSize = localStorage.getItem('fontSize')
     if (!fontSize) {
         localStorage.setItem('fontSize', 'medium')
-        fontSize = medium
+        fontSize = 'medium'
     }
 
     let darkMode = localStorage.getItem('darkMode')

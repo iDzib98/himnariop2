@@ -111,7 +111,7 @@ export const cargar_himno = (himno) => {
     reproductor.innerHTML = `
     <audio id="player" src="https://a16016344.github.io/himnariop/himno/mp3/${himno.numero.toString().padStart(3, '0')}.mp3" type="audio/mp3"></audio>
     <div class="fixed-action-btn">
-  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green" id="btnPlay">
+  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green" id="btnPlay" hide>
     <i class="large material-icons">play_arrow</i>
   </button>
   <ul>
@@ -134,6 +134,7 @@ export const cargar_himno = (himno) => {
         main.innerHTML = `
         <iframe style="margin: 0; padding: 0;" src="https://docs.google.com/viewer?url=https://ipuertadesalvacion.com/HimnarioNotasPDF/${himno.numero}.pdf&amp;embedded=true" width="100%" height="100%"></iframe>
         `
+        main.appendChild(reproductor)
     })
 
     btnTv.addEventListener('click', () => {
