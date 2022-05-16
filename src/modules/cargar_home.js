@@ -1,6 +1,11 @@
+import { cargar_himno } from "./cargar_himno.js";
 import { himnos } from "./himnos.js";
 
 let color = localStorage.getItem('color')
+if (!color) {
+  localStorage.setItem('color', 'indigo')
+  color = 'indigo'
+}
 
 let darkMode = localStorage.getItem('darkMode')
 
@@ -15,7 +20,7 @@ export const cargar_home = () => {
     <div class="navbar-fixed">
   <nav>
     <div class="nav-wrapper ${color}">
-      <form>
+      <form id="searchForm">
         <div class="input-field">
           <input id="search" type="search" required>
           <label class="label-icon" for="search"><i class="material-icons">search</i></label>
@@ -84,8 +89,16 @@ export const cargar_home = () => {
     <p class="range-field">
     <h5>Tamaño de letra</h5>
     <input type="range" id="cFontSize" min="0" max="4" value="${localStorage.getItem('fontSizeValue')}"/>
-    <span class="left">Chico</span>      <span class="right">Grande</span>
+    <span>Chico</span>      <span class="right">Grande</span>
     </p>
+    <div>
+    <h5>Tipo de letra</h5>
+    <p class="center">
+    <a class="btn" id="btnSerif" style="font-family: serif; font-size: 1.3em; margin: .1em">Serif</a>
+    <a class="btn" id="btnSans" style="font-family: sans-serif; font-size: 1.3em; margin: .1em">Sans-Serif</a>
+    <a class="btn" id="btnMono" style="font-family: monospace; font-size: 1.3em; margin: .1em">Monospace</a>
+    </p>
+    </div>
   </form>
     </div>
     <div class="modal-footer">
@@ -182,6 +195,17 @@ export const cargar_home = () => {
       cModoOscuro.checked = true
     }
 
+
+    let fontFamily = localStorage.getItem('fontFamily')
+    switch (fontFamily) {
+      case 'serif': btnSerif.classList.add(color)
+      break;
+      case 'sans-serif': btnSans.classList.add(color)
+      break;
+      case 'monospace': btnMono.classList.add(color)
+      break;
+    }
+
     M.AutoInit();
 
     search.addEventListener('keyup', (e) => {
@@ -206,6 +230,16 @@ export const cargar_home = () => {
           }
         })
       }, 200)
+    })
+
+    searchForm.addEventListener('submit', (e)=>{
+      e.preventDefault()
+      console.log(parseInt(search.value))
+      let numero = parseInt(search.value)
+      if (numero > 0 && numero < 707){
+        location.href = `#${numero}`
+      }
+
     })
 
     ajustesForm.addEventListener('change', (e)=>{
@@ -251,6 +285,39 @@ export const cargar_home = () => {
       localStorage.setItem('fontSizeValue', ajustesForm['cFontSize'].value)
       prevColor != ajustesForm['cColorEnfasis'].value ? cerrarModal.click() : '';
       prevColor != ajustesForm['cColorEnfasis'].value ? cargar_home() : '';
+    })
+
+    btnSerif.addEventListener('click', (e) => {
+      e.preventDefault()
+      localStorage.setItem('fontFamily', 'serif')
+      body.classList.add('serif')
+      body.classList.remove('sans-serif')
+      body.classList.remove('monospace')
+      btnSerif.classList.add(color)
+      btnSans.classList.remove(color)
+      btnMono.classList.remove(color)
+    })
+
+    btnSans.addEventListener('click', (e) => {
+      e.preventDefault()
+      localStorage.setItem('fontFamily', 'sans-serif')
+      body.classList.remove('serif')
+      body.classList.add('sans-serif')
+      body.classList.remove('monospace')
+      btnSerif.classList.remove(color)
+      btnSans.classList.add(color)
+      btnMono.classList.remove(color)
+    })
+
+    btnMono.addEventListener('click', (e) => {
+      e.preventDefault()
+      localStorage.setItem('fontFamily', 'monospace')
+      body.classList.remove('serif')
+      body.classList.remove('sans-serif')
+      body.classList.add('monospace')
+      btnSerif.classList.remove(color)
+      btnSans.classList.remove(color)
+      btnMono.classList.add(color)
     })
 }
 

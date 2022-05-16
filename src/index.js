@@ -16,12 +16,19 @@ document.addEventListener('DOMContentLoaded', () => {
         fontSize = 'medium'
     }
 
+    let fontFamily = localStorage.getItem('fontFamily')
+    if (!fontFamily) {
+        localStorage.setItem('fontFamily', 'sans-serif')
+        fontFamily = 'sans-serif'
+    }
+
     let darkMode = localStorage.getItem('darkMode')
     if (!darkMode) {
         localStorage.setItem('darkMode', 'true')
         darkMode = 'true'
     }
 
+    body.classList.add(fontFamily)
     body.classList.add(fontSize)
     if (darkMode == 'true') {
         body.classList.add('dark')

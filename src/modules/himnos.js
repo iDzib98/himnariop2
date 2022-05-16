@@ -16856,3 +16856,3444 @@ himnos[350] = {
 			'sino contigo andar']
 	}]
 }
+himnos[351] = {
+	numero: 351,
+	titulo: 'Cuando lo anhelo más',
+	intro: 'Con mi alma te he deseado en la noche. Is. 26.9',
+	referencias: [
+	'1- Mt. 14.25-27  ',
+	'2- Ap. 19.11     ',
+	'3- 2 Co. 12.9-10 ',
+	'C- Cnt. 2.8      ',
+	'',
+	],
+	autores: [
+	'LETRA: William Clement Pode 1907, trad. Eleazar Z. Pérez',
+	'MÚSICA: Charles H. Gabriel, 1907',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cuando estoy triste, con gran terror,',
+			'cuando me abate cruel el dolor,',
+			'viene a mi lado mi buen Señor',
+			'cuando lo anhelo más.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Cuando lo anhelo más,',
+			'cuando lo anhelo más,',
+			'viene Jesús a darme su luz',
+			'cuando lo anhelo más. Amén.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Cuando a mi lado veo falsedad,',
+			'Cristo me brinda fiel su amistad;',
+			'llena mi vida con su verdad',
+			'cuando lo anhelo más.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si en el camino débil estoy,',
+			'“Ten fe”, me dice, “gracia te doy”,',
+			'fuerzas me infunde doquier yo voy,',
+			'cuando lo anhelo más.']
+	}]
+}
+himnos[352] = {
+	numero: 352,
+	titulo: 'Encarga a Dios tu rumbo',
+	intro: 'Reconócelo en todos tus caminos, y él enderezará tus veredas. Pr. 3.6',
+	referencias: [
+	'1- Sal. 37.5    ',
+	'2- Heb. 2.14-15 ',
+	'3- Dn. 4.35     ',
+	'',
+	],
+	autores: [
+	'LETRA: Paul Gerhardt, trad. M. G. H. Schmidt',
+	'MÚSICA: Bartholomäus Gesius',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Encarga a Dios el rumbo',
+			'de tu peregrinar,',
+			'al que gobierna el mundo,',
+			'Señor de tierra y mar;',
+			'aquel que con los hombres',
+			'un día quiso andar,',
+			'ya recorrió el camino',
+			'que tú recorrerás.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Él hizo su morada',
+			'en nuestra humanidad,',
+			'probó nuestros dolores,',
+			'la cruz llegó a cargar.',
+			'Su obra nadie impide,',
+			'y no descansará',
+			'haciendo que sus hijos',
+			'disfruten de su paz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Aún cuando el infierno',
+			'quisiérase oponer,',
+			'Dios, sin ninguna duda,',
+			'no ha de retroceder.',
+			'Lo que él se ha propuesto',
+			'y quiere alcanzar,',
+			'al fin ha de cumplirse,',
+			'según su voluntad.']
+	}]
+}
+himnos[353] = {
+	numero: 353,
+	titulo: 'Es Jesús mi todo en todo',
+	intro: 'Nada falta a los que le temen. Sal. 34.9',
+	referencias: [
+	'1- Flp. 4.19   ',
+	'2- Sal. 91.3-4 ',
+	'3- Gl. 2.20    ',
+	'4- Ro. 6.19    ',
+	'C- Rt. 2.12    ',
+	'',
+	],
+	autores: [
+	'LETRA: Eleazar Z. Pérez        ',
+	'MÚSICA: Charles H. Gabriel',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Es Jesús mi todo en todo,',
+			'suple él mi necesidad;',
+			'me conduce cada día',
+			'por senderos de bondad.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'En su amor yo estoy confiado,',
+			'bajo su ala me he amparado,',
+			'no habrá dudas ni cuidado,',
+			'él es todo para mí.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Es Jesús mi todo en todo,',
+			'fiel amigo y protector;',
+			'buen Pastor que me liberta',
+			'de cuidados y terror.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Es Jesús mi todo en todo,',
+			'quien por mí murió en la cruz;',
+			'nunca cesaré de amarle,',
+			'pues me trajo a vida y luz.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Es Jesús mi todo en todo,',
+			'yo soy suyo y mío es él,',
+			'a su amor y a su servicio',
+			'me consagro a serle fiel.']
+	}]
+}
+himnos[354] = {
+	numero: 354,
+	titulo: 'Hay quien vele mis pisadas',
+	intro: 'Mizpa, por cuanto dijo: Atalaye Jehová. Gn. 31.49',
+	referencias: [
+	'1- Hab. 3.19  ',
+	'2- Ex. 33.14  ',
+	'C- Sal. 16.11 ',
+	'',
+	],
+	autores: [
+	'LETRA: J. N. de los Santos, est. 2 Rubén Hernández D., 1995',
+	'MÚSICA: J. G. Wilson',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Hay quien vele mis pisadas',
+			'en las sombras y en la luz;',
+			'por las sendas escarpadas',
+			'velará por mí Jesús.',
+			'Por los valles, por los montes,',
+			'do me lleva su bondad,',
+			'miro ya los horizontes',
+			'de una nueva claridad.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Hay quien vele mis pisadas,',
+			'y mi senda trazará;',
+			'a las célicas moradas',
+			'es Jesús quien me guiará.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Cada paso, cada día',
+			'voy con Cristo mi Jesús;',
+			'su palabra es mi guía,',
+			'del sendero bella luz.',
+			'Su presencia cotidiana,',
+			'su cuidado pastoral,',
+			'dan confianza al alma mía',
+			'frente al fiero vendaval.']
+	}]
+}
+himnos[355] = {
+	numero: 355,
+	titulo: 'Meditar en Jesús',
+	intro: 'Dulce será mi meditación en él. Sal. 104.34',
+	referencias: [
+	'1- Sal. 145.52- 1 S. 23.2, 4, 93- Hch. 8.5-64- 1 P. 2.21C- Ex. 33.11',
+	],
+	autores: [
+	'LETRA: Autor desconocido',
+	'MÚSICA: E. G. Taylor',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Meditar en Jesús',
+			'ha de ser mi afán,',
+			'su bondad hacia',
+			'el pobre pecador;',
+			'él ganó para mí',
+			'la corona celestial,',
+			'en la cruz,',
+			'do murió por mi amor.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'¡Ven! ¡Ven buen Jesús!',
+			'Háblame, dulce bien,',
+			'en ti quiero reposar',
+			'y tu dulce mirada gozar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Consultar a Jesús',
+			'ha de ser mi afán,',
+			'y Jesús me dará',
+			'su clara luz;',
+			'sin Jesús, y por mí,',
+			'nada quiero practicar;',
+			'mis acciones',
+			'inspire Jesús.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Predicar a Jesús',
+			'ha de ser mi afán,',
+			'y Jesús me dará',
+			'su gran poder;',
+			'sin Jesús y su amor',
+			'es en vano trabajar,',
+			'de Jesús en la cruz',
+			'hablaré.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Imitar a Jesús',
+			'ha de ser mi afán,',
+			'en Jesús quiero',
+			'mi dechado ver;',
+			'sin mirar a Jesús',
+			'imposible es bien obrar,',
+			'y mirando a Jesús',
+			'todo es bien.']
+	}]
+}
+himnos[356] = {
+	numero: 356,
+	titulo: 'Oh, Luz que brota de su Luz',
+	intro: 'Jehová te será por luz perpetua. Is. 60.19',
+	referencias: [
+	'1- Sal. 50.2  ',
+	'2- Mal. 4.2   ',
+	'3- Heb. 13.21 ',
+	'',
+	],
+	autores: [
+	'LETRA: Ambrosio de Milán, s. IV, trad. ingl. R. Bridges, trad, cast. Federico J. Pagura',
+	'MÚSICA: Michael Weisse, 1531',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Oh, Luz que brota de su Luz,',
+			'brillando siempre en sombra y sol,',
+			'con inefable magnitud,',
+			'de Dios eterno resplandor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Oh ven, radiante sol de Dios,',
+			'revélanos tu voluntad;',
+			'tu Santo Espíritu de amor',
+			'dirija nuestro diario obrar.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Gozoso el día pase así,',
+			'por tu constante dirección,',
+			'y al descansar repose en ti,',
+			'seguro, nuestro corazón. Amén.']
+	}]
+}
+himnos[357] = {
+	numero: 357,
+	titulo: 'Sé tú mi visión',
+	intro: 'A Jehová he puesto siempre delante de mí. Sal. 16.8',
+	referencias: [
+	'1- Sal. 27.8      ',
+	'2- Pr. 9.1, 5, 10 ',
+	'3- Is. 33.6       ',
+	'4- Hch. 20.24     ',
+	'',
+	],
+	autores: [
+	'LETRA: Autor irlandés desconocido, trad. ingl. M. E. Byrne y E. H. Hull, trad. cast. F. J. Pagura',
+	'MÚSICA: Melodía tradicional irlandesa, arr. David Allen',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Oh, Dios de mi alma,',
+			'sé tú mi visión,',
+			'nada te aparte',
+			'de mi corazón.',
+			'Noche y día',
+			'pienso yo en ti,',
+			'y tu presencia',
+			'es luz para mí.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Sabiduría',
+			'sé tú de mi ser,',
+			'quiero a tu lado',
+			'mi senda correr;',
+			'como tu hijo',
+			'tenme, Señor,',
+			'siempre morando',
+			'en un mismo amor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Riquezas vanas',
+			'no anhelo, Señor,',
+			'ni el hueco halago',
+			'de la adulación;',
+			'tú eres mi herencia,',
+			'tú mi porción,',
+			'Rey de los cielos,',
+			'tesoro mejor.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Oh, Dios de gloria,',
+			'de triunfo, al final',
+			'déjame el gozo del',
+			'cielo alcanzar;',
+			'alma de mi alma,',
+			'Dueño y Señor,',
+			'en vida y muerte',
+			'sé tú mi visión.']
+	}]
+}
+himnos[358] = {
+	numero: 358,
+	titulo: 'Para andar con Jesús',
+	intro: 'Ciertamente el obedecer es mejor que los sacrificios. 1 S. 15.22',
+	referencias: [
+	'1- 1 Jn. 3.23-24 ',
+	'2- Dt. 11.22-23  ',
+	'3- Jn. 8.12      ',
+	'4- 2 Co. 13.11   ',
+	'C- Stg. 2.22     ',
+	'',
+	],
+	autores: [
+	'LETRA: John H. Samis 1887, trad. Vicente Mendoza',
+	'MÚSICA: Daniel B. Towner 1887',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Para andar con Jesús',
+			'no hay sendero mejor',
+			'que guardar',
+			'sus mandatos de amor;',
+			'obedientes a él',
+			'siempre habremos de ser',
+			'y tendremos',
+			'de Cristo el poder.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Obedecer y confiar en Jesús,',
+			'es la regla marcada',
+			'para andar en la luz.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Cuando vamos así,',
+			'¡cómo brilla la luz,',
+			'en la senda,',
+			'al andar con Jesús!',
+			'Su promesa de estar',
+			'con los suyos es fiel,',
+			'si obedecen',
+			'y esperan en él.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Quien siguiere a Jesús',
+			'ni una sombra verá,',
+			'si confiado',
+			'su vida le da;',
+			'ni terrores, ni afán,',
+			'ni ansiedad, ni dolor,',
+			'pues lo cuida',
+			'su amante Señor.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Mas sus dones de amor',
+			'nunca habréis de alcanzar',
+			'si rendidos',
+			'no vais a su altar;',
+			'pues su paz y su amor',
+			'sólo son para aquel',
+			'que a sus leyes divinas',
+			'es fiel.']
+	}]
+}
+himnos[359] = {
+	numero: 359,
+	titulo: 'Hazme tu camino ver',
+	intro: 'Él os guiará a toda la verdad. Jn. 16.13',
+	referencias: [
+	'1- Sal. 25.4-5   ',
+	'2- Sal. 25.6-7   ',
+	'3- Sal. 25.8-11  ',
+	'4- Sal. 25.12-14 ',
+	'',
+	],
+	autores: [
+	'LETRA: Juan N. de los Santos, 1925',
+	'MÚSICA: Marcus M. Wells',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Hazme tu camino ver,',
+			'tu verdad reconocer;',
+			'eres tú mi Salvador,',
+			'sólo espero en ti, Señor.',
+			'La verdad y gracia son',
+			'de los suyos dirección,',
+			'si obedecen a la ley',
+			'de su Dios, Señor y Rey.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Oh, recuérdame en tu amor,',
+			'ten merced de mí, Señor;',
+			'tus piedades son sin par',
+			'y jamás han de cambiar.',
+			'No recuerdes mi maldad',
+			'ni mi gran iniquidad;',
+			'compadéceme, Señor,',
+			'no me olvides, por tu amor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Bueno y justo es Jehová,',
+			'él su senda mostrará',
+			'y conduce con amor,',
+			'en justicia al pecador.',
+			'Oye tú, Señor, mi voz,',
+			'quiero ir de ti en pos;',
+			'borra tú mi transgresión',
+			'por tu santa compasión.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Quien te teme, ir podrá',
+			'por las sendas de verdad,',
+			'y la paz tendrá doquier',
+			'sin los males conocer.',
+			'Los que aman al Señor',
+			'gozarán de su favor,',
+			'de su gracia y su amistad,',
+			'y él su pacto cumplirá. Amén.']
+	}]
+}
+himnos[360] = {
+	numero: 360,
+	titulo: 'A cada instante te necesito',
+	intro: 'Si desde allí buscares a Jehová tu Dios, lo hallarás. Dt. 4.29',
+	referencias: [
+	'1- Os. 10.12  ',
+	'2- 2 Cr. 34.3 ',
+	'3- Heb. 12.3  ',
+	'C- Is. 26.9   ',
+	'',
+	],
+	autores: [
+	'LETRA: Eleazar Z. Pérez        ',
+	'MÚSICA: Bentley D. Ackley',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'No sólo en horas',
+			'de amargo llanto',
+			'tenerte quiero,',
+			'mi buen Salvador;',
+			'ni en los momentos',
+			'de dulce canto',
+			'tan sólo busco tu favor.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'A cada instante te necesito',
+			'como mi amigo, mi buen Pastor;',
+			'hoy y mañana, en pena y calma,',
+			'siempre te anhelo, oh Señor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Yo busco ansioso',
+			'luz que ilumine',
+			'en la mañana',
+			'de la juventud;',
+			'quiero tu ayuda,',
+			'tu fortaleza',
+			'al presentir la senectud.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Jesús, tu rostro',
+			'radiante y puro',
+			'sea de mi vida',
+			'dulce inspiración;',
+			'y hasta que arribe',
+			'feliz al cielo',
+			'dame tu santa bendición.']
+	}]
+}
+himnos[361] = {
+	numero: 361,
+	titulo: 'Yendo con Jesús',
+	intro: 'Si tu presencia no ha de ir conmigo, no nos saques de aquí. Ex. 33.15',
+	referencias: [
+	'1- Jos. 3.4  ',
+	'2- Mt. 14.29 ',
+	'3- Dn. 6.22  ',
+	'C- Is. 41.13 ',
+	'',
+	],
+	autores: [
+	'LETRA: J. N. Pounds y H. C. A. Dixon, trad. Abraham Fernández',
+	'MÚSICA: Daniel B. Towner',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Yendo con Jesús',
+			'a dondequiera iré,',
+			'porque estoy seguro',
+			'que él cuida de mí;',
+			'sin su compañía,',
+			'no me atreveré',
+			'a seguir en sendas',
+			'que nunca antes vi.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Con Jesús, mi guiador,',
+			'por doquiera iré,',
+			'porque él va conmigo y',
+			'nada temeré.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Con Jesús camino',
+			'sobre tierra y mar,',
+			'aunque ruja, airada,',
+			'negra tempestad,',
+			'con Jesús marchando',
+			'nada temeré;',
+			'en desierto oscuro',
+			'protección tendré.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Pasaré la noche',
+			'como el gran Daniel:',
+			'entre leones fieros,',
+			'quieto dormiré;',
+			'si el Señor pernocta',
+			'con su siervo fiel,',
+			'aun en fosa oscura,',
+			'nada temeré.']
+	}]
+}
+himnos[362] = {
+	numero: 362,
+	titulo: 'Quiero de Cristo más saber',
+	intro: 'Y conoceremos y proseguiremos en conocer a Jehová. Os. 6.3',
+	referencias: [
+	'1- Jn. 17.3  ',
+	'2- Ro. 8.26  ',
+	'3- Mc. 9.5   ',
+	'4- Is. 53.12 ',
+	'C- 1 Ts. 4.1 ',
+	'',
+	],
+	autores: [
+	'LETRA: Eliza E. Hewitt 1887, trad. Vicente Mendoza',
+	'MÚSICA: John R. Sweney, 1887',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Quiero de Cristo más saber,',
+			'más de su amor para salvar,',
+			'más de su gracia quiero ver,',
+			'más del perdón que puede dar.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Más, más aprender,',
+			'más, más alcanzar,',
+			'más de su gracia quiero ver,',
+			'más de su amor para salvar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Quiero de Cristo más saber,',
+			'más de su santa voluntad,',
+			'más de su Espíritu tener,',
+			'más de su tierna y fiel bondad.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Más con Jesús yo quiero estar,',
+			'en una dulce comunión,',
+			'quiero su voz aquí escuchar',
+			'y de ella hacer mi posesión.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Quiero saber que nunca más',
+			'el tentador ha de triunfar,',
+			'quiero saber de aquella paz',
+			'que el buen Jesús me puede dar.']
+	}]
+}
+himnos[363] = {
+	numero: 363,
+	titulo: 'En Jesucristo, puerto de paz',
+	intro: 'Y el mismo Señor de paz os dé siempre paz en toda manera. 2 Ts. 3.16',
+	referencias: [
+	'1- Sal. 107.30 ',
+	'2- 2 Co. 4.16  ',
+	'3- Heb. 4.16   ',
+	'C- 1 Cr. 16.24 ',
+	'',
+	],
+	autores: [
+	'LETRA: Fanny J. Crosby, trad. E. A. Monfort Díaz',
+	'MÚSICA: Phoebe P. Knapp',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'En Jesucristo, puerto de paz,',
+			'en horas negras de tempestad',
+			'hallan las almas dulce solaz,',
+			'grato consuelo, felicidad.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Gloria cantemos al Redentor',
+			'que por nosotros quiso morir;',
+			'y que la gracia del Salvador,',
+			'siempre dirija nuestro vivir.']
+	},{
+		nombre: '2',
+		lineas: [
+			'En nuestras luchas, en el dolor,',
+			'en tristes horas de tentación',
+			'calma le infunde, santo vigor,',
+			'nuevos alientos al corazón.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Cuando en la lucha falta la fe',
+			'y el alma vese desfallecer,',
+			'Cristo nos dice: “Siempre os daré',
+			'gracia divina, santo poder”.']
+	}]
+}
+himnos[364] = {
+	numero: 364,
+	titulo: 'Cariñoso Salvador',
+	intro: 'Fuiste fortaleza al pobre, refugio contra el turbión. Is. 25.4',
+	referencias: [
+	'1- Sal. 107.29.30 ',
+	'2- Pr. 18.10      ',
+	'3- 2 Co. 9.8      ',
+	'',
+	],
+	autores: [
+	'LETRA: Charles Wesley, 1740, trad. Thomas M. Westrup, 1880',
+	'MÚSICA: 1a. Tonada, Simeón B. Marsh, 2a. Tonada, Joseph Parry',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cariñoso Salvador,',
+			'huyo de la tempestad',
+			'a tu seno protector,',
+			'fiándome de tu bondad.',
+			'Sálvame, Señor Jesús,',
+			'de la furia del turbión,',
+			'hasta el puerto de salud',
+			'guía tú mi embarcación.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Otro asilo no he de hallar,',
+			'indefenso acudo a ti;',
+			'voy en mi necesidad,',
+			'porque mi peligro vi.',
+			'Solamente tú, Señor,',
+			'puedes dar consuelo y luz,',
+			'vengo lleno de temor',
+			'a los pies de mi Jesús.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Cristo, encuentro todo en ti',
+			'y no necesito más;',
+			'débil, me pusiste en pie;',
+			'triste, ánimo me das,',
+			'al enfermo das salud,',
+			'guías tierno al que no ve;',
+			'con amor y gratitud',
+			'tu bondad ensalzaré.']
+	}]
+}
+himnos[365] = {
+	numero: 365,
+	titulo: 'Cristo, mi piloto sé',
+	intro: '¿Qué hombre es éste, que aun los vientos y el mar le obedecen? Mt. 8.27',
+	referencias: [
+	'1- Hch. 27.18-25 ',
+	'2- Mt. 8.26      ',
+	'3- Ap. 21.1      ',
+	'',
+	],
+	autores: [
+	'LETRA: Edward Hopper, trad. Vicente Mendoza',
+	'MÚSICA: John E. Gould',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cristo, mi piloto sé',
+			'en el tempestuoso mar;',
+			'fieras ondas mi bajel',
+			'van a hacerlo zozobrar;',
+			'mas si tú, conmigo vas,',
+			'salvo al puerto llegaré.',
+			'Carta y brújula hallo en ti,',
+			'¡Cristo, mi piloto sé!']
+	},{
+		nombre: '2',
+		lineas: [
+			'Todo agita el huracán',
+			'con indómito furor,',
+			'mas los vientos cesarán',
+			'al mandato de tu voz;',
+			'y al decir: “que sea la paz”,',
+			'cederá sumiso el mar.',
+			'De las aguas tú el Señor,',
+			'guíame cual piloto fiel.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Cuando al fin ya cerca esté',
+			'de la playa celestial,',
+			'si el abismo ruge aún',
+			'entre el puerto y mi bajel,',
+			'en tu pecho al descansar',
+			'quiero oírte así decir:',
+			'“¡Nada temas ya del mar,',
+			'tu piloto siempre soy!”']
+	}]
+}
+himnos[366] = {
+	numero: 366,
+	titulo: 'Dios cuidará de ti',
+	intro: 'Santificados en Dios Padre, y guardados en Jesucristo. Jud. 1',
+	referencias: [
+	'1- 1 P. 5.7   ',
+	'2- Sal. 73.26 ',
+	'3- 1 P. 1.5   ',
+	'C- Sal. 121.5 ',
+	'',
+	],
+	autores: [
+	'LETRA: Civilla D. Martin, trad. Vicente Mendoza',
+	'MÚSICA: W. Stillman Martin',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'En tus afanes y en tu dolor',
+			'Dios cuidará de ti;',
+			'vive amparado en su inmenso amor,',
+			'Dios cuidará de ti.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Dios cuidará de ti',
+			'y por doquier contigo irá;',
+			'Dios cuidará de ti,',
+			'nada te faltará.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Si desfalleces en tu labor',
+			'Dios cuidará de ti;',
+			'si ves peligros en derredor,',
+			'Dios cuidará de ti.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Nunca en la prueba sucumbirás,',
+			'Dios cuidará de ti;',
+			'en su regazo te apoyarás,',
+			'Dios cuidará de ti.']
+	}]
+}
+himnos[367] = {
+	numero: 367,
+	titulo: 'Entenderemos',
+	intro: 'Por tanto, no seáis insensatos, sino entendidos. Ef. 5.17',
+	referencias: [
+	'1- Sal. 73.3   ',
+	'2- Ec. 1.3     ',
+	'3- Col. 2.2    ',
+	'C- 1 Co. 13.12 ',
+	'',
+	],
+	autores: [
+	'LETRA: W. B. Stevens, 1937, trad. Francisco S. Cook',
+	'MÚSICA: W. B. Stevens, 1937, arr. J. R. Baxter, Jr. Alt.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cuando tentado,',
+			'yo he deseado',
+			'saber por qué',
+			'hay muchos aquí',
+			'que andan sin pruebas',
+			'y sin cuidado,',
+			'mientras el mal',
+			'me acecha a mí.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Entenderemos',
+			'nuestras angustias,',
+			'entenderemos',
+			'nuestro pesar;',
+			'hermano mío,',
+			'nunca desmayes,',
+			'todo en el cielo',
+			'se ha de aclarar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'“Hasta la muerte”,',
+			'dijo el Maestro,',
+			'“serás tú fiel',
+			'y trabajarás;',
+			'todo tu afán',
+			'habrás de dejarlo,',
+			'cuando al celeste',
+			'hogar entrarás.”']
+	},{
+		nombre: '3',
+		lineas: [
+			'Y así vendrá Jesús',
+			'de la gloria,',
+			'todos al cielo',
+			'nos llevará;',
+			'cuando le veamos',
+			'en aquel día,',
+			'lo entenderemos,',
+			'sí, más allá.']
+	}]
+}
+himnos[368] = {
+	numero: 368,
+	titulo: '¿Sabes tú de Cristo?',
+	intro: 'Ésta es la vida eternal: que conozcan a Jesucristo. Jn. 17.3',
+	referencias: [
+	'1- 2 R. 13.4      ',
+	'2- Sal. 73.26, 28 ',
+	'3- Heb. 2.18      ',
+	'C- Flp. 3.10      ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: W. F. Lakey y V. B. Ellis, trad. Honorato T. Reza',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¿Vives cansado y triste?',
+			'¿Es grande tu aflicción?',
+			'¿Tu inquietud persiste?',
+			'¿Buscas feliz protección?']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'¿Sabes tú de Cristo?',
+			'¿Le conoces ya?',
+			'En su amor bendito,',
+			'salvación y poder te dará.']
+	},{
+		nombre: '2',
+		lineas: [
+			'¿A quién te acercas, dime,',
+			'cuando te acosa el mal?',
+			'Y cuando tu alma gime,',
+			'¿quién es tu paz eternal?']
+	},{
+		nombre: '3',
+		lineas: [
+			'En tus desilusiones,',
+			'tu llanto enjugará;',
+			'en rudas tentaciones,',
+			'tu ruego contestará.']
+	}]
+}
+himnos[369] = {
+	numero: 369,
+	titulo: '¡Maestro, se encrespan las aguas!',
+	intro: 'Cambia la tempestad en sosiego. Sal. 107.29',
+	referencias: [
+	'1- Lc. 8.23   ',
+	'2- Mc. 4.38   ',
+	'3- 1 S. 12.22 ',
+	'C- Mc. 4.39   ',
+	'',
+	],
+	autores: [
+	'LETRA: Mary A. Baker, trad. Vicente Mendoza',
+	'MÚSICA: H. R. Palmer',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¡Maestro, se encrespan las aguas',
+			'y ruge la tempestad!',
+			'¡Los grandes abismos del cielo',
+			'se cubren de obscuridad!',
+			'¿No ves que aquí perecemos?',
+			'¿Puedes dormir así,',
+			'cuando el mar agitado nos abre',
+			'profundo sepulcro aquí?']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Los vientos, las ondas',
+			'oirán tu voz:',
+			'“¡Sea la paz!”',
+			'Calmas las iras del negro mar,',
+			'las luchas del alma',
+			'las haces cesar,',
+			'y así, la barquilla',
+			'do va el Señor,',
+			'hundirse no puede',
+			'en el mar traidor.',
+			'Doquier se cumple tu voluntad:',
+			'“¡Sea la paz!” “¡Sea la paz!”',
+			'Tu voz resuena en la',
+			'inmensidad:',
+			'“¡Sea la paz!”']
+	},{
+		nombre: '2',
+		lineas: [
+			'Maestro, mi ser angustiado',
+			'te busca con ansiedad;',
+			'de mi alma en los antros profundos,',
+			'se libra cruel tempestad;',
+			'pasa el pecado a torrentes',
+			'sobre mi frágil ser,',
+			'¡y perezco, perezco, Maestro!',
+			'¡Oh, quiéreme socorrer!']
+	},{
+		nombre: '3',
+		lineas: [
+			'Maestro, pasó la tormenta,',
+			'los vientos no rugen ya,',
+			'y sobre el cristal de las aguas',
+			'el sol resplandecerá;',
+			'Maestro, prolonga esta calma,',
+			'no me abandones más,',
+			'cruzaré los abismos contigo,',
+			'gozando bendita paz.']
+	}]
+}
+himnos[370] = {
+	numero: 370,
+	titulo: 'Tentado, no cedas',
+	intro: 'Bienaventurado el que soporta la tentación. Stg. 1.12',
+	referencias: [
+	'1- Mt. 6.13   ',
+	'2- 2 Ti. 2.19 ',
+	'3- Ef. 4.32   ',
+	'C- 1 Cr. 18.6 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: H. B. Palmer, trad. Thomas M. Westrup',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Tentado, no cedas;',
+			'ceder es pecar;',
+			'más fácil con Cristo,',
+			'luchando triunfar;',
+			'¡valor! pues, gustoso',
+			'domina tu mal;',
+			'Jesús librar puede',
+			'de asalto mortal.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'A Jesús, pues, acude,',
+			'en sus brazos tu alma',
+			'hallará dulce calma;',
+			'él te hará vencedor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Evita el pecado,',
+			'procura agradar',
+			'a Dios, a quien debes',
+			'por siempre ensalzar;',
+			'no manche tus labios',
+			'impúdica voz,',
+			'tu corazón guarda',
+			'de codicia atroz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Amante, benigno',
+			'y enérgico sé;',
+			'en Cristo ten siempre',
+			'indómita fe;',
+			'veraz sea tu dicho,',
+			'de Dios es tu ser;',
+			'corona te espera,',
+			'y vas a vencer.']
+	}]
+}
+himnos[371] = {
+	numero: 371,
+	titulo: '¡Oh, Cristo! Tu ayuda yo quiero',
+	intro: 'Oh Israel, en mí está tu ayuda. Os. 13.9',
+	referencias: [
+	'1- Sal. 118.5-6 ',
+	'2- Flp. 3.7     ',
+	'3- Sal. 17.8    ',
+	'4- Dt. 30.20    ',
+	'',
+	],
+	autores: [
+	'LETRA: Vicente Mendoza    ',
+	'MÚSICA: Adoniram J. Gordon',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¡Oh, Cristo! Tu ayuda',
+			'yo quiero tener',
+			'en todas las luchas',
+			'que agitan mi ser;',
+			'tan sólo tú puedes',
+			'la vida salvar;',
+			'tú sólo la fuerza',
+			'le puedes prestar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'¡Oh, Cristo! La gloria',
+			'del mundo busqué,',
+			'y ansioso mi vida',
+			'y afán le entregué;',
+			'y en cambio mi pecho',
+			'tan sólo encontró',
+			'dolores y angustias',
+			'que el alma sufrió.']
+	},{
+		nombre: '3',
+		lineas: [
+			'¡Oh, Cristo! Yo quiero',
+			'llegar a vivir',
+			'de aquellos alientos',
+			'que tú haces sentir',
+			'al alma, que huyendo',
+			'del mal tentador',
+			'se vuelve anhelante,',
+			'se vuelve a tu amor.']
+	},{
+		nombre: '4',
+		lineas: [
+			'¡Oh, Cristo! Yo quiero',
+			'tus huellas seguir,',
+			'y gracia constante',
+			'de ti recibir;',
+			'hallar en mis noches',
+			'contigo la luz,',
+			'y alivio a mis penas',
+			'al pie de la cruz. Amén.']
+	}]
+}
+himnos[372] = {
+	numero: 372,
+	titulo: 'Solo no estoy',
+	intro: 'No os dejaré huérfanos; vendré a vosotros. ',
+	referencias: [
+	'Jn. 14.18',
+	],
+	autores: [
+	'LETRA Y MÚSICA: John W. Peterson, trad. Leslie Thompson',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Solo no estoy,',
+			'Jesús está conmigo,',
+			'amigo fiel',
+			'que no me dejará.',
+			'Solo no estoy,',
+			'en tempestad o en calma,',
+			'mi buen Jesús su protección me da.',
+			'Aunque la tempestad me azote',
+			'y el mundo me desprecie',
+			'no temeré llevar la cruz,',
+			'ni servirle con valor;',
+			'solo no estoy,',
+			'no importa luz o sombra:',
+			'mi buen Jesús guiándome está.']
+	}]
+}
+himnos[373] = {
+	numero: 373,
+	titulo: 'Su gracia es mayor',
+	intro: 'La gracia de nuestro Señor fue más abundante. 1 Ti. 1.14',
+	referencias: [
+	'1- 2 Co. 12.9   ',
+	'2- Jue. 6.15-16 ',
+	'C- Ef. 1.18-19  ',
+	'',
+	],
+	autores: [
+	'LETRA: Annie Johnson Flint, 1941, trad. Honorato T. Reza',
+	'MÚSICA: Hubert Mitchell, 1941',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Su gracia es mayor',
+			'si las cargas aumentan,',
+			'su fuerza es mayor',
+			'si la prueba es más cruel;',
+			'si es grande la lucha,',
+			'mayor es su gracia,',
+			'si más son las penas,',
+			'mayor es su paz.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Su amor no termina,',
+			'su gracia no acaba,',
+			'un límite no hay',
+			'al poder del Señor,',
+			'pues de sus inmensas',
+			'riquezas en gloria',
+			'abunda su gracia,',
+			'abunda su amor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Si nuestros recursos',
+			'se han agotado,',
+			'si fuerzas nos faltan',
+			'para terminar,',
+			'si al punto ya estamos',
+			'de desesperarnos,',
+			'el tiempo ha llegado en',
+			'que Dios puede obrar.']
+	}]
+}
+himnos[374] = {
+	numero: 374,
+	titulo: 'Vencedor',
+	intro: 'En todas estas cosas somos más que vencedores por medio de aquel que nos amó. Ro. 8.37',
+	referencias: [
+	'1- Job 5.7     ',
+	'2- Jer. 1.19   ',
+	'3- 2 Co. 12.10 ',
+	'C- Ro. 8.31    ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Andraé Crouch, trad. Frank Gonzáles, alt.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Muchas veces he pensado,',
+			'de problemas tan cargado,',
+			'me pregunto, ¿por qué hay',
+			'tanta prueba y dolor?',
+			'Pero en cada circunstancia,',
+			'Dios me da más de su gracia',
+			'y me muestra que soy más',
+			'que vencedor.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'¡Vencedor! ¡Vencedor!',
+			'Yo en Cristo he confiado,',
+			'mi fe está en Dios.',
+			'¡Vencedor! ¡Vencedor!',
+			'Sí, ahora yo soy',
+			'más que vencedor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'En el mundo agitado,',
+			'de la multitud rodeado,',
+			'nadie ve mi soledad',
+			'y llanto, Señor;',
+			'mas en cada hora oscura,',
+			'tu Espíritu asegura',
+			'que contigo yo soy más',
+			'que vencedor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Gracias doy por las victorias,',
+			'gracias doy por las derrotas;',
+			'a Dios gracias',
+			'por el duelo abrumador.',
+			'A través de los problemas',
+			'veo sus misericordias,',
+			'y en todo yo soy más',
+			'que vencedor.']
+	}]
+}
+himnos[375] = {
+	numero: 375,
+	titulo: 'Cuenta las riquezas de tu Dios',
+	intro: 'Que sepáis cuáles las riquezas de la gloria de su herencia. Ef. 1.18',
+	referencias: [
+	'1- 2 R. 6.15-17 ',
+	'2- Job 42.10    ',
+	'3- Heb. 11.26   ',
+	'4- Ro. 8.31-32  ',
+	'C- Gn. 15.5-6   ',
+	'',
+	],
+	autores: [
+	'LETRA: trad. J. Oatman Jr., es traducción',
+	'MÚSICA: E. O. Excell',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cuando combatido por la adversidad',
+			'creas ya perdida tu felicidad,',
+			'mirar lo que el cielo para ti guardó,',
+			'cuenta las riquezas que el Señor te dio.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Cuenta las riquezas de tu Dios;',
+			'mira las riquezas de su amor,',
+			'pon los ojos donde Cristo está',
+			'y tu mente guarde la divina paz.']
+	},{
+		nombre: '2',
+		lineas: [
+			'¿Andas agobiado por algún pesar?',
+			'¿Tu cruz te parece dura de llevar?',
+			'Cuenta las promesas del Señor Jesús',
+			'y de las tinieblas nacerá la luz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Cuando de otros veas la prosperidad',
+			'y tus pies claudiquen tras de su maldad,',
+			'cuenta las riquezas que tendrás por fe,',
+			'donde el oro es polvo que hollará tu pie.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Aunque grande sea tu aflicción aquí,',
+			'no te desalientes: Dios está por ti,',
+			'si a su propio Hijo no se reservó,',
+			'aún verás riquezas que ojo nunca vio.']
+	}]
+}
+himnos[376] = {
+	numero: 376,
+	titulo: 'En las olas inmensas',
+	intro: 'En Dios está mi roca fuerte, y mi refugio. Sal. 62.7',
+	referencias: [
+	'1- Mt. 14.24   ',
+	'2- Sal. 107.29 ',
+	'3- Is. 62.4    ',
+	'C- Dt. 32.4    ',
+	'',
+	],
+	autores: [
+	'LETRA: M. Lechuga',
+	'MÚSICA: L. E. Jones',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'En las olas inmensas',
+			'de embravecido mar',
+			'que asaltan de mi alma',
+			'la pobre embarcación,',
+			'de rodillas a Cristo',
+			'clamé y el huracán',
+			'deshecho fue al instante',
+			'a la voz de Dios.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Es Cristo la roca,',
+			'el ancla de mi fe;',
+			'los males, lamentos',
+			'y ayes de temor',
+			'terminan por siempre',
+			'con mi supremo Rey;',
+			'es Jesucristo mi refugio.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Me guarda de peligros,',
+			'de pruebas, de dolor;',
+			'él manda que los vientos',
+			'no agiten tempestad,',
+			'los mares se detienen,',
+			'la ola reposó,',
+			'y en Cristo fijo el ancla',
+			'confiando más.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Mi dulce Salvador, sí,',
+			'mi gran amigo y Dios,',
+			'que libra de tristezas',
+			'y aleja amarga hiel;',
+			'por fe yo iré al cielo,',
+			'mansión del Ser de amor,',
+			'la fuente inagotable',
+			'de dicha y bien.']
+	}]
+}
+himnos[377] = {
+	numero: 377,
+	titulo: 'Cristo me guía, es mi Pastor',
+	intro: 'Como pastor apacentará su rebaño. Is. 40.11a',
+	referencias: [
+	'1- Is. 49.10 ',
+	'2- Lc. 13.16 ',
+	'3- Is. 53.17 ',
+	'4- Ap. 2.10  ',
+	'C- Is. 31.5  ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Vicente Mendoza',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cristo me guía, es mi Pastor,',
+			'nada me falta yendo con él,',
+			'tengo su fuerza, tengo su amor,',
+			'si en sus caminos lo sigo fiel.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Seguro amparo, firme sostén',
+			'encuentro siempre con mi Pastor;',
+			'vino él al mundo para mi bien,',
+			'a darme vida con su dolor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'En mis tristezas, nadie como él',
+			'rompe los hierros de mi dolor,',
+			'y si la vida se muestra cruel,',
+			'sólo él me inunda de paz y amor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si estoy enfermo, él es salud',
+			'de cuerpo y alma, todo a la vez;',
+			'en mis tormentas él es quietud',
+			'y en mis tinieblas es brillantez.']
+	},{
+		nombre: '4',
+		lineas: [
+			'¿Qué significa, pues, el dolor?',
+			'¿Qué las tinieblas si voy con él',
+			'y es el apoyo de mi valor,',
+			'siendo conmigo paciente y fiel?']
+	}]
+}
+himnos[378] = {
+	numero: 378,
+	titulo: 'Es Jesucristo mi amigo mejor',
+	intro: 'A quien amáis sin haberle visto. 1 P. 1.8',
+	referencias: [
+	'1- Cnt 1.4      ',
+	'2- Is. 49.15-16 ',
+	'3- 2 S. 22.29   ',
+	'4- Ap. 1.17     ',
+	'C- Ef. 6.24     ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Vicente Mendoza',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Es Jesucristo mi amigo mejor,',
+			'tierno y amante cual otro no habrá;',
+			'toda mi vida descansa en su amor,',
+			'tan sólo en él seguro estaré.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'¡Oh, dulce amigo! Cerca de ti,',
+			'mi senda quiero firme seguir;',
+			'sentir yo quiero que mora en mí,',
+			'tu santa gracia para vivir.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Él en mis pruebas desciende hasta mí',
+			'y hace en mi pecho la dicha nacer;',
+			'nunca por él olvidado me vi,',
+			'nunca faltó su amor en mi ser.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Él en mis dudas me inunda de luz,',
+			'y hallo el sendero que debo seguir;',
+			'todo en mi vida lo debo a Jesús,',
+			'sólo por él yo puedo vivir.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Él me conduce cual tierno Pastor,',
+			'lleva mi vida por sendas de paz;',
+			'él me rescata de todo temor',
+			'dándome el gozo de ver su faz.']
+	}]
+}
+himnos[379] = {
+	numero: 379,
+	titulo: '¡Cuán firme cimiento!',
+	intro: 'He aquí yo he puesto en Sion cimiento estable; el que creyere, no se apresure. Is. 28.16',
+	referencias: [
+	'1- 2 Co. 1.20  ',
+	'2- Is. 41.10   ',
+	'3- Is. 43.2    ',
+	'4- Dan. 3.27   ',
+	'5- Ro. 8.38-39 ',
+	'6- Is. 26.3    ',
+	'',
+	],
+	autores: [
+	'LETRA: Atrib. Robert Keene en Selections of Hymns, 1787, trad. Vicente Mendoza',
+	'MÚSICA: Melodía Americana, arr. en Genuine Church Music, 1832, Funk, alt. ',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¡Cuán firme cimiento',
+			'se ha dado a la fe,',
+			'de Dios en su eterna',
+			'palabra de amor!',
+			'¿Qué más él pudiera',
+			'en su libro añadir,',
+			'si todo a sus hijos',
+			'lo ha dicho el Señor?']
+	},{
+		nombre: '2',
+		lineas: [
+			'“No temas por nada,',
+			'contigo yo soy;',
+			'tu Dios yo soy sólo,',
+			'tu ayuda seré;',
+			'tu fuerza y firmeza',
+			'en mi diestra estarán,',
+			'y en ella sostén',
+			'y poder te daré.”']
+	},{
+		nombre: '3',
+		lineas: [
+			'“No habrán de anegarte',
+			'las ondas del mar,',
+			'si en aguas profundas',
+			'te ordeno salir;',
+			'pues siempre contigo',
+			'en angustias seré',
+			'y todas sus penas',
+			'podré bendecir.”']
+	},{
+		nombre: '4',
+		lineas: [
+			'“La llama no puede',
+			'dañarte jamás',
+			'si en medio del fuego',
+			'te ordeno pasar;',
+			'el oro de tu alma',
+			'más puro será,',
+			'pues sólo la escoria',
+			'se habrá de quemar.”']
+	},{
+		nombre: '5',
+		lineas: [
+			'“Mi amor siempre puro,',
+			'invariable, eternal,',
+			'en todos los tiempos',
+			'te habrá de guardar;',
+			'seré con mi pueblo',
+			'paciente Pastor,',
+			'que es de sus ovejas',
+			'el fiel protector.”']
+	},{
+		nombre: '',
+		lineas: [
+			'6. “Al alma que anhele',
+			'la paz que hay en mí,',
+			'jamás en sus luchas',
+			'la habré de dejar;',
+			'aún cuando el infierno',
+			'la quiera perder,',
+			'yo nunca, no, nunca',
+			'la habré de olvidad.”']
+	}]
+}
+himnos[380] = {
+	numero: 380,
+	titulo: 'Del alba al despuntar',
+	intro: 'Alabaré de mañana tu misericordia. Sal. 59.16',
+	referencias: [
+	'1- Neh. 9.5  ',
+	'2- Sal. 34.1 ',
+	'3- 2 Co. 1.4 ',
+	'',
+	],
+	autores: [
+	'LETRA: Edward Caswall     ',
+	'MÚSICA: Joseph Barnby',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Del alba al despuntar,',
+			'oh, mi alma sin tardar',
+			'¡bendice al buen Jesús!',
+			'Y luego al emprender',
+			'la senda del deber,',
+			'¡bendice al buen Jesús!']
+	},{
+		nombre: '2',
+		lineas: [
+			'En calma y dulce paz,',
+			'en horas de solaz',
+			'¡bendice al buen Jesús!',
+			'En tiempo de aflicción,',
+			'en ruda tentación,',
+			'¡bendice al buen Jesús!']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si atribulado estás,',
+			'consuelo en él tendrás,',
+			'¡bendice al buen Jesús!',
+			'En este mundo cruel,',
+			'seguro amparo es él,',
+			'¡bendice al buen Jesús!']
+	}]
+}
+himnos[381] = {
+	numero: 381,
+	titulo: 'Cristo me ayuda por él a vivir',
+	intro: 'Al Señor busqué en el día de mi angustia. Sal. 77.2',
+	referencias: [
+	'1- 2 Cr. 32.8    ',
+	'2- Sal. 70.5     ',
+	'3- Sal. 40.17    ',
+	'4- Sal. 59.16-17 ',
+	'C- Jn. 5.21      ',
+	'',
+	],
+	autores: [
+	'LETRA: Daniel W. Whittle 1893, trad. Modesto González',
+	'MÚSICA: May Whittle Moody, 1893',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Cristo me ayuda por él a vivir,',
+			'Cristo me ayuda por él a morir,',
+			'hasta que llegue su gloria a ver,',
+			'cada momento le entrego mi ser.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Cada momento la vida me da,',
+			'cada momento conmigo él está;',
+			'hasta que llegue su gloria a ver,',
+			'cada momento le entrego mi ser.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Siento pesares, muy cerca él está,',
+			'siento dolores, alivio me da;',
+			'tengo aflicciones,',
+			'me muestra su amor;',
+			'cada momento me cuidas, Señor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Tengo amarguras o tengo temor,',
+			'tengo tristezas, me inspira valor;',
+			'tengo conflictos o penas aquí,',
+			'cada momento se acuerda de mí.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Tengo flaquezas o débil estoy,',
+			'Cristo me dice: “Tu amigo yo soy”;',
+			'cada momento, en tinieblas o en luz,',
+			'siempre conmigo está mi Jesús.']
+	}]
+}
+himnos[382] = {
+	numero: 382,
+	titulo: 'En los días de prueba',
+	intro: 'Siempre te sustentaré con la diestra de mi justicia. Is. 41.10',
+	referencias: [
+	'1- Dt. 4.7      ',
+	'2- Is. 40.29    ',
+	'3- Hch. 2.25-26 ',
+	'4- Sal. 31.5    ',
+	'C- Sal. 109.31  ',
+	'',
+	],
+	autores: [
+	'LETRA: Eleazar Z. Pérez',
+	'MÚSICA: Henry P. Morton',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'En los días de prueba',
+			'y de lucha cruel',
+			'mi alma auxilio jamás halló,',
+			'pero vino presto el amigo fiel,',
+			'con su diestra la mía estrechó.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Con su diestra la mía estrechó,',
+			'con su diestra la mía estrechó;',
+			'en los días de prueba',
+			'y de oscuridad',
+			'él su diestra en la mía estrechó.',
+			'Amén.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Si cansado y triste',
+			'en el mundo estoy',
+			'y me siento desfallecer,',
+			'el se acerca luego, doquier yo voy,',
+			'y me alienta con su poder.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Cuando duda cruel',
+			'vino a mi redor',
+			'y su plan ver no pude yo,',
+			'la divina fe diome el Salvador,',
+			'con su diestra la mía estrechó.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Que al pasar el valle',
+			'de angustia cruel',
+			'por la senda que él cruzó,',
+			'pueda yo exclamar',
+			'con acento fiel:',
+			'“Con su diestra la mía estrechó”.']
+	}]
+}
+himnos[383] = {
+	numero: 383,
+	titulo: 'Grande gozo hay en mi alma',
+	intro: 'Regocijaos en el Señor siempre. Flp. 4.4.',
+	referencias: [
+	'1- Ro. 15.13  ',
+	'2- Sal. 45.1  ',
+	'3- Flp. 4.7   ',
+	'4- 1 Ts. 5.18 ',
+	'C- Sal. 48.2  ',
+	'',
+	],
+	autores: [
+	'LETRA: Eliza E. Hewitt, 1887',
+	'MÚSICA: John R. Sweney, 1887',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Grande gozo',
+			'hay en mi alma hoy,',
+			'pues Jesús conmigo está;',
+			'y su paz, que ya gozando estoy,',
+			'por siempre durará.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Grande gozo, maravilloso;',
+			'paso todo el tiempo bien feliz,',
+			'porque veo de Cristo',
+			'la sonriente faz,',
+			'grande gozo siento en mí.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Hay un canto',
+			'en mi alma hoy,',
+			'melodías a mi Rey;',
+			'en su amor feliz y libre soy,',
+			'y salvo por la fe.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Paz divina',
+			'hay en mi alma hoy,',
+			'porque Cristo me salvó;',
+			'las cadenas rotas ya están,',
+			'Jesús me libertó.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Gratitud hay',
+			'en mi alma hoy,',
+			'y alabanzas a Jesús;',
+			'por su gracia, a la gloria voy,',
+			'gozándome en la luz.']
+	}]
+}
+himnos[384] = {
+	numero: 384,
+	titulo: 'Si no fuera por ti',
+	intro: 'Si alguno está en Cristo, nueva criatura es. 2 Co. 5.17',
+	referencias: [
+	'1- Ec. 1.2  ',
+	'2- Is. 64.6 ',
+	'3- 1 P. 1.8 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Juan M. Isáis, arr. Javier Arjona G.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Si no fuera por ti,',
+			'Cristo mi Salvador,',
+			'¿qué sería yo en la vida?',
+			'Si no fuera por ti,',
+			'esta vida feliz',
+			'sería desconocida.',
+			'Si no fuera por ti,',
+			'no sería lo que soy,',
+			'sería alma perdida.',
+			'Si no fuera por ti,',
+			'no sería lo que soy,',
+			'no sería feliz.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Si no fuera por ti,',
+			'Cristo mi Salvador,',
+			'sería gota en desierto.',
+			'Si no fuera por ti,',
+			'sería hoja infeliz',
+			'llevada por el viento.',
+			'Si no fuera por ti,',
+			'no tendría razón',
+			'de vivir o morir.',
+			'Si no fuera por ti,',
+			'no sería lo que soy,',
+			'no sería feliz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si no fuera por ti,',
+			'Cristo mi Salvador,',
+			'no conociera el gozo.',
+			'Si no fuera por ti,',
+			'oh divino Señor,',
+			'no tendría reposo.',
+			'Si no fuera por ti,',
+			'no podría seguir',
+			'en tus pasos, oh Cristo.',
+			'Si no fuera por ti,',
+			'no sería lo que soy,',
+			'no sería feliz.']
+	}]
+}
+himnos[385] = {
+	numero: 385,
+	titulo: 'Corazones siempre alegres',
+	intro: 'Te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos. Sal. 32.8',
+	referencias: [
+	'1- 1 Jn. 2.14 ',
+	'2- Is. 31.5   ',
+	'3- 1 S. 17.32 ',
+	'4- 2 Ti. 4.17 ',
+	'C- Sal. 5.11  ',
+	'',
+	],
+	autores: [
+	'LETRA: Johann Abraham Reitz, s. XIX, trad. C. Ihlow',
+	'MÚSICA: Victor Riveros',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Corazones siempre alegres,',
+			'rebosando gratitud,',
+			'somos los que a Dios amamos,',
+			'redimida juventud.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Siempre alegres vamos todos,',
+			'llenos de felicidad;',
+			'/hermosísimo el camino',
+			'hacia la eternidad./']
+	},{
+		nombre: '2',
+		lineas: [
+			'Dios nos guía de la mano,',
+			'nos ampara su poder;',
+			'es su brazo poderoso',
+			'que nos quiere defender.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si nos viera desmayados',
+			'en nuestra debilidad,',
+			'con su gracia nos anima,',
+			'nos levanta su bondad.']
+	},{
+		nombre: '4',
+		lineas: [
+			'En sus fuerzas llevaremos',
+			'aún con gozo nuestra cruz;',
+			'luego con él cantaremos',
+			'en la gloria de su luz.']
+	}]
+}
+himnos[386] = {
+	numero: 386,
+	titulo: 'Dulces melodías cantaré',
+	intro: 'Cantad a Jehová, porque en extremo se ha engrandecido. Ex. 15.21',
+	referencias: [
+	'1- Sal. 29.2  ',
+	'2- Ec. 2.23   ',
+	'3- Ap. 21.6   ',
+	'4- 1 S. 26.24 ',
+	'C- Dt. 32.3   ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Luther B. Bridgers, trad. S. D. Athans',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Dulces melodías cantaré,',
+			'y alabanzas al Señor,',
+			'a su nombre gloria yo daré',
+			'por su inefable amor.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'De Jesús el nombre,',
+			'dulce es para mí,',
+			'canta el alma mía',
+			'melodías a mi Rey.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Yo vivía en sombras y en dolor,',
+			'triste, herido, pobre y vil,',
+			'mas la tierna mano del Señor',
+			'me llevó a su redil.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Fuente perennal de gracia hallé',
+			'al amparo de su amor,',
+			'su sonriente faz me imparte fe,',
+			'esperanza y valor.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Aunque por el valle de aflicción',
+			'tenga que pasar aquí,',
+			'mi Jesús dará su protección,',
+			'él se acordará de mí.']
+	}]
+}
+himnos[387] = {
+	numero: 387,
+	titulo: 'El cielo canta alegría',
+	intro: 'Os digo que así habrá más gozo en el cielo. Lc. 15.7',
+	referencias: [
+	'1- Hch. 4.13   ',
+	'2- Ro. 5.5     ',
+	'3- 1 Cr. 16.23 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Pablo Sosa, arr. Javier Arjona G.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'El cielo canta alegría, ¡aleluya!',
+			'porque en tu vida y la mía',
+			'brilla la gloria de Dios.',
+			'¡Aleluya! ¡Aleluya!',
+			'¡Aleluya! ¡Aleluya!',
+			'(¡Aleluya! ¡Aleluya!)']
+	},{
+		nombre: '2',
+		lineas: [
+			'El cielo canta alegría, ¡aleluya!',
+			'porque a tu vida y la mía',
+			'las une el amor de Dios.',
+			'¡Aleluya! ¡Aleluya!',
+			'¡Aleluya! ¡Aleluya!',
+			'(¡Aleluya! ¡Aleluya!)']
+	},{
+		nombre: '3',
+		lineas: [
+			'El cielo canta alegría, ¡aleluya!',
+			'porque tu vida y la mía',
+			'proclamarán al Señor.',
+			'¡Aleluya! ¡Aleluya!',
+			'¡Aleluya! ¡Aleluya!',
+			'(¡Aleluya! ¡Aleluya!)']
+	}]
+}
+himnos[388] = {
+	numero: 388,
+	titulo: 'Gozo da servir a Cristo',
+	intro: 'El gozo de Jehová es vuestra fuerza. Neh. 8.10',
+	referencias: [
+	'1- Sal. 100.2 ',
+	'2- 1 P. 1.6-8 ',
+	'3- Stg. 2.2   ',
+	'C- 1 Ts. 5.16 ',
+	'',
+	],
+	autores: [
+	'LETRA: Oswald J. Smith, 1931, trad. Edith T. Sholin',
+	'MÚSICA: Bentley D. Ackley, 1931',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Gozo da servir a Cristo',
+			'en la vida diaria aquí;',
+			'gozo que con alegría',
+			'siempre él me da a mí.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Gozo hay, sí, en servir a Cristo;',
+			'gozo en el corazón.',
+			'Cada día él da poder,',
+			'me ayuda a vencer,',
+			'y da gozo, gozo en el corazón.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Gozo da servir a Cristo,',
+			'gozo que triunfante está',
+			'en la pena o tristeza;',
+			'Cristo en todo vence ya.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Gozo da servir a Cristo,',
+			'gozo en la oscuridad,',
+			'porque tengo el secreto',
+			'de la luz de la verdad.']
+	}]
+}
+himnos[389] = {
+	numero: 389,
+	titulo: 'Gracias, Dios, tú nos inundas con tu amor',
+	intro: 'Gracias te damos, oh Dios, gracias te damos. Sal. 75.1',
+	referencias: [
+	'1- Ro. 5.5   ',
+	'2- Sal. 34.5 ',
+	'3- Flp. 4.7  ',
+	'4- Lc. 1.77  ',
+	'5- Ef. 3.20  ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Autor desconocido, arm. Israel Ramírez Sabag',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Gracias, Dios,',
+			'tú nos inundas con tu amor;',
+			'gracias, Dios,',
+			'tú nos inundas con tu amor.',
+			'Cuando tu palabra llega',
+			'a nuestro corazón,',
+			'gracias, Dios,',
+			'tú nos inundas con tu amor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Gracias, Dios,',
+			'tú nos alumbras con tu luz;',
+			'gracias, Dios,',
+			'tú nos alumbras con tu luz.',
+			'Cuando tu palabra llega',
+			'a nuestro corazón,',
+			'gracias, Dios,',
+			'tú nos alumbras con tu luz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Gracias, Dios,',
+			'tú nos visitas con tu paz;',
+			'gracias, Dios,',
+			'tú nos visitas con tu paz.',
+			'Cuando tu palabra llega',
+			'a nuestro corazón,',
+			'gracias, Dios,',
+			'tú nos visitas con tu paz.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Gracias, Dios,',
+			'tú nos impartes tu perdón;',
+			'gracias, Dios,',
+			'tú nos impartes tu perdón.',
+			'Cuando tu palabra llega',
+			'a nuestro corazón,',
+			'gracias, Dios,',
+			'tú nos impartes tu perdón.']
+	},{
+		nombre: '5',
+		lineas: [
+			'Gracias, Dios,',
+			'tú nos otorgas tu poder;',
+			'gracias, Dios,',
+			'tú nos otorgas tu poder.',
+			'Cuanto tu palabra llega',
+			'a nuestro corazón,',
+			'gracias, Dios,',
+			'tú nos otorgas tu poder.']
+	}]
+}
+himnos[390] = {
+	numero: 390,
+	titulo: '¡Tan dulce el nombre de Jesús!',
+	intro: 'Proclamaré el nombre de Jehová delante de ti. Ex. 33.19',
+	referencias: [
+	'1- Sal. 103.1 ',
+	'2- Ap. 15.4   ',
+	'3- Hch. 10.43 ',
+	'4- Sal. 115.1 ',
+	'C- Flp. 1.20  ',
+	'',
+	],
+	autores: [
+	'LETRA: A. Mejía',
+	'MÚSICA: E. S. Lorenz',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¡Tan dulce el nombre de Jesús!',
+			'Sus bellas notas al cantar,',
+			'que mi alma llena al proclamar',
+			'el nombre de Jesús.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Cristo, ¡oh, qué dulce es!',
+			'Cristo, para siempre es;',
+			'Cristo, yo te aclamaré',
+			'por siempre, ¡oh, mi Cristo!']
+	},{
+		nombre: '2',
+		lineas: [
+			'Adoro el nombre de Jesús,',
+			'jamás me faltará su amor;',
+			'y pone aparte mi dolor',
+			'el nombre de Jesús.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Tan puro el nombre de Jesús',
+			'que mi pesar logró quitar,',
+			'y grata paz a mi alma da',
+			'el nombre de Jesús.']
+	},{
+		nombre: '4',
+		lineas: [
+			'El dulce nombre de Jesús',
+			'por siempre quiero alabar;',
+			'y todos deben ensalzar',
+			'el nombre de Jesús.']
+	}]
+}
+himnos[391] = {
+	numero: 391,
+	titulo: 'Suenan melodías en mi ser',
+	intro: 'Cantando y alabando al Señor en vuestros corazones. Ef. 5.19',
+	referencias: [
+	'1- Is. 30.29 ',
+	'2- Tit. 3.6  ',
+	'3- Ap. 14.3  ',
+	'C- Is. 44.23 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Elton M. Roth, trad. S. D. Athans',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Del Dios del cielo oí un canto',
+			'melodioso, arrobador;',
+			'lo cantaré con gozo y gratitud,',
+			'con muy dulce y tierno amor.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Suenan melodías en mi ser',
+			'de un canto celestial,',
+			'sonoro, angelical;',
+			'suenan melodías en mi ser',
+			'de un dulce canto celestial.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Amo a Jesús, que en el Calvario',
+			'mis pecados ya borró;',
+			'mi corazón se inflama en santo amor',
+			'que en mi ser él derramó.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Será mi tema allá en la gloria,',
+			'del gran trono en derredor,',
+			'cantar con gozo y con gratitud,',
+			'alabanzas al Señor.']
+	}]
+}
+himnos[392] = {
+	numero: 392,
+	titulo: '¿Cómo podré estar triste?',
+	intro: 'Se fue la mujer por su camino, y no estuvo más triste. 1 S. 1.18',
+	referencias: [
+	'1- Mt. 6.26   ',
+	'2- Dt. 20.3   ',
+	'3- Sal. 121.8 ',
+	'C- Lc. 12.24  ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Charles H. Gabriel, trad. Vicente Mendoza, arr. Daniel Vázquez V',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¿Cómo podré estar triste?',
+			'¿Cómo entre sombras ir?',
+			'¿Cómo sentirme solo',
+			'y en el dolor vivir?',
+			'Si Cristo es mi consuelo,',
+			'mi amigo siempre fiel,',
+			'si aun las aves tienen',
+			'seguro asilo en él;',
+			'si aun las aves tienen',
+			'seguro asilo en él.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'¡Feliz, cantando alegre',
+			'yo vivo siempre aquí;',
+			'si él cuida de las aves',
+			'cuidará también de mí!']
+	},{
+		nombre: '2',
+		lineas: [
+			'“Nunca te desalientes”,',
+			'oigo al Señor decir,',
+			'y en su palabra fiado',
+			'hago al dolor huir.',
+			'A Cristo, paso a paso,',
+			'yo sigo sin cesar,',
+			'y todas sus bondades',
+			'me da sin limitar.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Siempre que soy tentado',
+			'o que en la sombra estoy,',
+			'más cerca de él camino',
+			'y protegido voy;',
+			'si en mí la fe desmaya',
+			'y caigo en la ansiedad,',
+			'tan sólo él me levanta,',
+			'me da seguridad.']
+	}]
+}
+himnos[393] = {
+	numero: 393,
+	titulo: 'No sé por qué',
+	intro: 'Y se postró a sus pies dándole gracias. Lc. 17.16',
+	referencias: [
+	'1- Dt. 7.7-8  ',
+	'2- Sal. 16.2  ',
+	'C- Sal. 73.25 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Betty Rosas, arr. Obed Valencia',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'No sé por qué,',
+			'Señor, tú me tocaste,',
+			'no sé por qué',
+			'en mí tú te fijaste,',
+			'pero sí sé',
+			'que es grande tu amor por mí.',
+			'Mi corazón está agradecido;',
+			'mi corazón está a ti rendido,',
+			'contigo siempre',
+			'quiero, Señor, estar.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Porque fuera de ti,',
+			'nada deseo en la tierra,',
+			'tu presencia es más hermosa',
+			'que cualquier cosa.',
+			'Porque fuera de ti,',
+			'nada deseo en la tierra,',
+			'tu presencia es más hermosa',
+			'que cualquier cosa.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Eres, Señor,',
+			'mi gozo y mi alegría;',
+			'tú estás, Señor,',
+			'conmigo todo el día,',
+			'en ti yo siempre',
+			'quiero, Señor, estar.']
+	}]
+}
+himnos[394] = {
+	numero: 394,
+	titulo: 'Hay momentos',
+	intro: 'Pienso que ni aún en el mundo cabrían los libros que se habrían de escribir. ',
+	referencias: [
+	'Jn. 21.25',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Autor y compositor desconocidos, Latinoamérica, s. XX, arr. Obed Valencia L., 2001',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Hay momentos',
+			'que las palabras no alcanzan',
+			'para decirte lo que siento,',
+			'bendito Salvador.',
+			'Hay momentos',
+			'que las palabras no alcanzan',
+			'para decirte lo que siento,',
+			'bendito Salvador.',
+			'Yo te agradezco',
+			'por todo lo que has hecho,',
+			'por todo lo que haces,',
+			'por todo lo que harás, Señor.',
+			'Yo te agradezco',
+			'por todo lo que has hecho,',
+			'por todo lo que haces,',
+			'por todo lo que harás.']
+	}]
+}
+himnos[395] = {
+	numero: 395,
+	titulo: 'La gloria de Cristo el Señor cantaré',
+	intro: 'Cantad la gloria de su nombre. Sal. 66.2',
+	referencias: [
+	'1- 2 R. 7.9     ',
+	'2- Nm. 6.26     ',
+	'3- Mt. 14.30-31 ',
+	'4- Cnt. 2.4     ',
+	'C- Zac. 9.17    ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Charles H. Gabriel, trad. Vicente Mendoza',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'La gloria de Cristo',
+			'el Señor cantaré,',
+			'pues llena mi vida',
+			'de gozo y de paz;',
+			'callar los favores',
+			'que de él alcancé,',
+			'mi labio no puede jamás.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Es todo bondad para mí,',
+			'con él nada puedo desear,',
+			'pues todos mis altos',
+			'anhelos aquí',
+			'tan sólo él los puede llenar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'En horas de angustia',
+			'conmigo él está,',
+			'y puedo escuchar',
+			'su dulcísima voz',
+			'que me habla y su paz',
+			'inefable me da,',
+			'la paz infinita de Dios.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si a rudos conflictos',
+			'me mira que voy,',
+			'su mano me tiende,',
+			'me ayuda a luchar;',
+			'“no temas”, me dice,',
+			'“contigo yo estoy”,',
+			'socorro me viene a prestar.']
+	},{
+		nombre: '4',
+		lineas: [
+			'También cuando gozo',
+			'lo miro llegar,',
+			'y entonces mi dicha',
+			'la aumenta el Señor,',
+			'ya llena mi copa,',
+			'la veo rebosar,',
+			'con todos sus dones de amor.']
+	}]
+}
+himnos[396] = {
+	numero: 396,
+	titulo: 'En Cristo feliz es mi alma',
+	intro: 'El que confía en Jehová es bienaventurado. Pr. 16.20',
+	referencias: [
+	'1- Mt. 5.3    ',
+	'2- 1 Jn. 4.19 ',
+	'3- Jer. 31.9  ',
+	'4- 2 Co. 5.4  ',
+	'C- Flp. 4.4   ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Edwin Othello Excell, trad. Epigmenio Velasco',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'En Cristo feliz es mi alma,',
+			'precioso es su celeste don,',
+			'su voz me devuelve la calma,',
+			'su faz me anticipa el perdón.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Yo soy feliz en él,',
+			'yo soy feliz en él,',
+			'el gozo y la paz inundan mi ser,',
+			'pues yo soy feliz en él.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Mucho antes que yo, él buscóme,',
+			'me atrajo a su amado redil;',
+			'de amor, en sus brazos llevóme,',
+			'do hay dichas y encantos a mil.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Su amor paternal me circunda,',
+			'su gracia conforta mi ser,',
+			'su Espíritu Santo me inunda',
+			'de un noble y extraño poder.']
+	},{
+		nombre: '4',
+		lineas: [
+			'A él seré un día semejante',
+			'dejando este cuerpo mortal;',
+			'y mientras, discípulo amante',
+			'ser quiero hasta el final.']
+	}]
+}
+himnos[397] = {
+	numero: 397,
+	titulo: 'Vamos cantando al Señor',
+	intro: 'Cantad a Dios, cantad; cantad a nuestro Rey. Sal. 47.6',
+	referencias: [
+	'C- Hab. 3.18  ',
+	'1- Jn. 1.9    ',
+	'2- 2 S. 22.47 ',
+	'3- Heb. 1.10  ',
+	'4- Jer. 50.19 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Juan Antonio Espinosa, Perú, arm. Israel Ramírez S.',
+	],
+	versos: [{
+		nombre: 'Coro',
+		lineas: [
+			'Vamos cantando al Señor,',
+			'él es nuestra alegría;',
+			'vamos cantando al Señor,',
+			'él es nuestra alegría.']
+	},{
+		nombre: '1',
+		lineas: [
+			'La luz de un nuevo día',
+			'venció la oscuridad,',
+			'que brille en nuestras vidas',
+			'la luz de la verdad.']
+	},{
+		nombre: '2',
+		lineas: [
+			'La roca que nos salva',
+			'es Cristo nuestro Dios;',
+			'lleguemos dando gracias',
+			'a nuestro Redentor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Los cielos y la tierra',
+			'aclaman al Señor,',
+			'que ha hecho maravillas,',
+			'inmenso es su amor.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Unidos, como hermanos,',
+			'venimos a tu altar,',
+			'que llenes nuestras vidas',
+			'de amor y de amistad.']
+	}]
+}
+himnos[398] = {
+	numero: 398,
+	titulo: 'Dad gracias',
+	intro: 'He aprendido a contentarme, cualquiera que sea mi situación. ',
+	referencias: [
+	'Flp. 4.11',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Henry P. Smith',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'/Dad gracias de todo corazón,',
+			'dad gracias al Dios santísimo,',
+			'dad gracias porque',
+			'a su Hijo Jesucristo mandó./',
+			'/Y ahora diga el pobre: “Rico soy”,',
+			'diga el débil: “Fuerte soy”',
+			'por lo que hizo el Señor en mí./']
+	}]
+}
+himnos[399] = {
+	numero: 399,
+	titulo: 'Amémonos, hermanos',
+	intro: 'Éste es el mensaje que habéis oído desde el principio: Que nos amemos unos a otros. 1 Jn. 3.11',
+	referencias: [
+	'1- 1 Jn. 4.7 ',
+	'2- 2 Jn. 3   ',
+	'3- 3 Jn. 6   ',
+	'',
+	],
+	autores: [
+	'LETRA: Juan B. Cabrera',
+	'MÚSICA: En Neuvermehrtes Gesangbuch, Meiningen, 1693, adapt. Félix Mendelssohn, 1847',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Amémonos, hermanos,',
+			'con tierno y puro amor;',
+			'un solo cuerpo somos',
+			'y nuestro Padre es Dios.',
+			'Amémonos, hermanos,',
+			'lo quiere el Salvador,',
+			'que su preciosa sangre',
+			'por todos derramó.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Amémonos, hermanos,',
+			'en dulce comunión;',
+			'y paz, afecto y gracia',
+			'dará el Consolador.',
+			'Amémonos, hermanos,',
+			'y en nuestra santa unión',
+			'no existan asperezas',
+			'ni discordante voz.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Amémonos, hermanos,',
+			'y al mundo pecador',
+			'mostremos cómo viven',
+			'los que salvados son.',
+			'Amémonos, hermanos,',
+			'con todo el corazón;',
+			'lo ordena el Dios y Padre,',
+			'su ley es ley de amor.']
+	}]
+}
+himnos[400] = {
+	numero: 400,
+	titulo: 'Mirad cuán grato es',
+	intro: '¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía! ',
+	referencias: [
+	'Sal. 133.1',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Héctor C. Valdovino',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Mirad cuán grato es',
+			'en comunión vivir,',
+			'y unidos hoy la gloria dar',
+			'y a Cristo bendecir;',
+			'mirad qué gran placer',
+			'inunda nuestra grey,',
+			'loando con veneración',
+			'a nuestro santo Rey.',
+			'Cual lluvia santa es',
+			'cayendo sobre Sion,',
+			'así Jesús derramará',
+			'eterna bendición.',
+			'Gozoso es escuchar',
+			'la grata invitación:',
+			'“Al templo vamos del Señor',
+			'a darle adoración.”']
+	}]
+}
+himnos[401] = {
+	numero: 401,
+	titulo: '¡Oh, amor que excede a todos!',
+	intro: 'Nadie tiene mayor amor que éste. Jn. 15.13',
+	referencias: [
+	'1- Lv. 26.11-12 ',
+	'2- 1 R. 8.58    ',
+	'3- 1 Ts. 3.12   ',
+	'',
+	],
+	autores: [
+	'LETRA: Charles Wesley, trad. Juanita R. Balloch',
+	'MÚSICA: Melodía americana, 1830, arm. Richard Proulx, 1986',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¡Oh, amor que excede a todos,',
+			'don del Padre celestial,',
+			'pon corona a tus mercedes',
+			'y entre nos ven a morar!',
+			'Eres tú, Jesús bendito,',
+			'todo amor y compasión;',
+			'baja al corazón que sufre,',
+			'tráenos tu salvación.']
+	},{
+		nombre: '2',
+		lineas: [
+			'¡Ven, amor, a cada vida,',
+			'mueve toda inclinación,',
+			'guárdanos de mal deseo',
+			'y de andar en tentación!',
+			'Tú el Alfa y Omega',
+			'sé de todo nuestro ser,',
+			'que tu gracia nos proteja',
+			'y sostenga nuestra fe.']
+	},{
+		nombre: '3',
+		lineas: [
+			'¡Oh, amor, no te separes',
+			'de la iglesia terrenal;',
+			'únela estrechamente',
+			'con el lazo fraternal!',
+			'Perfecciona a cada miembro,',
+			'ilumina nuestro andar,',
+			'y que el alma se complazca',
+			'en tu nombre proclamar.']
+	}]
+}
+himnos[402] = {
+	numero: 402,
+	titulo: 'Tu reino amo, oh Dios',
+	intro: 'Más buscad primeramente el reino de Dios . Mt. 6.33',
+	referencias: [
+	'1- Sal. 26.8      ',
+	'2- Heb. 9.1-3, 11 ',
+	'3- Sal. 84.2      ',
+	'4- Lc. 1.33       ',
+	'',
+	],
+	autores: [
+	'LETRA: Timothy Dwight, 1800, trad. Epigmenio Velasco',
+	'MÚSICA: Aaron Williams, 1770',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Tu reino amo, oh Dios,',
+			'tu casa de oración,',
+			'y al pueblo que en Jesús halló',
+			'completa redención.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Tu iglesia, mi Señor,',
+			'su templo, su ritual;',
+			'la iglesia que guiando vas',
+			'con mano paternal.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Un gozo sin igual',
+			'me causa en ella estar;',
+			'por siempre allí tu comunión',
+			'anhelo disfrutar.']
+	},{
+		nombre: '4',
+		lineas: [
+			'Yo sé que durará,',
+			'mi Dios, cual tu verdad,',
+			'y victoriosa llegará',
+			'hasta la eternidad.']
+	}]
+}
+himnos[403] = {
+	numero: 403,
+	titulo: 'Somos uno en Cristo',
+	intro: 'Un Señor, una fe, un bautismo. ',
+	referencias: [
+	'Ef. 4.5',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Autor desconocido, Latinoamérica, s. XX, arr. Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Somos uno en Cristo, somos uno,',
+			'somos uno, uno solo;',
+			'somos uno en Cristo, somos uno,',
+			'somos uno, uno solo.',
+			'Un solo Dios, un solo Señor,',
+			'una sola fe, un solo amor,',
+			'un solo bautismo,',
+			'un solo Espíritu',
+			'y ése es el Consolador.']
+	}]
+}
+himnos[404] = {
+	numero: 404,
+	titulo: 'Un mandamiento nuevo os doy',
+	intro: 'Un mandamiento nuevo os doy: Que os améis unos a otros. Jn. 13.34',
+	referencias: [
+	'1- Jn. 15.12   ',
+	'2- 1 Jn. 3.18  ',
+	'3- Mt. 5.23-24 ',
+	'',
+	],
+	autores: [
+	'LETRA: Basada en Jn. 15.12',
+	'MÚSICA: Autor desconocido, Latinoamérica, s. XX, arr. Daniel Vázquez V.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'/Un mandamiento nuevo os doy:',
+			'Que os améis unos a otros;/',
+			'/como yo os he amado,',
+			'como yo os he amado,',
+			'que os améis unos a otros./']
+	},{
+		nombre: '2',
+		lineas: [
+			'/Amémonos de corazón,',
+			'no de labios ni de oídos;/',
+			'/para cuando Cristo venga,',
+			'para cuando Cristo venga',
+			'nos encuentre apercibidos./']
+	},{
+		nombre: '3',
+		lineas: [
+			'/¿Cómo puedes tú orar',
+			'enojado con tu hermano?',
+			'/Dios no escucha la oración,',
+			'Dios no escucha la oración',
+			'si no te has reconciliado./']
+	}]
+}
+himnos[405] = {
+	numero: 405,
+	titulo: 'Unidos',
+	intro: 'Unidos en amor. ',
+	referencias: [
+	'Col. 2.2',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Benjamín Villanueva, arr. Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Unidos, unidos,',
+			'en tu nombre unidos;',
+			'unidos, unidos,',
+			'en tu nombre unidos,',
+			'pues en este mundo',
+			'paz y amor tendremos,',
+			'pues en este mundo',
+			'paz y amor tendremos;',
+			'unidos, siempre unidos,',
+			'tomados de la mano',
+			'iremos por el mundo',
+			'cantando al Señor,',
+			'la gloria de Jesús',
+			'al fin resplandecerá,',
+			'y al mundo llenará de amor y paz.']
+	}]
+}
+himnos[406] = {
+	numero: 406,
+	titulo: 'Ven a la iglesia conmigo',
+	intro: 'Lo que Salomón se propuso hacer en la casa de Jehová fue prosperado. 2 Cr. 7.11',
+	referencias: [
+	'1- Is. 56.7   ',
+	'2- Sal. 122.1 ',
+	'3- 2 Cr. 6.20 ',
+	'C- Miq. 4.2   ',
+	'',
+	],
+	autores: [
+	'LETRA: C. E. Ballesteros',
+	'MÚSICA: William S. Pitts',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'¿Ves la iglesia que ufana levanta',
+			'la cruz, el glorioso pendón?',
+			'Es mi iglesia, do todo creyente',
+			'alza a Dios su ferviente oración.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Oh, ven, ven, ven, ven,',
+			'ven a la iglesia conmigo,',
+			'oh, ven a adorar al Señor;',
+			'no hay sitio',
+			'más dulce en la tierra,',
+			'que la casa del Padre de amor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Todo allí en armonioso concierto',
+			'rinde culto supremo al Creador;',
+			'¿por qué tú, que su gracia recibes,',
+			'no le adoras viviendo en su amor?']
+	},{
+		nombre: '3',
+		lineas: [
+			'Si es que alientas en tu alma el deseo',
+			'de encontrar el alivio al dolor,',
+			'lleva tu alma ante el trono de gracia',
+			'y a la iglesia de Cristo el Señor.']
+	}]
+}
+himnos[407] = {
+	numero: 407,
+	titulo: 'Somos uno en espíritu',
+	intro: 'En esto conocerán todos que sois mis discípulos, si tuviereis amor. Jn. 13.35',
+	referencias: [
+	'1- Ef. 4.3    ',
+	'2- Gl. 6.2    ',
+	'3- 1 Co. 1.10 ',
+	'C- 1 Jn. 4.12 ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Peter Scholtes, 1966, trad. Federico J. Pagura, alt.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Somos uno en espíritu',
+			'y en el Señor;',
+			'somos uno en espíritu',
+			'y en el Señor,',
+			'y rogamos que un día',
+			'sea total nuestra unión.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'',
+			'Y que somos cristianos',
+			'lo sabrán, lo sabrán',
+			'porque unidos',
+			'estamos en amor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Trabajemos unidos,',
+			'lado a lado en amor;',
+			'trabajemos unidos,',
+			'lado a lado en amor,',
+			'ayudando al vecino,',
+			'como Cristo enseñó.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Marcharemos',
+			'tomados de la mano en unión;',
+			'marcharemos',
+			'tomados de la mano en unión,',
+			'anunciando que en esta tierra']
+	}]
+}
+himnos[408] = {
+	numero: 408,
+	titulo: 'Todos juntos, reunidos',
+	intro: 'Aclamad a Dios con voz de júbilo. Sal. 47.1',
+	referencias: [
+	'1- Sal. 106.47 ',
+	'2- Ex. 34,6    ',
+	'',
+	],
+	autores: [
+	'LETRA: De El Himnario, Nueva York, 1931',
+	'MÚSICA: Ludwig van Beethoven',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Todos juntos, reunidos,',
+			'alabámoste, Señor;',
+			'a los santos escogidos',
+			'les concedes este honor.',
+			'Adorarte y alabarte',
+			'sea nuestra ocupación',
+			'que podamos proclamarte',
+			'Dios de nuestra salvación.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Eres tú, Señor, benigno,',
+			'tú perdonas con amor;',
+			'de alabanzas eres digno,',
+			'infinito bienhechor.',
+			'Siempre seas alabado',
+			'por tu inmensa caridad,',
+			'por millares celebrado',
+			'seas en la eternidad.']
+	}]
+}
+himnos[409] = {
+	numero: 409,
+	titulo: 'Abba, Padre',
+	intro: 'Habéis recibido el espíritu de adopción, por el cual  clamamos: ¡Abba, Padre! ',
+	referencias: [
+	'Ro. 8.15',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Steve Hampton, 1978, arr. Mildred y Manolo Padilla',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Estamos aquí,',
+			'cantando juntos como familia,',
+			'unidos,',
+			'dando alabanzas al Rey de reyes,',
+			'cantando:',
+			'/“Abba, Padre, digno eres tú”./']
+	}]
+}
+himnos[410] = {
+	numero: 410,
+	titulo: 'Con mis labios y mi vida',
+	intro: 'Con labios de júbilo te alabará mi boca. ',
+	referencias: [
+	'Sal. 63.5',
+	],
+	autores: [
+	'LETRA: Basada en el Salmo 63.5',
+	'MÚSICA: Autor desconocido, arr. Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Con mis labios y mi vida',
+			'te alabo, Señor, te alabo, Señor.',
+			'Con mis labios y mi vida',
+			'te alabo, bendito Señor.',
+			'Porque tú has sido',
+			'precioso para mí,',
+			'precioso para mí,',
+			'precioso para mí;',
+			'porque tú has sido',
+			'precioso para mí,',
+			'te alabo, bendito Señor.']
+	}]
+}
+himnos[411] = {
+	numero: 411,
+	titulo: 'En momentos así',
+	intro: 'A ti, oh Jehová, levantaré mi alma. ',
+	referencias: [
+	'Sal. 25.1',
+	],
+	autores: [
+	'LETRA Y MÚSICA: David Graham, 1948, es traducción.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'En momentos así, levanto mi voz,',
+			'levanto mi canto a Cristo;',
+			'en momentos así, levanto mi ser,',
+			'levanto mi alma a él.',
+			'Cuánto te amo, Dios;',
+			'cuánto te amo, Dios;',
+			'cuánto te amo, Dios;',
+			'cuánto te amo, Dios.']
+	}]
+}
+himnos[412] = {
+	numero: 412,
+	titulo: 'Glorifícate',
+	intro: 'La gloria postrera de esta casa será mayor que la primera. Hag. 2.9',
+	referencias: [
+	'1- Hag. 1.8 ',
+	'2-Sal. 5.7  ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Billy Funk, arr. Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Glorifícate, glorifícate,',
+			'glorifícate, glorifícate;',
+			'sobre la tierra y los cielos',
+			'seas tú glorificado;',
+			'recibe gloria en tu templo.',
+			'Jesús, Jesús, glorifícate,',
+			'Jesús, Jesús, glorifícate.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Adorémosle, adorémosle,',
+			'adorémosle, adorémosle,',
+			'sobre la tierra y los cielos',
+			'a nuestro Dios adoremos,',
+			'démosle gloria en su templo.',
+			'Jesús, Jesús, glorifícate,',
+			'Jesús, Jesús, glorifícate.']
+	}]
+}
+himnos[413] = {
+	numero: 413,
+	titulo: 'Háblame hoy',
+	intro: 'Habla, Jehová, porque tu siervo oye. ',
+	referencias: [
+	'1 S. 3.9',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Vengo a buscarte a ti, Señor,',
+			'para rendir mi corazón',
+			'en alabanza a tu nombre',
+			'y entrar de ti en comunión,',
+			'y escuchar tu dulce voz,',
+			'háblame hoy, háblame hoy.',
+			'Hazme obediente a tu palabra,',
+			'hazme hacer tu voluntad',
+			'y que tu senda siempre siga,',
+			'y que te agrade a ti, Señor.',
+			'Hazme sensible a tu Espíritu,',
+			'hazme sensible a tu voz;',
+			'háblame hoy, háblame hoy,',
+			'háblame hoy.']
+	}]
+}
+himnos[414] = {
+	numero: 414,
+	titulo: 'Traemos sacrificio  de alabanza',
+	intro: 'Ofrezcamos siempre a Dios, por medio de él, sacrificio de alabanza.',
+	referencias: [
+	' Heb. 13.15',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Kirk Deuman, es traducción.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Traemos sacrificio de alabanza',
+			'a la casa del Señor,',
+			'traemos sacrificio de alabanza',
+			'a la casa del Señor;',
+			'y le ofrecemos hoy',
+			'sacrificio de gratitud,',
+			'y le ofrecemos hoy',
+			'sacrificio de amor.']
+	}]
+}
+himnos[415] = {
+	numero: 415,
+	titulo: 'Del culto el tiempo llega',
+	intro: 'Guarda silencio ante Jehová, y espera en él. Sal. 37.7',
+	referencias: [
+	'1- Sof. 1.7 ',
+	'2- Dn. 7.10 ',
+	'3- Sal. 1.2 ',
+	'',
+	],
+	autores: [
+	'LETRA: Ray Palmer, trad. Samuel J. Stone',
+	'MÚSICA: Samuel S. Wesley',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Del culto el tiempo llega,',
+			'comienza la oración,',
+			'el alma a Dios, se entrega:',
+			'¡Silencio y atención!',
+			'Si al santo Dios plegaria',
+			'queremos elevar,',
+			'silencio reverente',
+			'habremos de guardar.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Mil coros celestiales',
+			'a Dios cantando están,',
+			'a ellos los mortales',
+			'sus voces unirán.',
+			'Alcemos, pues, el alma',
+			'con santa devoción,',
+			'gozando en dulce calma',
+			'de Dios la comunión.']
+	},{
+		nombre: '3',
+		lineas: [
+			'La Biblia bendecida,',
+			'de Dios revelación,',
+			'a meditar convida',
+			'en nuestra condición.',
+			'¡Silencio! que ha llegado',
+			'del culto la ocasión.',
+			'Dios se halla a nuestro lado,',
+			'silencio y devoción.']
+	}]
+}
+himnos[416] = {
+	numero: 416,
+	titulo: 'Hoy es día de reposo',
+	intro: 'Acuérdate del día de reposo para santificarlo. Ex. 20.8',
+	referencias: [
+	'1- Ez. 20.12   ',
+	'2- Mc. 2.27-28 ',
+	'3- Heb. 4.3-11 ',
+	'',
+	],
+	autores: [
+	'LETRA: Mateo Cosido',
+	'MÚSICA: Asa Hull',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Hoy es día de reposo,',
+			'el gran día de solaz;',
+			'es el día venturoso',
+			'que nos trae dulce paz.',
+			'Es el día señalado',
+			'con el sello del amor,',
+			'nuestro Dios lo ha designado:',
+			'es el día del Señor.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Celebremos a porfía',
+			'al autor de aquel buen don,',
+			'que nos da el festivo día,',
+			'y se goza en el perdón.',
+			'Aceptemos hoy con gozo',
+			'el descanso semanal,',
+			'esperando el día glorioso',
+			'del reposo celestial.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Los que a ti nos acercamos',
+			'por Jesús, Dios de verdad,',
+			'hoy alegres proclamamos',
+			'tu justicia y tu bondad.',
+			'En los fastos de la historia',
+			'siempre se celebrará,',
+			'y en los cielos su memoria',
+			'por los siglos durará.']
+	}]
+}
+himnos[417] = {
+	numero: 417,
+	titulo: 'Jehová está en su santo templo',
+	intro: 'Jehová está en su santo templo; calle delante de él toda la tierra.',
+	referencias: [
+	' Hab. 2.20',
+	],
+	autores: [
+	'LETRA: Basada en Hab. 2.20',
+	'MÚSICA: George F. Root',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Jehová está en su santo templo,',
+			'Jehová está en su santo templo;',
+			'guardad silencio reverente,',
+			'guardad silencio, guardad silencio.',
+			'Silencio, silencio, silencio.']
+	}]
+}
+himnos[418] = {
+	numero: 418,
+	titulo: 'Nos hemos reunido',
+	intro: 'Donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos. Mt. 18.20',
+	referencias: [
+	'1- Sal. 26.7    ',
+	'2- 2 S. 8.14-15 ',
+	'3- Sal. 57.1-2  ',
+	'',
+	],
+	autores: [
+	'LETRA: Del holandés, 1625, trad. ingl. Theodoro Baker, trad. cast. Juanita de Balloch',
+	'MÚSICA: Melodía folklórica holandesa, arr. Edward Kremser',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Nos hemos reunido',
+			'en el nombre de Cristo,',
+			'para agradecer tus bondades,',
+			'oh Dios;',
+			'con muchos cuidados',
+			'nos has socorrido;',
+			'¡loado sea tu nombre,',
+			'bendito tu amor!']
+	},{
+		nombre: '2',
+		lineas: [
+			'Nos has conducido',
+			'en nuestro sendero,',
+			'nos has circundado',
+			'de bienes y honor;',
+			'por eso, Dios Santo,',
+			'tu pueblo reunido,',
+			'a ti eleva preces',
+			'de gloria y loor.']
+	},{
+		nombre: '3',
+		lineas: [
+			'Tu nombre alabamos,',
+			'Señor victorioso;',
+			'en todas las luchas',
+			'concédenos paz;',
+			'tu amor nos ampare,',
+			'tu reino nos venga',
+			'y sea a ti la gloria',
+			'por siempre jamás. Amén.']
+	}]
+}
+himnos[419] = {
+	numero: 419,
+	titulo: 'Señor, ¿quién entrará?',
+	intro: '¿Quién subirá al monte de Jehová? ¿Quién estará en su lugar santo? Sal. 24.3',
+	referencias: [
+	'1- Sal. 15.1-2   ',
+	'2- Dt. 23.10, 14 ',
+	'',
+	],
+	autores: [
+	'LETRA: Basada en Salmo 24.3-4',
+	'MÚSICA: Autor desconocido, Latinoamérica, s. XX, arr. Felipe Blycker J.',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'/Señor, ¿quién entrará',
+			'en tu santuario para adorar?/',
+			'/El de manos limpias,',
+			'de corazón puro',
+			'y sin vanidades,',
+			'que sepa amar./']
+	},{
+		nombre: '2',
+		lineas: [
+			'/Señor, yo quiero entrar',
+			'en tu santuario para adorar./',
+			'/Dame manos limpias',
+			'y un corazón puro',
+			'y sin vanidades,',
+			'enséñame a amar./']
+	}]
+}
+himnos[420] = {
+	numero: 420,
+	titulo: 'Quiero levantar mis manos',
+	intro: 'Al Cordero sea la alabanza, la honra, la gloria.',
+	referencias: [
+	'Ap. 5.13',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Miguel Cassina, arr. Obed Valencia L.',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Quiero levantar mis manos,',
+			'quiero levantar mi voz,',
+			'ofreciendo a ti mi vida',
+			'en santidad y amor.',
+			'Padre, sólo a ti te ofrezco',
+			'mi vida y mi corazón,',
+			'y me postro en tu presencia',
+			'en adoración.',
+			'',
+			'Hijo de Dios, recibe hoy',
+			'toda la gloria, la honra y honor.',
+			'Hijo de Dios, recibe hoy',
+			'toda la gloria, la honra y honor.']
+	}]
+}
+himnos[421] = {
+	numero: 421,
+	titulo: 'Tiernas canciones alzad al Señor',
+	intro: 'El tiempo de la canción ha venido. Cnt. 2.12',
+	referencias: [
+	'1- Is. 12.6     ',
+	'2- Zac. 9.16-17 ',
+	'C- Sal. 19.1    ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Adam Geibel, trad. Vicente Mendoza',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Tiernas canciones',
+			'alzad al Señor,',
+			'himnos que lleven',
+			'del alma la fe',
+			'y hablen muy alto',
+			'del férvido amor',
+			'que hay en el pecho',
+			'del hombre que cree.',
+			'Vengan trayendo',
+			'ferviente canción,',
+			'niños y ancianos,',
+			'de Dios al altar,',
+			'traigan a él su corazón,',
+			'único don que podrá aceptar.']
+	},{
+		nombre: 'Coro',
+		lineas: [
+			'Cielo y tierra canten',
+			'al Señor de las naciones,',
+			'cielo y tierra canten',
+			'al Señor de las naciones,',
+			'y los redimidos,',
+			'con alegres corazones,',
+			'sirvan al Señor,',
+			'que vida y paz siempre les da.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Él es la fuente',
+			'de toda bondad,',
+			'es de la vida',
+			'la luz y el calor,',
+			'sólo él nos libra',
+			'de cruel ansiedad,',
+			'sólo él aleja',
+			'del alma el dolor;',
+			'digno es, por tanto,',
+			'que el hombre le dé',
+			'gloria y honor',
+			'que resuenen doquier;',
+			'vamos a él llenos de fe,',
+			'nos salvará',
+			'con su gran poder.']
+	}]
+}
+himnos[422] = {
+	numero: 422,
+	titulo: 'Quiero alabarte',
+	intro: 'Alabad a Jehová, invocad su nombre. 1 Cr. 16.8',
+	referencias: [
+	'1- Dt. 10.11 ',
+	'2- Cnt. 7.12 ',
+	'3- Ap. 7.15  ',
+	'',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Samuel Scott y Randy Thomas, 1954, es traducción',
+	],
+	versos: [{
+		nombre: '1',
+		lineas: [
+			'Quiero alabarte más y más aún,',
+			'quiero alabarte más y más aún;',
+			'buscar tu voluntad,',
+			'tu gracia conocer, quiero alabarte.']
+	},{
+		nombre: '2',
+		lineas: [
+			'Quiero amarte más y más aún,',
+			'(Las aves del cielo cantan para ti,)',
+			'quiero amarte más y más aún;',
+			'(las bestias del campo reflejan tu poder)',
+			'buscar tu voluntad,',
+			'(quiero cantar,)',
+			'tu gracia conocer, quiero amarte.',
+			'(quiero levantar a ti mi canto).']
+	},{
+		nombre: '3',
+		lineas: [
+			'Quiero servirte más y más aún,',
+			'(Las aves del cielo cantan para ti,)',
+			'quiero servirte más y más aún;',
+			'(las bestias del campo reflejan tu poder)',
+			'buscar tu voluntad,',
+			'(quiero cantar,)',
+			'tu gracia conocer, quiero servirte.',
+			'(quiero levantar a ti mi canto).']
+	}]
+}
+himnos[423] = {
+	numero: 423,
+	titulo: 'Te amo, Dios',
+	intro: 'El día del gozo de su corazón. ',
+	referencias: [
+	'Cnt. 3.11',
+	],
+	autores: [
+	'LETRA Y MÚSICA: Laurie Klein, 1978',
+	],
+	versos: [{
+		nombre: '',
+		lineas: [
+			'Te amo, Dios, y levanto mi voz',
+			'para adorar y gozarme en ti;',
+			'regocíjate y escucha, mi Rey,',
+			'que sea un dulce sonar para ti.']
+	}]
+}

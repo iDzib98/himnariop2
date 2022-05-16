@@ -3,6 +3,10 @@ import './reveal.js' //Para pruebas en src
 
 export const cargar_himno = (himno) => {
     let color = localStorage.getItem('color')
+    if (!color) {
+      localStorage.setItem('color', 'indigo')
+      color = 'indigo'
+  }
     body.innerHTML = ''
 
     localStorage.setItem('himnoActual', himno.numero)
@@ -158,7 +162,7 @@ export const cargar_himno = (himno) => {
         `
         let firstSlide = document.createElement('section')
         firstSlide.innerHTML = `<div>
-        <h1>Himno ${himno.numero}. ${himno.titulo}</h1>
+        <h2>Himno ${himno.numero}. ${himno.titulo}</h2>
         <p style="width: 100%; text-align: left !important;">${himno.intro}</p>
         <ul style="width: 100%; text-align: right !important; list-style-type: none;">${referencias.innerHTML}</ul>
         </div>
@@ -189,8 +193,6 @@ export const cargar_himno = (himno) => {
         let lastSlide = document.createElement('section')
         lastSlide.innerHTML = `<div>
         <ul>${listaAutores.innerHTML}</ul>
-        <br><br>
-        <small>Presiones [Esc] dos veces para salir.</small>
         </div>
         `
 
@@ -202,11 +204,10 @@ export const cargar_himno = (himno) => {
         deck1.initialize();
 
         setTimeout(()=>{
-            deck1.slide(1);
+            deck1.slide(0);
             setTimeout(()=>{
-                deck1.slide(0);
-                launchFullScreen(main)
-            }, 0)
+              launchFullScreen(main)
+            }, 500)
         }, 0)
 
         function launchFullScreen(element) {
