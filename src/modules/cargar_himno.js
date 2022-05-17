@@ -1,5 +1,5 @@
-import './reveal.js' //Para pruebas en src
-//import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
+//import './reveal.js' //Para pruebas en src
+import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
 
 export const cargar_himno = (himno) => {
     let color = localStorage.getItem('color')
@@ -54,7 +54,7 @@ export const cargar_himno = (himno) => {
     &nbsp
     <a class="btn-floating blue waves-effect" onclick="window.print()"><i class="material-icons">print</i></a>
     &nbsp
-    <a class="btn-floating indigo waves-effect" onclick="navigator.share({title: 'Himno ${himno.numero}. ${himno.titulo}', text: '${himno.intro}', url: '${location.href}'})"><i class="material-icons">share</i></a>
+    <a class="btn-floating indigo waves-effect" onclick="navigator.share({title: 'Himno ${himno.numero}. ${himno.titulo}', text: 'Himno ${himno.numero}. ${himno.titulo}', url: '${location.href}'})"><i class="material-icons">share</i></a>
     `
 
     let intro = document.createElement('p')
@@ -117,7 +117,7 @@ export const cargar_himno = (himno) => {
     reproductor.innerHTML = `
     <audio id="player" src="https://a16016344.github.io/himnariop/himno/mp3/${himno.numero.toString().padStart(3, '0')}.mp3" type="audio/mp3"></audio>
     <div class="fixed-action-btn">
-  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green" id="btnPlay" hide>
+  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green hide" id="btnPlay">
     <i class="large material-icons">play_arrow</i>
   </button>
   <ul>
@@ -131,6 +131,14 @@ export const cargar_himno = (himno) => {
     body.appendChild(main)
 
     window.scrollTo(0, 0);
+
+    player.onended = () => {
+      btnPlay.classList.remove('pulse')
+    }
+
+    player.oncanplaythrough = () => {
+      btnPlay.classList.remove('hide')
+    }
 
     btnPartitura.addEventListener('click', () => {
         refresh.classList.remove('hide')
