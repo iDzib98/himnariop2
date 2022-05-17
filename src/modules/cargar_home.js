@@ -1,4 +1,3 @@
-import { cargar_himno } from "./cargar_himno.js";
 import { himnos } from "./himnos.js";
 
 let color = localStorage.getItem('color')
@@ -8,6 +7,16 @@ if (!color) {
 }
 
 let darkMode = localStorage.getItem('darkMode')
+
+export let favoritos = localStorage.getItem('favoritos')
+if (!favoritos) {
+  favoritos = []
+} else {
+  favoritos = favoritos.split(',')
+}
+favoritos.forEach((favorito) => {
+  console.log(himnos[favorito])
+})
 
 export const cargar_home = () => {
   body.innerHTML = ''
@@ -39,12 +48,28 @@ export const cargar_home = () => {
     main.classList.add('container')
 
     let btnFloating = crearElemento('div', `
-    <a class="btn-floating btn-large amber waves-effect">
+    <a class="btn-floating btn-large amber waves-effect modal-trigger" href="#favoritosModal">
     <i class="large material-icons">star</i>
     </a>
     `, ['fixed-action-btn'])
     let btns = crearElemento('p', '', [])
+
+    let listaFavoritos = crearElemento('ul', '', ['collection'])
+    favoritos.forEach(favorito => {
+      let li = crearElemento('li', `<a href="#${himnos[favorito].numero}" class="white-text modal-close">${himnos[favorito].numero}. ${himnos[favorito].titulo}</a>`, ['collection-item', color, 'white-text'])
+      listaFavoritos.appendChild(li)
+    })
     
+    let favoritosModal = crearElemento('aside', `<div class="modal-content">
+    <h4>Favoritos</h4>
+    ${listaFavoritos.outerHTML}
+    </div>
+    <div class="modal-footer">
+    <a href="#" class="modal-close waves-effect waves-${color} btn-flat">Cerrar</a>
+    </div>`, ['modal',  'modal-fixed-footer'])
+    favoritosModal.id = 'favoritosModal'
+
+    body.appendChild(favoritosModal)
     
     let btnSettings = crearElemento('a', `<i class="material-icons">settings</i>`, ['btn', 'right', 'white-text', 'waves-effect', color, 'modal-trigger'])
     btnSettings.href = "#ajustes"
@@ -225,9 +250,7 @@ export const cargar_home = () => {
       setTimeout(()=>{
         const himnos = listaHimnos.querySelectorAll('.collection-item')
         himnos.forEach((himno) => {
-          if (himno.innerText.indexOf(search.value) != -1){
             himno.classList.add('hide')
-          }
         })
       }, 200)
     })

@@ -37,7 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let himnoURL = window.location.hash.replace('#', '')
 
-    console.log(himnoURL)
     if (himnoURL != '') {
         localStorage.setItem('himnoActual', himnoURL)
     } else {

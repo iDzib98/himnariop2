@@ -1,7 +1,11 @@
 import './reveal.js' //Para pruebas en src
 //import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
+import { favoritos } from './cargar_home.js'
+
+console.log(favoritos)
 
 export const cargar_himno = (himno) => {
+
     let color = localStorage.getItem('color')
     if (!color) {
       localStorage.setItem('color', 'indigo')
@@ -65,7 +69,7 @@ export const cargar_himno = (himno) => {
 
     let btnFav = document.createElement('span')
 
-    btnFav.innerHTML = `<a class="btn-floating grey waves-effect right"><i class="material-icons">star</i></a>`
+    btnFav.innerHTML = `<a class="btn-floating grey waves-effect right" id="btnFavorito"><i class="material-icons">star</i></a>`
 
     titulo.innerText = `Himno ${himno.numero}. ${himno.titulo}`
 
@@ -166,7 +170,8 @@ export const cargar_himno = (himno) => {
           <link rel="stylesheet" href="./styles/revealjs/${theme}.css">
 
           <div class="reveal deck1">
-            <div class="slides" id="slides">
+          <audio autoplay id="player" src="https://a16016344.github.io/himnariop/himno/mp3/${himno.numero.toString().padStart(3, '0')}.mp3" type="audio/mp3"></audio>
+          <div class="slides" id="slides">
             </div>
           </div>
         `
@@ -229,6 +234,27 @@ export const cargar_himno = (himno) => {
               element.webkitRequestFullScreen();
             }
           }
+    })
+
+    if (favoritos.indexOf(himno.numero.toString()) > -1){
+      btnFavorito.classList.add('amber')
+      btnFavorito.classList.remove('grey')
+    }
+
+    btnFavorito.addEventListener('click', () => {
+      if(favoritos.indexOf(himno.numero.toString()) > -1){
+        console.log(favoritos.indexOf(himno.numero.toString()))
+        favoritos.splice(favoritos.indexOf(himno.numero.toString()), 1)
+        localStorage.setItem('favoritos', favoritos)
+        btnFavorito.classList.remove('amber')
+        btnFavorito.classList.add('grey')
+      } else {
+        favoritos.push(himno.numero.toString())
+        localStorage.setItem('favoritos', favoritos)
+        btnFavorito.classList.add('amber')
+        btnFavorito.classList.remove('grey')
+      }
+      console.log(favoritos)
     })
 
     refresh.addEventListener('click', () => {cargar_himno(himno)})
