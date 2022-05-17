@@ -1,5 +1,5 @@
-//import './reveal.js' //Para pruebas en src
-import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
+import './reveal.js' //Para pruebas en src
+//import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
 
 export const cargar_himno = (himno) => {
     let color = localStorage.getItem('color')
