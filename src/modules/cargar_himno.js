@@ -114,6 +114,8 @@ export const cargar_himno = (himno) => {
         listaAutores.appendChild(li)
     })
 
+    listaAutores.style = "margin-right: 60px;"
+
     main.appendChild(listaAutores)
 
     let reproductor = document.createElement('div')

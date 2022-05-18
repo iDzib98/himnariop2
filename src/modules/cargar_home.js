@@ -208,6 +208,7 @@ export const cargar_home = () => {
     main.appendChild(crearCollapsible('Patria celestial', 639, 655))
     main.appendChild(crearElemento('h2', `3. Salmos`, ['titulo']))
     main.appendChild(crearCollapsible('Salmos', 656, 706))
+    main.appendChild(crearElemento('h2', `&nbsp`, ['titulo']))
 
 
     const listaHimnos = crearListaHimnos()
