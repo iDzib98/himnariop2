@@ -12,8 +12,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let fontSize = localStorage.getItem('fontSize')
     if (!fontSize) {
-        localStorage.setItem('fontSize', 'medium')
-        fontSize = 'medium'
+        localStorage.setItem('fontSize', 'large')
+        fontSize = 'large'
+    }
+
+    let fontSizeValue = localStorage.getItem('fontSizeValue')
+    if (!fontSizeValue) {
+        localStorage.setItem('fontSizeValue', '2')
+        fontSizeValue = '2'
     }
 
     let fontFamily = localStorage.getItem('fontFamily')

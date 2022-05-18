@@ -56,7 +56,8 @@ export const cargar_home = () => {
 
     let listaFavoritos = crearElemento('ul', '', ['collection'])
     favoritos.forEach(favorito => {
-      let li = crearElemento('li', `<a href="#${himnos[favorito].numero}" class="white-text modal-close">${himnos[favorito].numero}. ${himnos[favorito].titulo}</a>`, ['collection-item', color, 'white-text'])
+      let li = crearElemento('a', `${himnos[favorito].numero}. ${himnos[favorito].titulo}`, ['collection-item', color, 'white-text', 'modal-close'])
+      li.href = `#${himnos[favorito].numero}`
       listaFavoritos.appendChild(li)
     })
     
