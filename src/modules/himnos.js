@@ -1123,23 +1123,15 @@ himnos[24] = {
 	},{
 		nombre: 'Coro',
 		lineas: [
-			'Gozo y paz',
-			'hay en mi corazón,',
-			'su gracia me salvó',
-			'y aseguró mi salvación.',
-			'Es mi anhelo',
-			'a mi Señor servir,',
-			'su voluntad cumplir',
-			'y para él siempre vivir.',
+			'Gozo y paz hay en mi corazón,',
+			'su gracia me salvó y aseguró mi salvación.',
+			'Es mi anhelo a mi Señor servir,',
+			'su voluntad cumplir y para él siempre vivir.',
 			'',
-			'Oh, tan dulce esperanza',
-			'nos alienta para seguir',
-			'la senda que el Maestro',
-			'nos marcó con su ejemplo aquí.',
-			'Allá en lontananza,',
-			'al fin de la labor,',
-			'daremos alabanza',
-			'a nuestro Salvador.']
+			'Oh, tan dulce esperanza nos alienta para seguir',
+			'la senda que el Maestro nos marcó con su ejemplo aquí.',
+			'Allá en lontananza, al fin de la labor,',
+			'daremos alabanza a nuestro Salvador.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -1660,7 +1652,7 @@ himnos[34] = {
 		nombre: '2',
 		lineas: [
 			'Con tu pueblo celebraré',
-			'tus maravillas, cantaré, (can taré);',
+			'tus maravillas, cantaré, (cantaré);',
 			'cantaré (cantaré)',
 			'con tu pueblo celebraré',
 			'tus maravillas,',
@@ -1668,8 +1660,10 @@ himnos[34] = {
 			'Tu verdad proclamaré,',
 			'pues eres Dios poderoso y fiel;',
 			'tu verdad proclamaré,',
-			'pues eres nuestro Rey y escudo.',
-			'',
+			'pues eres nuestro Rey y escudo.']
+	},{
+		nombre: '',
+		lineas: [
 			'De Jehová cantaré yo',
 			'las misericordias, cantaré (can taré),',
 			'cantaré (cantaré);',
@@ -1689,24 +1683,31 @@ himnos[35] = {
 	'LETRA Y MÚSICA: Michael W. Smith, Deborah D. Smith, trad. Salomón R. Mussiet',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Grande es Jehová y le damos loor',
 			'por su grande poder y su amor.',
 			'Grande es Jehová y su fidelidad,',
-			'su amor para siempre será.',
-			'',
+			'su amor para siempre será.']
+	},{
+		nombre: '',
+		lineas: [
 			'¡Grande es él y digno de gloria!',
 			'¡Grande es y digno de adoración!',
 			'¡Grande es él! Alcemos la voz',
 			'así proclamar:',
 			'¡Grande es Jehová!',
-			'¡Grande es Jehová!',
+			'¡Grande es Jehová!']
+	},{
+		nombre: '',
+		lineas: [
 			'Grande es Jehová y le damos loor',
 			'por su grande poder y su amor.',
 			'Grande es Jehová y su fidelidad,',
-			'su amor para siempre será.',
-			'',
+			'su amor para siempre será.']
+	},{
+		nombre: '',
+		lineas: [
 			'¡Grande eres tú y digno de gloria!',
 			'¡Grande eres tú y digno de honor!',
 			'¡Grande es él! Levanto mi voz,',
@@ -1726,18 +1727,22 @@ himnos[36] = {
 	'LETRA Y MUSICA: Mark Altrogge, arr. Dbed valenciaL.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Tu belleza es indescriptible,',
 			'difícil de expresar;',
 			'tus obras son incomprensibles,',
-			'no hay nadie como tú, Señor.',
-			'',
+			'no hay nadie como tú, Señor.']
+	},{
+		nombre: '',
+		lineas: [
 			'¿Quién podrá entender',
 			'tu sabiduría?',
 			'¿Quién podrá medir',
-			'tu profundo amor?',
-			'',
+			'tu profundo amor?']
+	},{
+		nombre: '',
+		lineas: [
 			'tu belleza es indescriptible,',
 			'majestad, en tu trono estás.',
 			'Maravillado estoy de ti,',
@@ -1758,18 +1763,22 @@ himnos[37] = {
 	'Letra y Música: Marcos Witt. Arr. Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Al estar en la presencia de tu divinidad,',
 			'Y al contemplar la hermosura de tu santidad,',
 			'Mi espíritu se alegra en tu majestad;',
-			'Te adoro a ti, te adoro a ti.',
-			'',
+			'Te adoro a ti, te adoro a ti.']
+	},{
+		nombre: '',
+		lineas: [
 			'Cuando veo la grandeza de tu dulce amor',
 			'Y compruebo la pureza de tu corazón,',
 			'Mi espíritu se alegra en tu majestad;',
-			'Te doro a ti, te adoro a ti.',
-			'',
+			'Te doro a ti, te adoro a ti.']
+	},{
+		nombre: '',
+		lineas: [
 			'Y al estar aquí, delante de ti,',
 			'Te adoraré;',
 			'Postrado ante ti, mi corazón',
@@ -1914,7 +1923,7 @@ himnos[41] = {
 	'LETRA Y MÚSICA: Kay Chance',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Oh Señor, tú has hecho los cielos',
 			'y la tierra y su gloria.',
@@ -2285,7 +2294,7 @@ himnos[51] = {
 	'LETRA Y MÚSICA: Gustavo E. Ordoñez, Pablo Bravo y Daniel Hernandez, arr, Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Porque tú eres bueno,',
 			'Porque para siempre',
@@ -2313,7 +2322,7 @@ himnos[52] = {
 	'LETRA Y MÚSICA: Miguel Cassina, arr. Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Tu fidelidad es grande,',
 			'Tu fidelidad incomparable es;',
@@ -2376,7 +2385,7 @@ himnos[54] = {
 	'MÚSICA: Felipe W. Blycker',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Buscad primeramente',
 			'El reino de Dios',
@@ -2398,7 +2407,7 @@ himnos[55] = {
 	'LETRA Y MÚSICA: Miguel Manzano, arr. Alvin Schutmaat',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Tu reino es vida,',
 			'Tu reino es verdad,',
@@ -2424,7 +2433,7 @@ himnos[56] = {
 	'MÚSICA: Seth Sykes',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Dios, grande es tu amor,',
 			'Tu gran amor por mí',
@@ -2911,7 +2920,7 @@ himnos[66] = {
 	'MÚSICA: William B. Bradbury',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'¡Hosanna! ¡Hosanna! ¡Hosanna!',
 			'En el cielo y tierra es del Señor',
@@ -3175,7 +3184,7 @@ himnos[71] = {
 	'LETRA Y MÚSICA: Twila Paris',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Sé exaltado,',
 			'Por siempre exaltado, Señor;',
@@ -3200,7 +3209,7 @@ himnos[72] = {
 	'LETRA Y MÚSICA: Rich Mullins',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Yahvé asombroso es',
 			'Y él en su trono está',
@@ -3960,7 +3969,10 @@ himnos[86] = {
 			'Pues el nos da vida',
 			'Nos guarda y nos cuida,',
 			'Y todos los días',
-			'Nos guía el Señor.',
+			'Nos guía el Señor.']
+	},{
+		nombre: '',
+		lineas: [
 			'Su enseña va avante,',
 			'Su luz cual flamante',
 			'Columna de fuego,',
@@ -3978,7 +3990,10 @@ himnos[86] = {
 			'El monte y la fuente,',
 			'La mar y el torrente',
 			'Proclaman a Dios,',
-			'Su divino Señor.',
+			'Su divino Señor.']
+	},{
+		nombre: '',
+		lineas: [
 			'Debemos honrarle',
 			'Y amor demostrarle',
 			'Por sus bendiciones,',
@@ -4526,14 +4541,16 @@ himnos[99] = {
 	'MÚSICA: W. Kitching, 1915, arr. Felipe Blycker J.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Jamás, jamás',
 			'Mis pecados contará;',
 			'Perdonados por siempre.',
 			'Ante mi mente',
-			'Nunca más los ha de mencionar.',
-			'',
+			'Nunca más los ha de mencionar.']
+	},{
+		nombre: '',
+		lineas: [
 			'Jamás, oiré',
 			'De los días de maldad;',
 			'Cristo me ha redimido',
@@ -4888,7 +4905,7 @@ himnos[107] = {
 	'LETRA Y MÚSICA: Boh Mc Gee, es traducción',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Emanuel, Emanuel,',
 			'su nombre es Emanuel.',
@@ -5542,11 +5559,8 @@ himnos[121] = {
 	'3- Is. 52:9',
 	],
 	autores: [
-	'Oh santísimo, felicísimo,',
-	'grato tiempo de Navidad!',
-	'Príncipe del cielo,',
-	'danos tu consuelo;',
-	'¡Alegría, alegría, cristiandad!',
+		'LETRA: Johann Daniel Falk, trad. Federico Fritz Fliedner',
+		'MÚSICA: Canto Siciliano',
 	],
 	versos: [{
 		nombre: '1',
@@ -5904,7 +5918,7 @@ himnos[128] = {
 			'Ved a los ángeles,',
 			'quienes anuncian',
 			'que hoy ha nacido el Rey.',
-			'',
+			'- - - - -',
 			'Para terminar se repite la primera estrofa sin coro']
 	}]
 }
@@ -6153,7 +6167,7 @@ himnos[134] = {
 	'LETRA Y MÚSICA: Alvin Schutmaat',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Sueños de Navidad,',
 			'sueños de amor y de bondad;',
@@ -6163,8 +6177,10 @@ himnos[134] = {
 			'Cristo nació.',
 			'Con Cristo nació un sueño',
 			'de un mundo nuevo de amor',
-			'y felicidad.',
-			'',
+			'y felicidad.']
+	},{
+		nombre: '',
+		lineas: [
 			'Con Cristo el hombre es dichoso,',
 			'porque el sueño hermoso',
 			'se hace realidad.',
@@ -6275,9 +6291,8 @@ himnos[137] = {
 	'C-Cnt. 7:10-12',
 	],
 	autores: [
-	'Ven a mi corazón, oh Cristo,',
-	'pues en él hay lugar para ti.',
-	'',
+		'LETRA: Emily E. S. Elliot, 1864',
+		'MÚSICA: Primera tonada, Ira D. Sankey. Segunda tonada, Timothy R. Matthews',
 	],
 	versos: [{
 		nombre: '1',
@@ -6317,7 +6332,7 @@ himnos[137] = {
 			'y tu voz entre nubes dirá:',
 			'“Ven a mí, que hay lugar junto a mí para ti”.']
 	},{
-		nombre: 'Coro',
+		nombre: 'Coro (Segunda tonada)',
 		lineas: [
 			'Ven a mi corazón, oh Cristo,',
 			'pues en él hay lugar para ti.']
@@ -6403,54 +6418,38 @@ himnos[139] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Santa la noche,',
-			'hermosas las estrellas,',
+			'Santa la noche, hermosas las estrellas,',
 			'la noche cuando nació el Señor.',
-			'El mundo envuelto',
-			'estuvo en sus querellas',
-			'hasta que Dios nos mandó',
-			'al Salvador.',
-			'Una esperanza',
-			'todo el mundo siente,',
+			'El mundo envuelto estuvo en sus querellas',
+			'hasta que Dios nos mandó al Salvador.',
+			'Una esperanza todo el mundo siente,',
 			'la luz de un nuevo día sin igual;',
-			'con gratitud,',
-			'postrados adoradle;',
+			'con gratitud postrados adoradle;',
 			'oíd de lo alto la voz angelical;',
 			'¡oíd, cantad! Nació el Salvador. ']
 	},{
 		nombre: '2',
 		lineas: [
-			'Hoy, por la fe',
-			'llegamos al pesebre',
+			'Hoy, por la fe llegamos al pesebre',
 			'a contemplar al bendito Jesús,',
-			'como también',
-			'los magos del oriente',
+			'como también los magos del oriente',
 			'llegaron guiados por célica luz.',
-			'Fue por nacer así,',
-			'humildemente,',
-			'que nuestras pruebas',
-			'sabe comprender;',
-			'hoy Emanuel es',
-			'“Dios ya con nosotros”;',
-			'cantemos al Rey,',
-			'a Jesús el Salvador;',
+			'Fue por nacer así, humildemente,',
+			'que nuestras pruebas sabe comprender;',
+			'hoy Emanuel es “Dios ya con nosotros”;',
+			'cantemos al Rey, a Jesús el Salvador;',
 			'¡regocijad! Nació el Redentor. ']
 	},{
 		nombre: '3',
 		lineas: [
-			'Nos enseñó',
-			'a amarnos tiernamente,',
+			'Nos enseñó a amarnos tiernamente,',
 			'nos dio su ley de amor y su paz.',
-			'Libra al esclavo',
-			'que en cadenas gime,',
+			'Libra al esclavo que en cadenas gime,',
 			'y a su nombre huirá Satanás.',
 			'Con cánticos de gozo alabemos',
-			'al Rey de reyes,',
-			'nuestro Salvador;',
-			'hoy con amor',
-			'cantemos reverentes,',
-			'alcemos la voz',
-			'proclamando su poder.',
+			'al Rey de reyes, nuestro Salvador;',
+			'hoy con amor cantemos reverentes,',
+			'alcemos la voz proclamando su poder.',
 			'¡Dad gloria a Dios!',
 			'Amén, por siempre, amén. ']
 	}]
@@ -6634,44 +6633,25 @@ himnos[143] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Cristo es la peña de Horeb',
-			'que está brotando',
+			'Cristo es la peña de Horeb que está brotando',
 			'agua de vida, saludable para ti.',
-			'',
-			'Cristo es la peña de Horeb',
-			'que está brotando',
+			'Cristo es la peña de Horeb que está brotando',
 			'agua de vida, saludable para ti.',
-			'',
-			'Ven a tomarla',
-			'que es más dulce que la miel;',
-			'refresca el alma,',
-			'refresca todo tu ser.',
-			'',
-			'Cristo es la peña de Horeb',
-			'que está brotando,',
+			'Ven a tomarla que es más dulce que la miel;',
+			'refresca el alma, refresca todo tu ser.',
+			'Cristo es la peña de Horeb que está brotando,',
 			'agua de vida, saludable para ti.']
 	},{
 		nombre: '2',
 		lineas: [
-			'Cristo es el lirio',
-			'del valle de las flores;',
-			'él es la rosa blanca',
-			'y pura de Sarón.',
-			'',
-			'Cristo es la vida',
-			'y amor de los amores;',
-			'él es la eterna',
-			'fuente de la salvación.',
-			'',
-			'Ven a buscarla',
-			'en tu triste condición;',
-			'refresca el alma,',
-			'refresca todo tu ser.',
-			'',
-			'Cristo es el lirio',
-			'del valle de las flores;',
-			'él es la rosa blanca',
-			'y pura de Sarón. ']
+			'Cristo es el lirio del valle de las flores;',
+			'él es la rosa blanca y pura de Sarón.',
+			'Cristo es la vida y amor de los amores;',
+			'él es la eterna fuente de la salvación.',
+			'Ven a buscarla en tu triste condición;',
+			'refresca el alma, refresca todo tu ser.',
+			'Cristo es el lirio del valle de las flores;',
+			'él es la rosa blanca y pura de Sarón. ']
 	}]
 }
 himnos[144] = {
@@ -6840,20 +6820,13 @@ himnos[147] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Porque él entró en el mundo',
-			'y en la historia,',
-			'porque él quebró el silencio',
-			'y la agonía,',
-			'porque llenó la tierra',
-			'de su gloria,',
-			'porque fue luz',
-			'en nuestra noche fría;',
-			'porque él nació',
-			'en un pesebre oscuro,',
-			'porque él vivió',
-			'sembrando amor y vida,',
-			'porque partió',
-			'los corazones duros',
+			'Porque él entró en el mundo y en la historia,',
+			'porque él quebró el silencio y la agonía,',
+			'porque llenó la tierra de su gloria,',
+			'porque fue luz en nuestra noche fría;',
+			'porque él nació en un pesebre oscuro,',
+			'porque él vivió sembrando amor y vida,',
+			'porque partió los corazones duros',
 			'y levantó las almas abatidas. ']
 	},{
 		nombre: 'Coro',
@@ -6868,38 +6841,25 @@ himnos[147] = {
 	},{
 		nombre: '2',
 		lineas: [
-			'Porque atacó',
-			'a ambiciosos mercaderes,',
+			'Porque atacó a ambiciosos mercaderes,',
 			'y denunció maldad e hipocresía,',
-			'porque exaltó',
-			'a los niños y mujeres',
-			'y rechazó a los que',
-			'en orgullo andan;',
-			'porque él cargó la cruz',
-			'de nuestras penas,',
-			'y saboreó la hiel',
-			'de nuestros males,',
-			'porque aceptó sufrir',
-			'nuestra condena',
-			'y así morir por',
-			'todos los mortales. ']
+			'porque exaltó a los niños y mujeres',
+			'y rechazó a los que en orgullo andan;',
+			'porque él cargó la cruz de nuestras penas,',
+			'y saboreó la hiel de nuestros males,',
+			'porque aceptó sufrir nuestra condena',
+			'y así morir por todos los mortales. ']
 	},{
 		nombre: '3',
 		lineas: [
-			'Porque una aurora vió',
-			'su gran victoria',
-			'sobre la muerte,',
-			'el miedo las mentiras,',
-			'ya nada puede detener',
-			'su historia,',
+			'Porque una aurora vió su gran victoria',
+			'sobre la muerte, el miedo las mentiras,',
+			'ya nada puede detener su historia,',
 			'ni de su reino eterno la venida;',
-			'porque ilumina cada senda',
-			'en gloria,',
-			'y las tinieblas derrotó',
-			'con lumbre, porque su luz',
-			'es siempre nuestra historia,',
-			'y ha de llevarnos todos',
-			'a la cumbre. ']
+			'porque ilumina cada senda en gloria,',
+			'y las tinieblas derrotó con lumbre,',
+			'porque su luz es siempre nuestra historia,',
+			'y ha de llevarnos todos a la cumbre. ']
 	}]
 }
 himnos[148] = {
@@ -7289,7 +7249,7 @@ himnos[155] = {
 	'MÚSICA: Skiner Chávez -Melo de lo Miso Xochipilli',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'¡Cordero de Dios,',
 			'Cordero de Dios,',
@@ -8182,27 +8142,16 @@ himnos[175] = {
 	'MÚSICA: Autor desconocido, Latinoamérica, s. XX, arr. Felipe Blycker J.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
-			'Santo, santo,',
-			'santo es el Señor,',
-			'Dios del universo,',
-			'santo es el Señor.',
-			'',
-			'Santo, santo, santo,',
-			'santo es el Señor,',
-			'Dios del universo,',
-			'santo es el Señor.',
-			'',
-			'¡Hosanna en el cielo!',
-			'¡Hosanna en la tierra!',
-			'¡Bendito el que viene',
-			'en el nombre del Señor!',
-			'',
-			'¡Hosanna en el cielo!',
-			'¡Hosanna en la tierra!',
-			'¡Bendito el que viene',
-			'en el nombre del Señor!']
+			'Santo, santo, santo es el Señor,',
+			'Dios del universo, santo es el Señor.',
+			'Santo, santo, santo, santo es el Señor,',
+			'Dios del universo, santo es el Señor.',
+			'¡Hosanna en el cielo! ¡Hosanna en la tierra!',
+			'¡Bendito el que viene en el nombre del Señor!',
+			'¡Hosanna en el cielo! ¡Hosanna en la tierra!',
+			'¡Bendito el que viene en el nombre del Señor!']
 	}]
 }
 himnos[176] = {
@@ -8332,7 +8281,7 @@ himnos[178] = {
 	'MÚSICA: Johann S. Bach',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Santo, santo, santo,',
 			'Señor Dios de Sabaoth;',
@@ -10522,7 +10471,7 @@ himnos[224] = {
 	'LETRA Y MÚSICA: Jesús Adrián Romero, arr. Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Jesús, Señor de la creación,',
 			'siendo en forma de Dios',
@@ -10533,7 +10482,10 @@ himnos[224] = {
 			'y a sí mismo se humilló,',
 			'tomando forma de siervo,',
 			'y hasta su vida entregar',
-			'y en una cruz terminar.',
+			'y en una cruz terminar.']
+	},{
+		nombre: '',
+		lineas: [
 			'Mas Dios a lo sumo lo exaltó',
 			'y su nombre engrandeció,',
 			'para que, ante su autoridad,',
@@ -10598,7 +10550,7 @@ himnos[226] = {
 	'LETRA Y MÚSICA: Gerrit Gustafson, arr. Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Tuyo es el reino,',
 			'tuyo el poder,',
@@ -10607,8 +10559,10 @@ himnos[226] = {
 			'tuyo es el reino,',
 			'tuyo el poder,',
 			'tuya la gloria,',
-			'por siempre, amén.',
-			'',
+			'por siempre, amén.']
+	},{
+		nombre: '',
+		lineas: [
 			'Y nunca terminará',
 			'la grandeza de su reino;',
 			'y la paz será,',
@@ -10618,8 +10572,10 @@ himnos[226] = {
 			'y nunca terminará,',
 			'y nunca terminará;',
 			'por siempre será',
-			'la grandeza de su reino.',
-			'',
+			'la grandeza de su reino.']
+	},{
+		nombre: '',
+		lineas: [
 			'Tuyo es el reino,',
 			'tuyo el poder,',
 			'tuya la gloria,',
@@ -10725,7 +10681,7 @@ himnos[228] = {
 	'LETRA Y MÚSICA: Fermín García, arr. Obed Valencia L.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'Majestuoso, poderoso,',
 			'digno de loor;',
@@ -10848,14 +10804,14 @@ himnos[231] = {
 	'MÚSICA: Linda Duvall, arr. Felipe Blycker J.',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'/Yo celebraré, cantaré al Señor',
 			'con un cántico nuevo./',
-			'',
+			'-',
 			'/Alabaré a Jehová porque él',
 			'ha triunfado gloriosamente./',
-			'',
+			'-',
 			'Yo celebraré, cantaré al Señor',
 			'con un cántico nuevo.']
 	}]
@@ -10873,21 +10829,15 @@ himnos[232] = {
 	versos: [{
 		nombre: '',
 		lineas: [
-			'Maravilloso es,',
-			'maravilloso es,',
-			'maravilloso es',
-			'Cristo el Señor,',
-			'él es supremo Rey,',
-			'dueño de todo ser,',
-			'maravilloso es',
-			'Cristo el Señor.',
+			'Maravilloso es, maravilloso es,',
+			'maravilloso es Cristo el Señor,',
+			'él es supremo Rey, dueño de todo ser,',
+			'maravilloso es Cristo el Señor.',
 			'Él es el buen Pastor,',
 			'la Roca eterna,',
 			'supremo Dios y Rey.',
-			'Postrado ante él',
-			'yo le adoraré,',
-			'maravilloso es',
-			'Cristo el Señor.']
+			'Postrado ante él yo le adoraré,',
+			'maravilloso es Cristo el Señor.']
 	}]
 }
 himnos[233] = {
@@ -11349,18 +11299,18 @@ himnos[242] = {
 	'MÚSICA: Naida Hearn, 1974',
 	],
 	versos: [{
-		nombre: '',
+		nombre: '1',
 		lineas: [
-			'1. Cristo, nombre glorioso,',
+			'Cristo, nombre glorioso,',
 			'Salvador bello,',
 			'divino Señor; (glorioso)',
 			'Emanuel, Dios con nosotros,',
 			'Verbo encarnado,',
 			'Cordero de Dios.']
 	},{
-		nombre: '',
+		nombre: '2',
 		lineas: [
-			'2. Cristo, nombre glorioso,',
+			'Cristo, nombre glorioso,',
 			'Alfa y Omega,',
 			'eterno Yo Soy; (glorioso)',
 			'Creador Omnipotente,',
@@ -12256,72 +12206,46 @@ himnos[261] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Santo Espíritu,',
-			'excelsa paloma,',
-			'inmutable ser',
-			'del trino Dios,',
-			'mensajero de paz',
-			'que procedes del Padre,',
-			'hoy consuélanos',
-			'con suave voz.',
-			'Tu fragancia',
-			'y llenura anhelamos;',
-			'embalsama tu templo,',
-			'tu altar,',
-			'y la sombra feliz',
-			'de tus alas de gracia',
+			'Santo Espíritu, excelsa paloma,',
+			'inmutable ser del trino Dios,',
+			'mensajero de paz que procedes del Padre,',
+			'hoy consuélanos con suave voz.',
+			'Tu fragancia y llenura anhelamos;',
+			'embalsama tu templo, tu altar,',
+			'y la sombra feliz de tus alas de gracia',
 			'nos cobije, ¡oh, amigo sin par!']
 	},{
 		nombre: '2',
 		lineas: [
-			'Santo Espíritu,',
-			'fuego celeste,',
+			'Santo Espíritu, fuego celeste,',
 			'en el día de Pentecostés',
-			'cual la nube de gloria,',
-			'bajaste a la iglesia',
-			'como al templo de Sion',
-			'otra vez.',
-			'Para el nuevo cristiano',
-			'eres sello;',
-			'cada uno de ti',
-			'tiene un don;',
-			'todo hijo de Dios',
-			'elegido es y goza',
+			'cual la nube de gloria, bajaste a la iglesia',
+			'como al templo de Sion otra vez.',
+			'Para el nuevo cristiano eres sello;',
+			'cada uno de ti tiene un don;',
+			'todo hijo de Dios elegido es y goza',
 			'ya las arras de tu salvación.']
 	},{
 		nombre: '3',
 		lineas: [
-			'Santo Espíritu,',
-			'aceite bendito,',
-			'cual producto',
-			'del verde olivar;',
-			'luminaria y calor',
-			'en la tienda sagrada',
-			'donde Aarón',
-			'se acercaba a adorar.',
-			'Agua viva y',
-			'regeneradora,',
+			'Santo Espíritu, aceite bendito,',
+			'cual producto del verde olivar;',
+			'luminaria y calor en la tienda sagrada',
+			'donde Aarón se acercaba a adorar.',
+			'Agua viva y regeneradora,',
 			'santifícanos contra el mal;',
-			'somos uno en Jesús',
-			'los creyentes del mundo,',
-			'por tu santa labor',
-			'bautismal.']
+			'somos uno en Jesús los creyentes del mundo,',
+			'por tu santa labor bautismal.']
 	},{
 		nombre: '4',
 		lineas: [
-			'Santo Espíritu,',
-			'viento potente,',
-			'fuente y fuerza',
-			'de paz y amor;',
-			'Paracleto veraz',
-			'que consuelo nos brindas',
-			'y abogas a nuestro favor;',
-			'sénos luz',
-			'que ilumine la Biblia,',
-			'nuestros pies',
+			'Santo Espíritu, viento potente,',
+			'fuente y fuerza de paz y amor;',
+			'Paracleto veraz que consuelo nos brindas',
+			'y abogas a nuestro favor; sénos luz',
+			'que ilumine la Biblia, nuestros pies',
 			'dirigiendo al andar;',
-			'hoy rendimos a ti',
-			'nuestra almas ansiosas,',
+			'hoy rendimos a ti nuestra almas ansiosas,',
 			'sólo ungidos podremos triunfar.',
 			'Amén.']
 	}]
@@ -12389,16 +12313,16 @@ himnos[263] = {
 	'MÚSICA: Autor desconocido, arr. Annette Harrington, Eduardo Steele',
 	],
 	versos: [{
-		nombre: '1',
+		nombre: '',
 		lineas: [
 			'/Espíritu de Dios, llena mi vida,',
 			'llena mi alma, llena mi ser./',
-			'',
+			'-',
 			'/Lléname, lléname,',
 			'con tu presencia lléname, lléname,',
 			'con tu poder lléname, lléname',
 			'con tu amor./',
-			'',
+			'-',
 			'Espíritu de Dios, llena mi vida,',
 			'llena mi alma, llena mi ser,',
 			'Espíritu de Dios.']
@@ -12885,20 +12809,15 @@ himnos[274] = {
 	versos: [{
 		nombre: '',
 		lineas: [
-			'Recibiréis poder,',
-			'recibiréis poder,',
+			'Recibiréis poder, recibiréis poder,',
 			'cuando haya venido',
-			'sobre vosotros',
-			'el Espíritu de Dios,',
+			'sobre vosotros el Espíritu de Dios,',
 			'cuando haya venido',
-			'sobre vosotros',
-			'el Espíritu de Dios;',
-			'y testificaréis',
-			'y testificaréis',
+			'sobre vosotros el Espíritu de Dios;',
+			'y testificaréis, y testificaréis',
 			'en Jerusalén, Judea también,',
 			'Samaria y hasta el final;',
-			'en Jerusalén,',
-			'Judea también',
+			'en Jerusalén, Judea también',
 			'Samaria y hasta el final.']
 	}]
 }
@@ -13848,60 +13767,36 @@ himnos[293] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Hallé un buen amigo:',
-			'mi amado Salvador;',
-			'contaré lo que él',
-			'ha hecho para mí.',
-			'Hallándome perdido',
-			'e indigno pecador,',
-			'me salvó y hoy',
-			'me guarda para sí.',
-			'Me salva del pecado,',
-			'me guarda de Satán,',
-			'promete estar conmigo',
-			'hasta el fin;',
-			'él consuela en la tristeza,',
-			'me quita todo afán.',
-			'¡Grandes cosas',
-			'Cristo ha hecho para mí!']
+			'Hallé un buen amigo: mi amado Salvador;',
+			'contaré lo que él ha hecho para mí.',
+			'Hallándome perdido e indigno pecador,',
+			'me salvó y hoy me guarda para sí.',
+			'Me salva del pecado, me guarda de Satán,',
+			'promete estar conmigo hasta el fin;',
+			'él consuela en la tristeza, me quita todo afán.',
+			'¡Grandes cosas Cristo ha hecho para mí!']
 	},{
 		nombre: '2',
 		lineas: [
-			'Jesús jamás me falta,',
-			'jamás me dejará;',
-			'es mi fuerte y',
-			'poderoso protector.',
-			'Del mal yo me separo',
-			'y de la vanidad',
-			'para consagrar',
-			'mi vida al Señor.',
-			'Si el mundo me persigue,',
-			'si sufro tentación,',
-			'confiando en Cristo',
-			'puedo resistir;',
-			'la victoria me es segura',
-			'y elevo mi canción:',
-			'¡Grandes cosas',
-			'Cristo ha hecho para mí!']
+			'Jesús jamás me falta, jamás me dejará;',
+			'es mi fuerte y poderoso protector.',
+			'Del mal yo me separo y de la vanidad',
+			'para consagrar mi vida al Señor.',
+			'Si el mundo me persigue, si sufro tentación,',
+			'confiando en Cristo puedo resistir;',
+			'la victoria me es segura y elevo mi canción:',
+			'¡Grandes cosas Cristo ha hecho para mí!']
 	},{
 		nombre: '3',
 		lineas: [
-			'Yo sé que Jesucristo',
-			'muy pronto volverá,',
-			'y entre tanto,',
-			'me prepara un hogar',
-			'en la casa de mi Padre,',
-			'mansión de luz y paz,',
-			'do el creyente fiel',
-			'con él ha de morar.',
-			'Y cuando esté en la gloria',
-			'ningún pesar tendré,',
-			'contemplaré su rostro',
-			'siempre allí.',
-			'Con los santos redimidos',
-			'gozoso cantaré:',
-			'¡Grandes cosas',
-			'Cristo ha hecho para mí!']
+			'Yo sé que Jesucristo muy pronto volverá,',
+			'y entre tanto, me prepara un hogar',
+			'en la casa de mi Padre, mansión de luz y paz,',
+			'do el creyente fiel con él ha de morar.',
+			'Y cuando esté en la gloria ningún pesar tendré,',
+			'contemplaré su rostro siempre allí.',
+			'Con los santos redimidos gozoso cantaré:',
+			'¡Grandes cosas Cristo ha hecho para mí!']
 	}]
 }
 himnos[294] = {
@@ -17053,7 +16948,11 @@ himnos[355] = {
 	titulo: 'Meditar en Jesús',
 	intro: 'Dulce será mi meditación en él. Sal. 104.34',
 	referencias: [
-	'1- Sal. 145.52- 1 S. 23.2, 4, 93- Hch. 8.5-64- 1 P. 2.21C- Ex. 33.11',
+	'1- Sal. 145.5',
+	'2- 1 S. 23.2, 4, 9',
+	'3- Hch. 8.5-6',
+	'4- 1 P. 2.21',
+	'C- Ex. 33.11',
 	],
 	autores: [
 	'LETRA: Autor desconocido',
@@ -17805,7 +17704,6 @@ himnos[369] = {
 	'2- Mc. 4.38   ',
 	'3- 1 S. 12.22 ',
 	'C- Mc. 4.39   ',
-	'',
 	],
 	autores: [
 	'LETRA: Mary A. Baker, trad. Vicente Mendoza',
@@ -17825,20 +17723,15 @@ himnos[369] = {
 	},{
 		nombre: 'Coro',
 		lineas: [
-			'Los vientos, las ondas',
-			'oirán tu voz:',
+			'Los vientos, las ondas oirán tu voz:',
 			'“¡Sea la paz!”',
 			'Calmas las iras del negro mar,',
-			'las luchas del alma',
-			'las haces cesar,',
-			'y así, la barquilla',
-			'do va el Señor,',
-			'hundirse no puede',
-			'en el mar traidor.',
+			'las luchas del alma las haces cesar,',
+			'y así, la barquilla do va el Señor,',
+			'hundirse no puede en el mar traidor.',
 			'Doquier se cumple tu voluntad:',
 			'“¡Sea la paz!” “¡Sea la paz!”',
-			'Tu voz resuena en la',
-			'inmensidad:',
+			'Tu voz resuena en la inmensidad:',
 			'“¡Sea la paz!”']
 	},{
 		nombre: '2',
@@ -19183,7 +19076,10 @@ himnos[394] = {
 			'Hay momentos',
 			'que las palabras no alcanzan',
 			'para decirte lo que siento,',
-			'bendito Salvador.',
+			'bendito Salvador.']
+	},{
+		nombre: '',
+		lineas: [
 			'Yo te agradezco',
 			'por todo lo que has hecho,',
 			'por todo lo que haces,',
@@ -19454,7 +19350,10 @@ himnos[400] = {
 			'mirad qué gran placer',
 			'inunda nuestra grey,',
 			'loando con veneración',
-			'a nuestro santo Rey.',
+			'a nuestro santo Rey.']
+	},{
+		nombre: '',
+		lineas: [
 			'Cual lluvia santa es',
 			'cayendo sobre Sion,',
 			'así Jesús derramará',
@@ -19636,20 +19535,13 @@ himnos[405] = {
 	versos: [{
 		nombre: '',
 		lineas: [
-			'Unidos, unidos,',
-			'en tu nombre unidos;',
-			'unidos, unidos,',
-			'en tu nombre unidos,',
-			'pues en este mundo',
-			'paz y amor tendremos,',
-			'pues en este mundo',
-			'paz y amor tendremos;',
-			'unidos, siempre unidos,',
-			'tomados de la mano',
-			'iremos por el mundo',
-			'cantando al Señor,',
-			'la gloria de Jesús',
-			'al fin resplandecerá,',
+			'Unidos, unidos, en tu nombre unidos;',
+			'unidos, unidos, en tu nombre unidos,',
+			'pues en este mundo paz y amor tendremos,',
+			'pues en este mundo paz y amor tendremos;',
+			'unidos, siempre unidos, tomados de la mano',
+			'iremos por el mundo cantando al Señor,',
+			'la gloria de Jesús al fin resplandecerá,',
 			'y al mundo llenará de amor y paz.']
 	}]
 }
@@ -20189,18 +20081,12 @@ himnos[421] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Tiernas canciones',
-			'alzad al Señor,',
-			'himnos que lleven',
-			'del alma la fe',
-			'y hablen muy alto',
-			'del férvido amor',
-			'que hay en el pecho',
-			'del hombre que cree.',
-			'Vengan trayendo',
-			'ferviente canción,',
-			'niños y ancianos,',
-			'de Dios al altar,',
+			'Tiernas canciones alzad al Señor,',
+			'himnos que lleven del alma la fe',
+			'y hablen muy alto del férvido amor',
+			'que hay en el pecho del hombre que cree.',
+			'Vengan trayendo ferviente canción,',
+			'niños y ancianos, de Dios al altar,',
 			'traigan a él su corazón,',
 			'único don que podrá aceptar.']
 	},{
@@ -20217,21 +20103,14 @@ himnos[421] = {
 	},{
 		nombre: '2',
 		lineas: [
-			'Él es la fuente',
-			'de toda bondad,',
-			'es de la vida',
-			'la luz y el calor,',
-			'sólo él nos libra',
-			'de cruel ansiedad,',
-			'sólo él aleja',
-			'del alma el dolor;',
-			'digno es, por tanto,',
-			'que el hombre le dé',
-			'gloria y honor',
-			'que resuenen doquier;',
+			'Él es la fuente de toda bondad,',
+			'es de la vida la luz y el calor,',
+			'sólo él nos libra de cruel ansiedad,',
+			'sólo él aleja del alma el dolor;',
+			'digno es, por tanto, que el hombre le dé',
+			'gloria y honor que resuenen doquier;',
 			'vamos a él llenos de fe,',
-			'nos salvará',
-			'con su gran poder.']
+			'nos salvará con su gran poder.']
 	}]
 }
 himnos[422] = {
@@ -22885,14 +22764,10 @@ himnos[487] = {
 			'en los días de tu juventud;',
 			'acuérdate de tu Creador',
 			'en los días de tu juventud.',
-			'Antes que vengan',
-			'los días malos,',
-			'y lleguen los años',
-			'de los cuales digas:',
-			'“No tengo en ellos',
-			'contentamiento,',
-			'no tengo en ellos',
-			'contentamiento”.',
+			'Antes que vengan los días malos,',
+			'y lleguen los años de los cuales digas:',
+			'“No tengo en ellos contentamiento,',
+			'no tengo en ellos contentamiento”.',
 			'Acuérdate de tu Creador',
 			'en los días de tu juventud;',
 			'acuérdate de tu Creador',
@@ -22926,22 +22801,14 @@ himnos[488] = {
 	},{
 		nombre: 'Coro',
 		lineas: [
-			'Ven y ve los campos',
-			'blancos como están,',
-			'aguardando manos',
-			'que los segarán.',
-			'¡Joven, despierta!',
-			'Hazlo pronto y alerta,',
-			'sé el primero en decirle:',
-			'“Heme aquí, Señor”.',
-			'Por doquier se inclina',
-			'la madura mies',
-			'que las auras mueven,',
-			'y ¡qué bella es!',
-			'¡Joven, despierta!',
-			'Hazlo pronto y alerta,',
-			'pocos días hay que restan',
-			'para el segador.']
+			'Ven y ve los campos blancos como están,',
+			'aguardando manos que los segarán.',
+			'¡Joven, despierta! Hazlo pronto y alerta,',
+			'sé el primero en decirle: “Heme aquí, Señor”.',
+			'Por doquier se inclina la madura mies',
+			'que las auras mueven, y ¡qué bella es!',
+			'¡Joven, despierta! Hazlo pronto y alerta,',
+			'pocos días hay que restan para el segador.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -23815,7 +23682,8 @@ himnos[505] = {
 			'el soberano,',
 			'al que sólo en la Biblia',
 			'lo sustenta,',
-			'el gran mensaje de Dios']
+			'el gran mensaje de Dios',
+			'para el hermano.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -23825,7 +23693,8 @@ himnos[505] = {
 			'los jóvenes y los niños,',
 			'siempre orar,',
 			'ser bueno es su costumbre,',
-			'y prodigar por doquiera']
+			'y prodigar por doquiera',
+			'su cariño.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -23835,7 +23704,8 @@ himnos[505] = {
 			'a las ovejas',
 			'que puso Jesucristo',
 			'a su cuidado;',
-			'debe servir']
+			'debe servir',
+			'sin ganancias deshonestas.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -23845,7 +23715,8 @@ himnos[505] = {
 			'nos ha enseñado;',
 			'por su servicio hoy',
 			'le homenajeamos,',
-			'porque será con justicia']
+			'porque será con justicia',
+			'coronado.']
 	}]
 }
 himnos[506] = {
@@ -23870,7 +23741,8 @@ himnos[506] = {
 			'con temor y admiración;',
 			'nuevos pueblos que despiertan,',
 			'huestes prontas a luchar;',
-			'toda la creación gimiendo']
+			'toda la creación gimiendo',
+			'por su redención final.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -23880,7 +23752,8 @@ himnos[506] = {
 			'vuestras fuerzas, vuestro ser.',
 			'Mundos luchan bajo el cielo;',
 			'no podéis ya postergar',
-			'el tomar la cruz de Cristo,']
+			'el tomar la cruz de Cristo,',
+			'y al combate presto entrar,']
 	},{
 		nombre: '3',
 		lineas: [
@@ -23890,7 +23763,8 @@ himnos[506] = {
 			'que sois suyos demostrad.',
 			'Oh, luchad con cuerpo y alma',
 			'por el triunfo de la luz.',
-			'Y anunciad por las edades,']
+			'Y anunciad por las edades,',
+			'el mensaje de la cruz.']
 	}]
 }
 himnos[507] = {
@@ -23916,7 +23790,8 @@ himnos[507] = {
 			'de nuevo tu amor;',
 			'/un año de progreso',
 			'y de prosperidad,',
-			'un año en que gocemos']
+			'un año en que gocemos',
+			'tu gran fidelidad./']
 	},{
 		nombre: '2',
 		lineas: [
@@ -23926,7 +23801,8 @@ himnos[507] = {
 			'podemos descansar.',
 			'/Tu gran misericordia,',
 			'tu gracia y bondad',
-			'en este nuevo año']
+			'en este nuevo año',
+			'queremos disfrutar./']
 	},{
 		nombre: '3',
 		lineas: [
@@ -23936,7 +23812,8 @@ himnos[507] = {
 			'más prestos a tu voz;',
 			'/y sea allá contigo',
 			'o en tierra aquí,',
-			'que todo lo que hagamos']
+			'que todo lo que hagamos',
+			'te glorifique a ti./']
 	}]
 }
 himnos[508] = {
@@ -23948,8 +23825,7 @@ himnos[508] = {
 	'2- Ap. 22.2',
 	],
 	autores: [
-	'LETRA: Frances R. Havergal, trad. EstebanSywulka B.',
-	'MÚSICA: Obed Vázquez Trujillo, México, 2001',
+	'',
 	],
 	versos: [{
 		nombre: '1',
@@ -23960,7 +23836,8 @@ himnos[508] = {
 			'limpia y santa, consagrada a ti.',
 			'Te necesito, yo soy tan débil,',
 			'mas con tu ayuda puedo vencer;',
-			'oh, Cristo mío, yo anhelo agradarte,']
+			'oh, Cristo mío, yo anhelo agradarte,',
+			'tú que has hecho tanto para mí.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -23970,7 +23847,8 @@ himnos[508] = {
 			'para servirte con sincero amor y fe.',
 			'Te necesito, yo soy tan débil,',
 			'mas con tu ayuda puedo vencer;',
-			'cada momento y todos los días,']
+			'cada momento y todos los días,',
+			'dueño absoluto tú serás Jesús, mi Rey.']
 	}]
 }
 himnos[509] = {
@@ -23995,7 +23873,8 @@ himnos[509] = {
 			'de cualquier generación.',
 			'Mas aquel que a tu lado',
 			'quiere ya volar con fe,',
-			'en su curso prolongado,']
+			'en su curso prolongado,',
+			'lento siempre el tiempo ve.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24005,7 +23884,8 @@ himnos[509] = {
 			'poco más nos acercó.',
 			'Gracias mil por tus mercedes,',
 			'hoy tu iglesia, Dios, te da;',
-			'ya que todo tú lo puedes,']
+			'ya que todo tú lo puedes,',
+			'tu poder nos sostendrá.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24015,7 +23895,8 @@ himnos[509] = {
 			'nada nos podrá faltar.',
 			'Que te alabe el ser humano',
 			'de este mundo por doquier,',
-			'que tu santo nombre ensalce']
+			'que tu santo nombre ensalce',
+			'y te sirva haciendo el bien.']
 	}]
 }
 himnos[510] = {
@@ -24040,7 +23921,8 @@ himnos[510] = {
 			'del tierno Padre celestial.',
 			'Huyendo yo la tentación',
 			'y toda influencia terrenal,',
-			'por Cristo, que murió por mí.']
+			'por Cristo, que murió por mí.',
+			'será mi ruego oído allí.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24050,7 +23932,8 @@ himnos[510] = {
 			'a Dios que ama con verdad.',
 			'Espero yo su bendición,',
 			'perfecta paz y santidad,',
-			'por Cristo que murió por mí,']
+			'por Cristo que murió por mí,',
+			'por el que me ha salvado aquí.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24060,7 +23943,8 @@ himnos[510] = {
 			'Escucha tú mi oración.',
 			'¡Espíritu Consolador!',
 			'Escucha tú mi oración.',
-			'Bendíceme ¡oh Trinidad,']
+			'Bendíceme ¡oh Trinidad,',
+			'que estás en la eternidad!']
 	}]
 }
 himnos[511] = {
@@ -24085,7 +23969,8 @@ himnos[511] = {
 			'en los brazos de mi Salvador,',
 			'¡Qué gran bendición',
 			'en su paz me da!',
-			'¡Oh! yo siento en mí']
+			'¡Oh! yo siento en mí',
+			'su tierno amor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -24093,7 +23978,8 @@ himnos[511] = {
 			'(libre de penas, salvo de dudas)',
 			'de cuidados y temor;',
 			'libre, salvo',
-			'(libre de penas, salvo de dudas)']
+			'(libre de penas, salvo de dudas)',
+			'en los brazos de mi Salvador.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24102,7 +23988,8 @@ himnos[511] = {
 			'En los brazos de mi Salvador;',
 			'quiero allí vivir,',
 			'siempre allí morar,',
-			'siendo objeto']
+			'siendo objeto',
+			'de su tierno amor.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24111,7 +23998,8 @@ himnos[511] = {
 			'en los brazos de mi Salvador;',
 			'muy seguro allí',
 			'siempre yo estaré',
-			'de los lazos']
+			'de los lazos',
+			'del engañador.']
 	}]
 }
 himnos[512] = {
@@ -24132,25 +24020,29 @@ himnos[512] = {
 		lineas: [
 			'A solas al huerto yo voy',
 			'cuando duerme aún la floresta,',
-			'y en quietud y paz con Jesús estoy,']
+			'y en quietud y paz con Jesús estoy,',
+			'oyendo absorto allí su voz.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Él conmigo está, puedo oír su voz,',
 			'y que suyo, dice, seré;',
-			'y el encanto que hallo con él allí,']
+			'y el encanto que hallo con él allí,',
+			'con nadie tener podré.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Tan dulce es la voz del Señor,',
 			'que las aves guardan silencio,',
-			'y tan sólo se oye su voz de amor,']
+			'y tan sólo se oye su voz de amor,',
+			'que inmensa paz al alma da.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Con él encantado yo estoy,',
 			'aunque en torno llegue la noche;',
-			'más me ordena ir,que a escuchar yo voy,']
+			'más me ordena ir,que a escuchar yo voy,',
+			'su voz doquier la pena esté.']
 	}]
 }
 himnos[513] = {
@@ -24172,7 +24064,8 @@ himnos[513] = {
 			'levantaré mi alma./',
 			'Dios mío, en ti confío,',
 			'no sea avergonzado,',
-			'no se alegren de mí']
+			'no se alegren de mí',
+			'mis enemigos.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24180,7 +24073,8 @@ himnos[513] = {
 			'no seré confundido./',
 			'Serán avergonzados',
 			'los que se rebelan.',
-			'Enséñame, oh Jehová,']
+			'Enséñame, oh Jehová,',
+			'todos tus caminos.']
 	}]
 }
 himnos[514] = {
@@ -24203,31 +24097,36 @@ himnos[514] = {
 		lineas: [
 			'Del Padre de las luces,',
 			'Dios lleno de bondad,',
-			'procede toda gracia,']
+			'procede toda gracia,',
+			'perdón, salud y paz.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Pidamos con fe viva,',
 			'oremos sin cesar,',
-			'y a nuestras peticiones,']
+			'y a nuestras peticiones,',
+			'Dios fiel responderá.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Jesús tiene en los cielos',
 			'imperio y potestad,',
-			'y el ruego de los fieles,']
+			'y el ruego de los fieles,',
+			'su nombre hace eficaz.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Si torpe el labio ignora',
 			'plegarias formular,',
-			'el santo Paracleto']
+			'el santo Paracleto',
+			'al alma enseñará.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Al trono de la gracia',
 			'lleguemos sin dudar,',
-			'pues Cristo por nosotros']
+			'pues Cristo por nosotros',
+			'intercediendo está.']
 	}]
 }
 himnos[515] = {
@@ -24252,12 +24151,14 @@ himnos[515] = {
 			'dilo a Cristo, dilo a Cristo;',
 			'si te sientes débil, confundido,',
 			'dilo a Cristo el Señor.',
-			'Dilo a Cristo, dilo a Cristo,']
+			'Dilo a Cristo, dilo a Cristo,',
+			'él es tu amigo más fiel.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'No hay otro amigo',
-			'como Cristo,']
+			'como Cristo,',
+			'dilo tan sólo a él.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24265,7 +24166,8 @@ himnos[515] = {
 			'mira a Cristo, mira a Cristo;',
 			'cuando rujan huestes de pecado,',
 			'mira a Cristo el Señor.',
-			'Mira a Cristo, mira a Cristo,']
+			'Mira a Cristo, mira a Cristo,',
+			'él es tu amigo más fiel.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24273,7 +24175,8 @@ himnos[515] = {
 			'sigue a Cristo, sigue a Cristo;',
 			'si acrecienta en torno la tormenta,',
 			'sigue a Cristo el Señor.',
-			'Sigue a Cristo, sigue a Cristo,']
+			'Sigue a Cristo, sigue a Cristo,',
+			'él es tu amigo más fiel.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -24281,7 +24184,8 @@ himnos[515] = {
 			'fía en Cristo, fía en Cristo;',
 			'te dará en el cielo franca entrada,',
 			'fía en Cristo el Señor.',
-			'Fía en Cristo, fía en Cristo,']
+			'Fía en Cristo, fía en Cristo,',
+			'él es tu amigo más fiel.']
 	}]
 }
 himnos[516] = {
@@ -24303,7 +24207,8 @@ himnos[516] = {
 			'santificado sea tu nombre.',
 			'Venga a nosotros,',
 			'venga tu reino.',
-			'Hágase tu voluntad,']
+			'Hágase tu voluntad,',
+			'así en la tierra como en el cielo.']
 	},{
 		nombre: '',
 		lineas: [
@@ -24313,7 +24218,8 @@ himnos[516] = {
 			'así como nosotros',
 			'perdonamos a nuestros deudores.',
 			'Y no nos dejes caer en tentación,',
-			'mas líbranos del mal.']
+			'mas líbranos del mal.',
+			'Amén, amén.']
 	}]
 }
 himnos[517] = {
@@ -24333,25 +24239,29 @@ himnos[517] = {
 		lineas: [
 			'Busca primero el reino de Dios',
 			'y su perfecta justicia,',
-			'y lo demás añadido será.']
+			'y lo demás añadido será.',
+			'Alelú, aleluya.']
 	},{
 		nombre: '2',
 		lineas: [
 			'No sólo de pan el hombre vivirá,',
 			'sino de toda palabra',
-			'que sale de la boca del Señor,']
+			'que sale de la boca del Señor,',
+			'alelú, aleluya.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Pedid, pedid y se os dará,',
 			'buscad y hallaréis,',
-			'llamad, llamad']
+			'llamad, llamad',
+			'y la puerta se abrirá,']
 	},{
 		nombre: '',
 		lineas: [
 			'alelú, aleluya.',
 			'Contramelodía (discante)',
-			'Aleluya, aleluya, aleluya,']
+			'Aleluya, aleluya, aleluya,',
+			'alelú, aleluya.']
 	}]
 }
 himnos[518] = {
@@ -24374,7 +24284,8 @@ himnos[518] = {
 			'que estás en los cielos,',
 			'santificado seas en verdad;',
 			'venga tu reino',
-			'y hágase tu voluntad,']
+			'y hágase tu voluntad,',
+			'en esta tierra, como se hace allá.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24382,7 +24293,8 @@ himnos[518] = {
 			'el pan de cada día;',
 			'también perdona',
 			'tú nuestra maldad,',
-			'como nosotros hemos perdonado']
+			'como nosotros hemos perdonado',
+			'a todos los que nos han hecho mal.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24391,7 +24303,8 @@ himnos[518] = {
 			'mas líbranos del mundo',
 			'y su maldad,',
 			'pues tuyo es el reino y la gloria,',
-			'y por los siglos, tuyo es el poder.']
+			'y por los siglos, tuyo es el poder.',
+			'Amén.']
 	}]
 }
 himnos[519] = {
@@ -24416,7 +24329,8 @@ himnos[519] = {
 			'pedimos que tu reino',
 			'ya venga;',
 			'que tu voluntad',
-			'sea hecha aquí.']
+			'sea hecha aquí.',
+			'Santificado sea tu nombre.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24425,7 +24339,8 @@ himnos[519] = {
 			'pedimos que tu reino',
 			'ya venga;',
 			'provee al hambriento',
-			'por tu gran amor.']
+			'por tu gran amor.',
+			'Santificado sea tu nombre.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24434,7 +24349,8 @@ himnos[519] = {
 			'pedimos que tu reino',
 			'ya venga;',
 			'debemos a otros',
-			'así perdonar.']
+			'así perdonar.',
+			'Santificado sea tu nombre.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -24443,7 +24359,8 @@ himnos[519] = {
 			'pedimos que tu reino',
 			'ya venga;',
 			'a ti sea gloria',
-			'por siempre. Amén.']
+			'por siempre. Amén.',
+			'Santificado sea tu nombre.']
 	}]
 }
 himnos[520] = {
@@ -24468,7 +24385,8 @@ himnos[520] = {
 			'todo a Dios en oración.',
 			'¿Está el hombre desprovisto',
 			'de paz, gozo y santo amor?',
-			'Esto es porque no llevamos']
+			'Esto es porque no llevamos',
+			'todo a Dios en oración.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24478,7 +24396,8 @@ himnos[520] = {
 			'dile todo en oración.',
 			'¿Te desprecian tus amigos?',
 			'Cuéntaselo en oración;',
-			'en sus brazos de amor tierno,']
+			'en sus brazos de amor tierno,',
+			'paz tendrá tu corazón.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24488,7 +24407,8 @@ himnos[520] = {
 			'al culpable, se humanó.',
 			'El castigo de su pueblo',
 			'en su muerte él sufrió;',
-			'Cristo es un amigo eterno,']
+			'Cristo es un amigo eterno,',
+			'sólo en él confío yo.']
 	}]
 }
 himnos[521] = {
@@ -24507,18 +24427,21 @@ himnos[521] = {
 		lineas: [
 			'/Oh Señor,',
 			'de mañana oirás mi voz,',
-			'de mañana me presentaré']
+			'de mañana me presentaré',
+			'delante de ti y esperaré./']
 	},{
 		nombre: '',
 		lineas: [
 			'Porque tú no eres un Dios',
-			'que se complace en la maldad;']
+			'que se complace en la maldad;',
+			'el malo no habitará junto a ti.']
 	},{
 		nombre: '',
 		lineas: [
 			'Oh Señor,',
 			'de mañana oirás mi voz,',
-			'de mañana me presentaré']
+			'de mañana me presentaré',
+			'delante de ti y esperaré.']
 	}]
 }
 himnos[522] = {
@@ -24538,19 +24461,22 @@ himnos[522] = {
 		lineas: [
 			'Oye mi clamor,',
 			'atiende mi oración;',
-			'desde el fin de la tierra']
+			'desde el fin de la tierra',
+			'a ti yo clamaré.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Y si yo desmayare,',
 			'a la roca llévame',
-			'que es más alta que yo,']
+			'que es más alta que yo,',
+			'que es más alta que yo.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Porque tú has sido',
 			'refugio para mí,',
-			'torre fuerte']
+			'torre fuerte',
+			'delante del enemigo.']
 	}]
 }
 himnos[523] = {
@@ -24576,7 +24502,8 @@ himnos[523] = {
 			'cuando hay dolor?',
 			'¿Quieres ser alegre',
 			'cual fiel luchador?',
-			'Guarda el contacto']
+			'Guarda el contacto',
+			'con el Salvador.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -24586,7 +24513,8 @@ himnos[523] = {
 			'no te cubrirán;',
 			'por la senda, en gozo,',
 			'tú caminarás,',
-			'si el contacto guardas']
+			'si el contacto guardas',
+			'con el Salvador.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24596,7 +24524,8 @@ himnos[523] = {
 			'lloran del pesar;',
 			'dales el mensaje,',
 			'no hay que callar,',
-			'con Dios el contacto']
+			'con Dios el contacto',
+			'debes de guardar.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24606,7 +24535,8 @@ himnos[523] = {
 			'en ti permanecer,',
 			'que el mundo a Cristo',
 			'en ti pueda ver?',
-			'Guarda el contacto']
+			'Guarda el contacto',
+			'con el Salvador.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -24616,7 +24546,8 @@ himnos[523] = {
 			'y su santo amor;',
 			'ora siempre y vela,',
 			'que Jesús vendrá;',
-			'guarda el contacto']
+			'guarda el contacto',
+			'con el Salvador.']
 	}]
 }
 himnos[524] = {
@@ -24634,7 +24565,8 @@ himnos[524] = {
 		nombre: '',
 		lineas: [
 			'Óyenos, Señor, óyenos, Señor;',
-			'escucha la oración,']
+			'escucha la oración,',
+			'y danos tu paz. Amén.']
 	}]
 }
 himnos[525] = {
@@ -24660,7 +24592,8 @@ himnos[525] = {
 			'“Tu Dios se esconde allí”,',
 			'pero la noche oscura,',
 			'la de nublados llena,',
-			'me dice más pujante:']
+			'me dice más pujante:',
+			'“Tu Dios se acerca a ti”.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24670,7 +24603,8 @@ himnos[525] = {
 			'con que ceñido estás;',
 			'el resplandor conozco',
 			'de tu semblante santo,',
-			'cuando al cruzar el éter,']
+			'cuando al cruzar el éter,',
+			'relampagueando vas.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24680,7 +24614,8 @@ himnos[525] = {
 			'que el aire va a romper?',
 			'Tus ojos son el día,',
 			'tu soplo la existencia,',
-			'tu alfombra el firmamento,']
+			'tu alfombra el firmamento,',
+			'la eternidad tu ser.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -24690,7 +24625,8 @@ himnos[525] = {
 			'ante tus pies está;',
 			'pero mi lengua calla,',
 			'porque mi lengua ignora',
-			'los cánticos que llegan']
+			'los cánticos que llegan',
+			'al grande Jehová.']
 	}]
 }
 himnos[526] = {
@@ -24715,13 +24651,15 @@ himnos[526] = {
 			'de recibir lo mejor.',
 			'Dale tu esfuerzo y tu vida,',
 			'dale tu celo y virtud,',
-			'dale tu fe no fingida,']
+			'dale tu fe no fingida,',
+			'todo en humilde actitud.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Da lo mejor al Maestro,',
 			'él es tu Rey y Señor;',
-			'dalo al Señor, nada es nuestro,']
+			'dalo al Señor, nada es nuestro,',
+			'todo en ofrenda de amor.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24731,7 +24669,8 @@ himnos[526] = {
 			'fruto de santa piedad.',
 			'Dale una noble obediencia,',
 			'dale un ardiente fervor,',
-			'dale una limpia conciencia,']
+			'dale una limpia conciencia,',
+			'dale tu heroico valor.']
 	}]
 }
 himnos[527] = {
@@ -24756,13 +24695,15 @@ himnos[527] = {
 			'tu exuberante salud.',
 			'Dueño sea él de tu vida,',
 			'sírvele con fe y amor;',
-			'todo a su gracia lo debes,']
+			'todo a su gracia lo debes,',
+			'dale a Jesús lo mejor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Da lo mejor al Maestro,',
 			'a combatir por él ven,',
-			'Sé paladín decidido']
+			'Sé paladín decidido',
+			'de la verdad y del bien.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24772,7 +24713,8 @@ himnos[527] = {
 			'digno es de tu devoción.',
 			'Rico y feliz quiere hacerte,',
 			'es gran tesoro su amor;',
-			'deja que llene tu alma,']
+			'deja que llene tu alma,',
+			'dale a Jesús lo mejor.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24782,7 +24724,8 @@ himnos[527] = {
 			'sirve tú a otros también.',
 			'Di a los perdidos que él salva,',
 			'que él cura todo dolor,',
-			'que ama, consuela y ayuda;']
+			'que ama, consuela y ayuda;',
+			'dale a Jesús lo mejor.']
 	}]
 }
 himnos[528] = {
@@ -24803,19 +24746,22 @@ himnos[528] = {
 		lineas: [
 			'Todo a Cristo, todo a Cristo,',
 			'sea ésta la canción,',
-			'por los siglos tú, Maestro,']
+			'por los siglos tú, Maestro,',
+			'nuestra sola salvación.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Todo a Cristo, todo a Cristo,',
 			'tú darás fuerza y solaz,',
-			'don que el mundo no conoce,']
+			'don que el mundo no conoce,',
+			'tu perfecta y dulce paz.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Todo a Cristo, todo a Cristo,',
 			'es el himno triunfal,',
-			'hasta que la iglesia toda']
+			'hasta que la iglesia toda',
+			'cante en gloria celestial. Amén.']
 	}]
 }
 himnos[529] = {
@@ -24838,7 +24784,8 @@ himnos[529] = {
 			'y no mirar atrás.',
 			'Seguir tu caminar, Señor,',
 			'seguir sin desmayar, Señor,',
-			'postrado ante tu altar, Señor,']
+			'postrado ante tu altar, Señor,',
+			'y no mirar atrás.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24848,7 +24795,8 @@ himnos[529] = {
 			'y hacer tu voluntad.',
 			'Al débil proteger, Señor,',
 			'al pobre defender, Señor,',
-			'tu reino proclamar, Señor,']
+			'tu reino proclamar, Señor,',
+			'y no mirar atrás.']
 	}]
 }
 himnos[530] = {
@@ -24870,25 +24818,29 @@ himnos[530] = {
 		lineas: [
 			'Mi ser, mi vida entera,',
 			'en alma y cuerpo entrego,',
-			'cual viva, santa ofrenda,']
+			'cual viva, santa ofrenda,',
+			'a ti, Señor, mi Dios.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Mi todo a Dios consagro',
 			'en Cristo, el vivo altar:',
-			'descienda el fuego santo,']
+			'descienda el fuego santo,',
+			'su sello celestial.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Soy tuyo, Jesucristo,',
 			'comprado con tu sangre;',
-			'haz que contigo ande']
+			'haz que contigo ande',
+			'en plena comunión.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Espíritu divino,',
 			'del Padre la promesa;',
-			'sedienta, mi alma anhela']
+			'sedienta, mi alma anhela',
+			'de ti la salvación.']
 	}]
 }
 himnos[531] = {
@@ -24913,7 +24865,8 @@ himnos[531] = {
 			'debe todo corazón;',
 			'tu piedad inagotable,',
 			'abundante en perdonar;',
-			'único ser adorable,']
+			'único ser adorable,',
+			'gloria a ti debemos dar.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -24923,7 +24876,8 @@ himnos[531] = {
 			'que lograste rescatar;',
 			'almas son que redimiste,',
 			'porque les tuviste amor,',
-			'de ellas te compadeciste']
+			'de ellas te compadeciste',
+			'con tiernísimo amor.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -24933,7 +24887,8 @@ himnos[531] = {
 			'y de toda santidad;',
 			'guíanos en la obediencia,',
 			'humildad, amor y fe;',
-			'nos ampare tu clemencia;']
+			'nos ampare tu clemencia;',
+			'Salvador, propicio sé.']
 	}]
 }
 himnos[532] = {
@@ -24954,25 +24909,29 @@ himnos[532] = {
 		lineas: [
 			'Cristo, fiel te quiero ser,',
 			'dame el poder, dame el poder;',
-			'yo contigo quiero andar,']
+			'yo contigo quiero andar,',
+			'sin vacilar, sin vacilar.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'En tus pasos quiero seguir,',
 			'cerca de ti, cerca de ti;',
-			'y si encuentro pruebas aquí,']
+			'y si encuentro pruebas aquí,',
+			'dame confianza en ti.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Dame ardiente corazón',
 			'lleno de amor, lleno de amor;',
-			'y tu Espíritu, Señor,']
+			'y tu Espíritu, Señor,',
+			'como guiador, como guiador.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Cada día quiero cumplir',
 			'tu voluntad, tu voluntad;',
-			'y servirte a ti, Señor,']
+			'y servirte a ti, Señor,',
+			'en humildad, en humildad.']
 	}]
 }
 himnos[533] = {
@@ -24994,25 +24953,29 @@ himnos[533] = {
 		lineas: [
 			'Mi mente toma, oh Dios, pidiendo estoy;',
 			'la mente del Señor concédeme hoy.',
-			'Oh Cristo, tu verdad enséñame,']
+			'Oh Cristo, tu verdad enséñame,',
+			'y en todo mi pensar yo te honraré.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Toma mi corazón, oh Salvador,',
 			'tu trono ocupa allí, Rey y Señor;',
-			'quiero tu santo amor manifestar,']
+			'quiero tu santo amor manifestar,',
+			'la tierra en cielo yo quiero cambiar.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Toma mi voluntad, oh alto Dios,',
 			'la tuya quiero hacer, y oír tu voz;',
-			'todo mi tiempo así, santo será']
+			'todo mi tiempo así, santo será',
+			'mi vida entera así tú la guiarás.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Mi mente y corazón, mi voluntad,',
 			'tómalos todos hoy, Dios de bondad;',
-			'tiempo y talentos hoy yo te los doy,']
+			'tiempo y talentos hoy yo te los doy,',
+			'tu soberana voz oyendo estoy. Amén.']
 	}]
 }
 himnos[534] = {
@@ -25033,25 +24996,29 @@ himnos[534] = {
 		lineas: [
 			'Yo quiero ser cual mi Jesús,',
 			'sirviéndole con lealtad;',
-			'sincero y fiel anhelo ser,']
+			'sincero y fiel anhelo ser,',
+			'cumpliendo su voluntad.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Más y más, cual mi Jesús,',
 			'en mi vida quiero ser;',
-			'más y más, cual mi Señor,']
+			'más y más, cual mi Señor,',
+			'seré por su gran poder.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Humilde quiero siempre ser',
 			'cual fuera mi Salvador,',
-			'no quiero glorias, ni poder']
+			'no quiero glorias, ni poder',
+			'indignos de mi Señor.']
 	},{
 		nombre: '3',
 		lineas: [
 			'En todo quiero yo seguir',
 			'las huellas de mi Señor,',
-			'y por doquier hacer sentir']
+			'y por doquier hacer sentir',
+			'lo que hizo en mí su amor.']
 	}]
 }
 himnos[535] = {
@@ -25072,25 +25039,29 @@ himnos[535] = {
 		lineas: [
 			'¡Loor a ti, mi Dios, loor a ti!',
 			'Lo grande de tu amor es para mí;',
-			'me diste un Salvador: Cristo Jesús.']
+			'me diste un Salvador: Cristo Jesús.',
+			'¡Loor a ti, Señor, loor a ti!']
 	},{
 		nombre: '2',
 		lineas: [
 			'Quiero ser limpio hoy de mi maldad,',
 			'acudo a ti, Jesús, tal como soy.',
-			'“Ven a mí”, dices tú con tierno amor.']
+			'“Ven a mí”, dices tú con tierno amor.',
+			'¡Loor a ti, Señor, loor a ti!']
 	},{
 		nombre: '3',
 		lineas: [
 			'Hazme vivir, Señor, cerca de ti,',
 			'la deuda de tu amor la siento en mí;',
-			'te entrego a ti mi ser, mi corazón.']
+			'te entrego a ti mi ser, mi corazón.',
+			'¡Loor a ti, Señor, loor a ti!']
 	},{
 		nombre: '4',
 		lineas: [
 			'¡Gloria a mi Salvador, Cristo Jesús!',
 			'Él es el pan de vida para mí;',
-			'su vida dio por mí allá en la cruz.']
+			'su vida dio por mí allá en la cruz.',
+			'¡Loor a ti, Señor, loor a ti!']
 	}]
 }
 himnos[536] = {
@@ -25108,13 +25079,15 @@ himnos[536] = {
 		lineas: [
 			'/Tu amor por mí',
 			'es más dulce que la miel',
-			'y tu misericordia es']
+			'y tu misericordia es',
+			'nueva cada día./']
 	},{
 		nombre: '',
 		lineas: [
 			'/Es por eso que te alabo,',
 			'y es por eso que te sirvo,',
-			'y es por eso que te doy']
+			'y es por eso que te doy',
+			'todo mi amor./']
 	}]
 }
 himnos[537] = {
@@ -25138,7 +25111,8 @@ himnos[537] = {
 			'cada día tú me llamas.',
 			'Señor, tú me ofreces',
 			'una vida santa y limpia;',
-			'una vida']
+			'una vida',
+			'sin pecado, sin maldad.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -25147,7 +25121,8 @@ himnos[537] = {
 			'solamente te ofrezco',
 			'mi vida para que la uses tú.',
 			'Señor, hazme hoy un siervo útil',
-			'que anuncie el mensaje,']
+			'que anuncie el mensaje,',
+			'el mensaje de la cruz.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25157,13 +25132,15 @@ himnos[537] = {
 			'cada día tú me llamas.',
 			'Señor, yo acudo a tu llamado',
 			'a cada instante,',
-			'pues mi gozo']
+			'pues mi gozo',
+			'es servirte más y más.']
 	},{
 		nombre: 'Coda',
 		lineas: [
 			'Señor, tú me llamas',
 			'por mi nombre desde lejos;',
-			'por mi nombre,']
+			'por mi nombre,',
+			'cada día tú me llamas.']
 	}]
 }
 himnos[538] = {
@@ -25188,7 +25165,8 @@ himnos[538] = {
 			'con el corazón.',
 			'Te vengo a decir, te vengo a decir',
 			'toda la verdad:',
-			'que te amo, Señor, te adoro, Señor,']
+			'que te amo, Señor, te adoro, Señor,',
+			'con el corazón.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -25198,7 +25176,8 @@ himnos[538] = {
 			'de felicidad.',
 			'Te vengo a decir, te vengo a decir',
 			'toda la verdad:',
-			'que te amo, Señor, te adoro, Señor,']
+			'que te amo, Señor, te adoro, Señor,',
+			'con el corazón.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25208,7 +25187,8 @@ himnos[538] = {
 			'mi amigo, mi Dios.',
 			'Te quiero servir, te quiero servir,',
 			'mi Dios y mi Rey;',
-			'te vengo a poner todo lo que soy,']
+			'te vengo a poner todo lo que soy,',
+			'recíbelo, Dios.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25218,7 +25198,8 @@ himnos[538] = {
 			'tu siervo seré.',
 			'Envíame a mí, envíame a mí,',
 			'doquiera yo iré,',
-			'sé que nada soy, sé que nada soy,']
+			'sé que nada soy, sé que nada soy,',
+			'pero fiel seré.']
 	}]
 }
 himnos[539] = {
@@ -25242,38 +25223,44 @@ himnos[539] = {
 		lineas: [
 			'Que mi vida entera esté',
 			'consagrada a ti, Señor;',
-			'que mis manos pueda guiar']
+			'que mis manos pueda guiar',
+			'el impulso de tu amor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Lávame en la sangre del Señor,',
 			'límpiame de toda maldad;',
 			'traigo a ti mi vida',
-			'para ser, Señor,']
+			'para ser, Señor,',
+			'tuya por la eternidad.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Que mis pies tan sólo en pos',
 			'de lo santo puedan ir;',
-			'y que a ti, Señor, mi voz']
+			'y que a ti, Señor, mi voz',
+			'se complazca en bendecir.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Que mis labios al hablar',
 			'hablen sólo de tu amor;',
-			'que mis bienes ocultar']
+			'que mis bienes ocultar',
+			'no los pueda a ti, Señor.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Que mi tiempo todo esté',
 			'consagrado a tu loor;',
-			'y mi mente y su poder']
+			'y mi mente y su poder',
+			'sean usados en tu honor.']
 	},{
 		nombre: '5',
 		lineas: [
 			'Toma, oh Dios, mi voluntad,',
 			'y hazla tuya, nada más;',
-			'toma, sí, mi corazón,']
+			'toma, sí, mi corazón,',
+			'y tu trono en él tendrás.']
 	}]
 }
 himnos[540] = {
@@ -25296,31 +25283,36 @@ himnos[540] = {
 		lineas: [
 			'Salvador, a ti me rindo,',
 			'y obedezco sólo a ti;',
-			'mi guiador, mi fortaleza,']
+			'mi guiador, mi fortaleza,',
+			'todo encuentra mi alma en ti.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Yo me rindo a ti,',
 			'yo me rindo a ti,',
-			'mis flaquezas y pecados,']
+			'mis flaquezas y pecados,',
+			'todo traigo a ti.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Te confiesa sus delitos',
 			'mi contrito corazón,',
-			'oye, oh Cristo, mi plegaria,']
+			'oye, oh Cristo, mi plegaria,',
+			'quiero en ti tener perdón.']
 	},{
 		nombre: '3',
 		lineas: [
 			'A tus pies yo deposito',
 			'mi riqueza, mi placer;',
-			'que tu Espíritu me llene']
+			'que tu Espíritu me llene',
+			'y de ti sienta poder.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Tu bondad será la historia',
 			'que predique por doquier,',
-			'y tu amor inagotable']
+			'y tu amor inagotable',
+			'será siempre mi querer.']
 	}]
 }
 himnos[541] = {
@@ -25341,7 +25333,8 @@ himnos[541] = {
 		lineas: [
 			'¿Qué te daré, Maestro?',
 			'Te diste tú por mí.',
-			'¿Menos daré de lo que obtendré']
+			'¿Menos daré de lo que obtendré',
+			'o todo daré a ti?']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -25351,19 +25344,22 @@ himnos[541] = {
 			'para morir por mí.',
 			'¿Qué te daré, Maestro?',
 			'Te diste tú por mí;',
-			'no la mitad, mas todo mi ser']
+			'no la mitad, mas todo mi ser',
+			'yo lo daré a ti.']
 	},{
 		nombre: '2',
 		lineas: [
 			'¿Qué te daré, Maestro?',
 			'Me redimiste a mí.',
-			'Es pequeñez, mas mi todo es,']
+			'Es pequeñez, mas mi todo es,',
+			'y todo lo entrego a ti.']
 	},{
 		nombre: '3',
 		lineas: [
 			'¿Qué te daré, Maestro?',
 			'Divino donador.',
-			'Tiempo y vigor, talento y ardor']
+			'Tiempo y vigor, talento y ardor',
+			'serán tuyos, oh Señor.']
 	}]
 }
 himnos[542] = {
@@ -25384,25 +25380,29 @@ himnos[542] = {
 		lineas: [
 			'Cual mi Maestro anhelo siempre ser;',
 			'más de su gracia quiero yo tener,',
-			'más fiel en su obra, constante en la oración,']
+			'más fiel en su obra, constante en la oración,',
+			'siempre creciendo en fe y consagración.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Mi corazón te entrego, buen Señor;',
 			'mi corazón te entrego con fervor;',
-			'lávalo tú de toda iniquidad,']
+			'lávalo tú de toda iniquidad,',
+			'tuyo será hoy y por la eternidad.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Ser cual Jesús es siempre mi oración,',
 			'llevar su cruz marchando de él en pos;',
-			'todo mi esfuerzo en pro del caro ideal,']
+			'todo mi esfuerzo en pro del caro ideal,',
+			'de ver creciente su reino celestial.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Cual mi Maestro quiero yo crecer,',
 			'los pecadores a sus pies traer;',
-			'en su servicio más fe y abnegación,']
+			'en su servicio más fe y abnegación,',
+			'para el perdido su santa compasión.']
 	}]
 }
 himnos[543] = {
@@ -25422,13 +25422,15 @@ himnos[543] = {
 			'cuanto más te conozco',
 			'quiero saber más de ti;',
 			'mi Dios, cual buen alfarero,',
-			'quebrántame, transfórmame,']
+			'quebrántame, transfórmame,',
+			'moldéame a tu imagen, Señor.']
 	},{
 		nombre: '',
 		lineas: [
 			'/Quiero ser más como tú,',
 			'ver la vida como tú,',
-			'saturarme de tu Espíritu']
+			'saturarme de tu Espíritu',
+			'y reflejar al mundo tu amor./']
 	}]
 }
 himnos[544] = {
@@ -25453,13 +25455,15 @@ himnos[544] = {
 			'siempre andar de él en pos.',
 			'Consagrar a él mi vida,',
 			'cumplir fiel su voluntad;',
-			'y algún día, con mi Cristo,']
+			'y algún día, con mi Cristo,',
+			'gozaré la claridad.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'¡Oh sí, yo quiero andar con Cristo!',
 			'¡Oh sí, yo quiero vivir con Cristo!',
-			'¡Oh sí, yo quiero morir por Cristo,']
+			'¡Oh sí, yo quiero morir por Cristo,',
+			'quiero serle un testigo fiel!']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25469,7 +25473,8 @@ himnos[544] = {
 			'y yo sé que es la verdad.',
 			'Cristo era santo en todo;',
 			'el Cordero de la cruz,',
-			'y yo anhelo ser cristiano,']
+			'y yo anhelo ser cristiano,',
+			'seguidor de mi Jesús.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25479,7 +25484,8 @@ himnos[544] = {
 			'cargaré aquí mi cruz.',
 			'Este mundo nada ofrece,',
 			'Cristo ofrece salvación;',
-			'y es mi única esperanza']
+			'y es mi única esperanza',
+			'gozar vida eterna en Sion.']
 	}]
 }
 himnos[545] = {
@@ -25502,31 +25508,36 @@ himnos[545] = {
 		lineas: [
 			'¿Qué le darás a Cristo',
 			'si tienes gran caudal?',
-			'¿Toda tu plata u oro?']
+			'¿Toda tu plata u oro?',
+			'¿No le podrás dar más?']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'¿Qué le darás a Cristo?',
 			'Él todo dio por ti;',
-			'dale tu vida entera']
+			'dale tu vida entera',
+			'y así serás feliz.']
 	},{
 		nombre: '2',
 		lineas: [
 			'¿Qué le darás a Cristo,',
 			'sino todo tu ser?',
-			'Si nada te reservas']
+			'Si nada te reservas',
+			'el mal podrás vencer.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Si el mundo entero gime',
 			'bajo el mortal dolor,',
-			'¿por qué no llevar pronto']
+			'¿por qué no llevar pronto',
+			'las nuevas del perdón?']
 	},{
 		nombre: '4',
 		lineas: [
 			'Si quieres agradarle,',
 			'dale tu corazón,',
-			'todo tu ser ofrece']
+			'todo tu ser ofrece',
+			'en fiel consagración.']
 	}]
 }
 himnos[546] = {
@@ -25551,7 +25562,8 @@ himnos[546] = {
 			'en el mundo de espinas erial.',
 			'Que el hogar que a formarse comienza',
 			'con la unión de estos dos corazones,',
-			'goce siempre de mil bendiciones']
+			'goce siempre de mil bendiciones',
+			'al amparo del Dios de Israel.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25561,7 +25573,8 @@ himnos[546] = {
 			'a los que hoy se prometen lealtad.',
 			'Les recuerde que nada en el mundo',
 			'es eterno, que todo termina',
-			'y por tanto, con gracia divina,']
+			'y por tanto, con gracia divina,',
+			'cifrar deben la dicha en su Dios.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25571,7 +25584,8 @@ himnos[546] = {
 			'el secreto de dicha inmortal.',
 			'Y si acaso de duelo y tristeza',
 			'se empañasen sus sendas un día,',
-			'en Jesús hallarán dulce guía,']
+			'en Jesús hallarán dulce guía,',
+			'que otra senda les muestre mejor.']
 	}]
 }
 himnos[547] = {
@@ -25596,7 +25610,8 @@ himnos[547] = {
 			'que se unen hoy aquí.',
 			'Concédeles, ¡oh, Padre!,',
 			'tu celestial favor;',
-			'haz que constantes sean']
+			'haz que constantes sean',
+			'y fieles en su amor.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25606,7 +25621,8 @@ himnos[547] = {
 			'gozara eterna luz,',
 			'ayúdales, rogamos,',
 			'a preparar su hogar,',
-			'cual fuera el de Betania,']
+			'cual fuera el de Betania,',
+			'do puedas tú morar.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25616,7 +25632,8 @@ himnos[547] = {
 			'en goces o aflicción,',
 			'que tengan tu potencia',
 			'con toda plenitud,',
-			'y en santidad de vida']
+			'y en santidad de vida',
+			'demuestren tu virtud. Amén.']
 	}]
 }
 himnos[548] = {
@@ -25633,32 +25650,35 @@ himnos[548] = {
 	'MÚSICA: Victor Herbert',
 	],
 	versos: [{
-		nombre: '',
+		nombre: '1',
 		lineas: [
-			'1. Oh, Señor Jesús,',
+			'Oh, Señor Jesús,',
 			'a ti hoy acudimos',
 			'elevándote ferviente oración,',
 			'imploramos bendición',
 			'en los caminos',
-			'de estos dos seres']
+			'de estos dos seres',
+			'que de ti quieren la unción.']
 	},{
-		nombre: '',
+		nombre: '2',
 		lineas: [
-			'2. Suplicamos tu presencia',
+			'Suplicamos tu presencia',
 			'eternamente en su senda',
 			'y vivan siempre en tu amor;',
 			'ámalos y cuida',
 			'de ellos tiernamente',
-			'y así en su hogar']
+			'y así en su hogar',
+			'no asaltará pavor.']
 	},{
-		nombre: '',
+		nombre: '3',
 		lineas: [
-			'3. Tú, Señor que escuchas',
+			'Tú, Señor que escuchas',
 			'siempre la plegaria',
 			'de tus hijos,',
 			'fieles en toda ocasión;',
 			'dígnate morar allí',
-			'en su vida diaria']
+			'en su vida diaria',
+			'y llénalos de rica bendición.']
 	}]
 }
 himnos[549] = {
@@ -25682,7 +25702,8 @@ himnos[549] = {
 			'y a pedir tu bendición.',
 			'Que tu Espíritu, Señor,',
 			'se complazca en recibir',
-			'nuestra alabanza y loor']
+			'nuestra alabanza y loor',
+			'y nuestro hogar dirigir.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25692,7 +25713,8 @@ himnos[549] = {
 			'en prueba de adoración.',
 			'Reina siempre en el hogar,',
 			'haz de él tu habitación,',
-			'y nos permitas andar']
+			'y nos permitas andar',
+			'en sendas de bendición.']
 	}]
 }
 himnos[550] = {
@@ -25714,25 +25736,29 @@ himnos[550] = {
 		lineas: [
 			'Padre y eterno Dios, humildemente',
 			'nos inclinamos hoy ante este altar;',
-			'tú que trasciendes al entendimiento,']
+			'tú que trasciendes al entendimiento,',
+			'une a estas almas con tu amor sin par.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Tú, de la vida inspirador supremo,',
 			'sella este pacto con tu bendición;',
-			'y en tus promesas y en tu compañía']
+			'y en tus promesas y en tu compañía',
+			'vivan tus hijos sin ningún temor.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Ante las pruebas dales valentía,',
 			'y aquella fe que vence al vendaval;',
-			'sea la luz de cada nuevo día,']
+			'sea la luz de cada nuevo día,',
+			'aurora plena de felicidad.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Padre, que en este hogar, que hoy se ha formado',
 			'arda inefable el fuego de tu amor;',
-			'que cual altar por ti santificado,']
+			'que cual altar por ti santificado,',
+			'fiel se consagre al reino del Señor. Amén.']
 	}]
 }
 himnos[551] = {
@@ -25757,7 +25783,8 @@ himnos[551] = {
 			'bajo su techo abrigador;',
 			'mas tal hogar, del cielo es',
 			'trasunto fiel para el mortal,',
-			'y se hallará si al buen Jesús']
+			'y se hallará si al buen Jesús',
+			'se rinde el alma ante sus pies.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25767,7 +25794,8 @@ himnos[551] = {
 			'que impide sombra de terror;',
 			'no habrá más duelo ni aflicción,',
 			'sólo virtud y amor al bien,',
-			'y así el hogar será un Edén']
+			'y así el hogar será un Edén',
+			'si Cristo es Rey del corazón.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25777,7 +25805,8 @@ himnos[551] = {
 			'y en mis tinieblas sé la luz;',
 			'y cuando, de la tentación,',
 			'azote fiero el huracán,',
-			'que mi alma encuentre con afán']
+			'que mi alma encuentre con afán',
+			'en ti, mi Dios, su salvación.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -25787,7 +25816,8 @@ himnos[551] = {
 			'por su poder, ya terminó;',
 			'y aunque las pruebas sin cesar',
 			'a mis umbrales estarán,',
-			'de mi mansión no lograrán,']
+			'de mi mansión no lograrán,',
+			'la fe en Jesús, jamás quitar.']
 	}]
 }
 himnos[552] = {
@@ -25811,7 +25841,8 @@ himnos[552] = {
 			'a esta unión matrimonial;',
 			'del hogar tú serás Rey,',
 			'y queremos prometer',
-			'el saber obedecer']
+			'el saber obedecer',
+			'por siempre tu santa ley.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25821,7 +25852,8 @@ himnos[552] = {
 			'y tu infinita bondad.',
 			'Queda siempre, oh Jesús,',
 			'como dueño de este hogar',
-			'que empezamos a formar']
+			'que empezamos a formar',
+			'e ilumínenos tu luz. Amén.']
 	}]
 }
 himnos[553] = {
@@ -25847,13 +25879,15 @@ himnos[553] = {
 			'sean siempre en este hogar;',
 			'que en él, Señor, tú tengas',
 			'el trono bendecido,',
-			'que esté en tu amor unido']
+			'que esté en tu amor unido',
+			'y goce de tu paz.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Oh, Dios de amor,',
 			'en nuestro hogar',
-			'tus santas bendiciones']
+			'tus santas bendiciones',
+			'sean una realidad.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25863,7 +25897,8 @@ himnos[553] = {
 			'le honremos con fervor.',
 			'Dios nuestro, Padre eterno,',
 			'tu amor incomparable,',
-			'que es puro e inefable,']
+			'que es puro e inefable,',
+			'no falte en este hogar.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25873,7 +25908,8 @@ himnos[553] = {
 			'perenne comunión.',
 			'Señor, que eternamente,',
 			'tus santas bendiciones,',
-			'por las generaciones,']
+			'por las generaciones,',
+			'estén en este hogar.']
 	}]
 }
 himnos[554] = {
@@ -25895,25 +25931,29 @@ himnos[554] = {
 		lineas: [
 			'Cuando las bases de este mundo tiemblan',
 			'y el mal corrompe nuestra sociedad,',
-			'nuestras plegarias hacia ti se elevan']
+			'nuestras plegarias hacia ti se elevan',
+			'por la familia, por la humanidad.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Los padres críen con temor sus hijos,',
 			'sin irritarlos, en amor y fe;',
-			'sean los hijos siempre agradecidos,']
+			'sean los hijos siempre agradecidos,',
+			'nunca se aparten de tu santa ley.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Que ni el dinero, ni el placer se tornen',
 			'en falsa meta del moderno hogar:',
-			'busque servirte y ofrecer sus dones']
+			'busque servirte y ofrecer sus dones',
+			'a un mundo lleno de necesidad.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Que los hogares que a Jesús confiesan,',
 			'como la sal al mundo den sabor,',
-			'y por sus obras y por su belleza,']
+			'y por sus obras y por su belleza,',
+			'muestren los signos de tu santo amor. Amén.']
 	}]
 }
 himnos[555] = {
@@ -25939,7 +25979,8 @@ himnos[555] = {
 			'hoy escuchamos su voz.',
 			'¡Cuán placentero es mirarle,',
 			'de corazón alabarle,',
-			'vivificar nuestras almas']
+			'vivificar nuestras almas',
+			'al fuego de su amor!']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -25949,7 +25990,8 @@ himnos[555] = {
 			'gozo, paz, poder;',
 			'luchad por Jesús,',
 			'hablad de su amor,',
-			'¡no permitáis que se pierdan']
+			'¡no permitáis que se pierdan',
+			'el niño y la mujer! Amén.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -25959,7 +26001,8 @@ himnos[555] = {
 			'de su presencia al calor;',
 			'hijos, esposos y hermanos',
 			'siempre a su luz mantengamos.',
-			'Trozo de cielo será nuestro hogar,']
+			'Trozo de cielo será nuestro hogar,',
+			'gracias al Señor.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -25969,7 +26012,8 @@ himnos[555] = {
 			'bajo el imperio del mal!',
 			'Quiere el Señor que les demos',
 			'la vida que poseemos;',
-			'a esos que sufren, llevemos']
+			'a esos que sufren, llevemos',
+			'la eterna felicidad.']
 	}]
 }
 himnos[556] = {
@@ -25996,13 +26040,15 @@ himnos[556] = {
 			'sustento de mi ser.',
 			'Tú impulsas en mis venas',
 			'mi sangre al palpitar,',
-			'y el ritmo de la vida']
+			'y el ritmo de la vida',
+			'vas dando al corazón.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Oh, Dios de cielo y tierra,',
 			'te sirvo desde aquí;',
-			'te amo en mis hermanos,']
+			'te amo en mis hermanos,',
+			'te adoro en la creación.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26012,7 +26058,8 @@ himnos[556] = {
 			'el diario trajinar.',
 			'El golpe del martillo,',
 			'la tecla al escribir,',
-			'entonan su alabanza']
+			'entonan su alabanza',
+			'al Dios de la creación.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26022,7 +26069,8 @@ himnos[556] = {
 			'de nuestro conversar.',
 			'Bendices nuestra mesa',
 			'y no nos falta pan,',
-			'cuidas de nuestros hijos,']
+			'cuidas de nuestros hijos,',
+			'fruto de nuestro amor.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -26032,7 +26080,8 @@ himnos[556] = {
 			'en nuestra madurez.',
 			'En medio de la muerte',
 			'estás presente, oh Dios,',
-			'llamando nuestras vidas']
+			'llamando nuestras vidas',
+			'a eterna plenitud.']
 	}]
 }
 himnos[557] = {
@@ -26054,29 +26103,34 @@ himnos[557] = {
 		lineas: [
 			'Danos un bello hogar:',
 			'donde la Biblia nos guíe fiel,',
-			'donde tu amor bienestar nos dé,']
+			'donde tu amor bienestar nos dé,',
+			'donde en ti todos tengan fe.']
 	},{
 		nombre: 'Coro',
 		lineas: [
-			'¡Danos un bello hogar!']
+			'¡Danos un bello hogar!',
+			'¡danos un bello hogar!']
 	},{
 		nombre: '2',
 		lineas: [
 			'Danos un bello hogar:',
 			'donde el padre es fuerte y fiel,',
-			'y su ejemplo se pueda ver,']
+			'y su ejemplo se pueda ver,',
+			'donde tu amor reine en nuestro ser.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Danos un bello hogar:',
 			'donde la madre, con devoción,',
-			'sepa mostrarnos tu compasión,']
+			'sepa mostrarnos tu compasión,',
+			'do todos vivan en comunión.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Danos un bello hogar:',
 			'donde los hijos, con decisión,',
-			'sigan a Cristo de corazón;']
+			'sigan a Cristo de corazón;',
+			'do se respire tu bendición.']
 	}]
 }
 himnos[558] = {
@@ -26098,25 +26152,29 @@ himnos[558] = {
 		lineas: [
 			'Oh Dios, que de un piadoso hogar nos diste al Salvador,',
 			'a ti venimos a implorar con honda contrición:',
-			'redime presto, por tu amor, la vida familiar,']
+			'redime presto, por tu amor, la vida familiar,',
+			'que Cristo pueda todo allí, potente, transformar.']
 	},{
 		nombre: '2',
 		lineas: [
 			'De los pecados líbranos, que arruinan el hogar;',
 			'que pueda en él, tu santo amor, habitación hallar.',
-			'En vano oramos por el bien de nuestra humanidad,']
+			'En vano oramos por el bien de nuestra humanidad,',
+			'si negligentes, la niñez dejamos descarriar.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Oh Padre, la familia fiel descansa sólo en ti;',
 			'de ti recibe gracia y fe, y el gozo de vivir.',
-			'Que nuestras casas puedan ser escuelas de verdad']
+			'Que nuestras casas puedan ser escuelas de verdad',
+			'donde aprendamos a buscar y hacer tu voluntad.']
 	},{
 		nombre: '4',
 		lineas: [
 			'La gracia danos de guiar a nuestra juventud,',
 			'sus dones siempre a consagrar a ti con gratitud.',
-			'Enséñanos a construir hogares dignos ya,']
+			'Enséñanos a construir hogares dignos ya,',
+			'seguros de encontrar al fin, en ti perfecto hogar.']
 	}]
 }
 himnos[559] = {
@@ -26137,19 +26195,22 @@ himnos[559] = {
 		lineas: [
 			'Hoy reconocemos con amor y alegría',
 			'todo lo que hace la madre en su hogar,',
-			'cómo sus palabras y su sabiduría']
+			'cómo sus palabras y su sabiduría',
+			'dan a la familia consuelo y bienestar.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Madres compasivas dan al necesitado,',
 			'valen más que perlas, son joyas del Señor.',
-			'Madres tan activas, siempre a nuestro lado,']
+			'Madres tan activas, siempre a nuestro lado,',
+			'con sus mil labores nos muestran su amor.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Bienaventuradas son las madres virtuosas',
 			'que confían siempre, temiendo al Señor;',
-			'la Palabra dice que son fieles esposas,']
+			'la Palabra dice que son fieles esposas,',
+			'cuidadosas madres y dignas de honor.']
 	}]
 }
 himnos[560] = {
@@ -26173,7 +26234,8 @@ himnos[560] = {
 			'hoy rendimos todo honor',
 			'a las madres, oh Señor,',
 			'por su amor y comprensión,',
-			'y su tierna compasión,']
+			'y su tierna compasión,',
+			'y su tierna compasión.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26182,7 +26244,8 @@ himnos[560] = {
 			'su constante y fiel labor,',
 			'te alabamos, Salvador;',
 			'son inmensa bendición',
-			'al hogar y la nación,']
+			'al hogar y la nación,',
+			'al hogar y la nación.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26191,7 +26254,8 @@ himnos[560] = {
 			'te rogamos, con fervor,',
 			'por las madres, Dios de amor;',
 			'que con tu divino bien',
-			'coronadas hoy estén,']
+			'coronadas hoy estén,',
+			'coronadas hoy estén.']
 	}]
 }
 himnos[561] = {
@@ -26212,18 +26276,21 @@ himnos[561] = {
 		lineas: [
 			'Al padre terrenal lo designó el Señor',
 			'para ser del hogar, sostén y protección.',
-			'Y antorcha viene a ser todo progenitor']
+			'Y antorcha viene a ser todo progenitor',
+			'que sometido esté a Cristo el Redentor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Oh, mi buen padre terrenal,',
-			'que Dios te dé su bendición']
+			'que Dios te dé su bendición',
+			'en tu misión sacerdotal.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Mi padre en su bondad, su rectitud y amor,',
 			'es siempre en el hogar presencia del Señor.',
-			'Por eso es que te doy las gracias ¡oh, Jesús!,']
+			'Por eso es que te doy las gracias ¡oh, Jesús!,',
+			'pues el que me engendró me ha guiado con tu luz.']
 	}]
 }
 himnos[562] = {
@@ -26246,7 +26313,8 @@ himnos[562] = {
 			'le alabamos con la voz',
 			'por su Hijo único',
 			'quien al mundo él mandó;',
-			'hoy brindamos todo honor']
+			'hoy brindamos todo honor',
+			'/a los padres con amor./']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26254,7 +26322,8 @@ himnos[562] = {
 			'y la vida en él sopló;',
 			'a su imagen lo formó',
 			'y su comunión buscó;',
-			'hoy brindamos todo honor']
+			'hoy brindamos todo honor',
+			'/a los padres con amor./']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26262,7 +26331,8 @@ himnos[562] = {
 			'a su esposa siempre es fiel;',
 			'por su ejemplo y dirección,',
 			'por su amor y provisión,',
-			'hoy brindamos todo honor']
+			'hoy brindamos todo honor',
+			'/a los padres con amor./']
 	},{
 		nombre: '4',
 		lineas: [
@@ -26270,7 +26340,8 @@ himnos[562] = {
 			'digno y fuerte para guiar;',
 			'loor al Padre celestial',
 			'por el padre terrenal;',
-			'hoy brindamos todo honor']
+			'hoy brindamos todo honor',
+			'/a los padres con amor./']
 	}]
 }
 himnos[563] = {
@@ -26295,12 +26366,14 @@ himnos[563] = {
 			'que vida tengo yo.',
 			'A Dios mis alabanzas,',
 			'pues me brindó el Eterno',
-			'en ti un cariño tierno,']
+			'en ti un cariño tierno,',
+			'cuidado y dirección.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Oh, mi Señor y Dios de amor,',
-			'concede a cada madre']
+			'concede a cada madre',
+			'tu gracia y bendición.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26310,7 +26383,8 @@ himnos[563] = {
 			'al gran amor de Dios:',
 			'es noble, madre mía,',
 			'sufrido y abnegado,',
-			'es desinteresado']
+			'es desinteresado',
+			'y sin comparación.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26320,7 +26394,8 @@ himnos[563] = {
 			'es un precioso don.',
 			'Por eso a Jesucristo',
 			'adoro, madre mía,',
-			'y ruego cada día']
+			'y ruego cada día',
+			'te dé su bendición.']
 	}]
 }
 himnos[564] = {
@@ -26343,31 +26418,36 @@ himnos[564] = {
 		lineas: [
 			'Jesucristo ha venido',
 			'a buscarse joyas;',
-			'todo niño redimido']
+			'todo niño redimido',
+			'su joyel será.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Como estrellas que brillan',
 			'son los niños que le aman,',
-			'los tesoros que adornan']
+			'los tesoros que adornan',
+			'al Rey y Señor.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Él escoge, por tesoros,',
 			'los niños amantes,',
-			'y en su seno los corderos']
+			'y en su seno los corderos',
+			'recibe Jesús.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Los niñitos y niñitas',
 			'que acuden a Cristo',
-			'son las joyas escogidas,']
+			'son las joyas escogidas,',
+			'preciosas para él.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Es su sangre derramada',
 			'que las joyas compra;',
-			'ningún alma no lavada']
+			'ningún alma no lavada',
+			'su reino verá.']
 	}]
 }
 himnos[565] = {
@@ -26390,31 +26470,36 @@ himnos[565] = {
 		lineas: [
 			'Los niños son de Cristo,',
 			'él es su Salvador,',
-			'son joyas muy preciosas,']
+			'son joyas muy preciosas,',
+			'comprólas con su amor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Joyas, joyas, joyas,',
 			'joyas del Salvador',
-			'están en esta tierra,']
+			'están en esta tierra,',
+			'cual luz y dulce amor.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Los niños son tesoros,',
 			'pues que del cielo son,',
-			'luz refulgente esparcen']
+			'luz refulgente esparcen',
+			'en horas de aflicción.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Los niños son estrellas',
 			'de grata claridad,',
-			'quiere Jesús que anuncien']
+			'quiere Jesús que anuncien',
+			'al mundo su verdad.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Los niños son de Cristo,',
 			'por ellos él vendrá;',
-			'y con él para siempre']
+			'y con él para siempre',
+			'dichosos vivirán.']
 	}]
 }
 himnos[566] = {
@@ -26434,7 +26519,8 @@ himnos[566] = {
 			'y también los quiere él salvar;',
 			'de todas las naciones',
 			'y todos los colores,',
-			'él quiere ver a todos']
+			'él quiere ver a todos',
+			'en su santo hogar.']
 	}]
 }
 himnos[567] = {
@@ -26454,19 +26540,22 @@ himnos[567] = {
 		lineas: [
 			'“¡Dejad a los niños que vengan!”',
 			'les dijo el buen Salvador;',
-			'con manos de suma ternura']
+			'con manos de suma ternura',
+			'los bendijo con amor.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Sus dones están aún latentes,',
 			'botones que quieren brotar;',
-			'esperan la luz de nosotros']
+			'esperan la luz de nosotros',
+			'y el apoyo del hogar.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Mostremos ahora a ellos',
 			'que todos poseen valor;',
-			'Jesús afirmó: “De los tales']
+			'Jesús afirmó: “De los tales',
+			'es el reino del Señor”.']
 	}]
 }
 himnos[568] = {
@@ -26488,25 +26577,29 @@ himnos[568] = {
 		lineas: [
 			'Cuando leo en la Biblia cómo llama Jesús',
 			'y bendice a los niños con amor,',
-			'yo también quisiera estar, y con ellos descansar']
+			'yo también quisiera estar, y con ellos descansar',
+			'en los brazos de mi buen Salvador.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Ver quisiera sus manos sobre mí reposar,',
 			'cariñosos abrazos de él sentir,',
-			'sus miradas disfrutar, las palabras escuchar:']
+			'sus miradas disfrutar, las palabras escuchar:',
+			'“A los niños dejad a mí venir”.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Más aún, a su estrado puedo ir en oración,',
 			'y también de su amor participar;',
-			'pues si aquí buscarle sé, le veré y le escucharé']
+			'pues si aquí buscarle sé, le veré y le escucharé',
+			'en el reino, que él fue a preparar.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Todos los redimidos y Salvados por él,',
 			'al Cordero celebran, inmortal;',
-			'allí voces mil y mil, salen del coro infantil,']
+			'allí voces mil y mil, salen del coro infantil,',
+			'porque es de ellos el reino celestial.']
 	}]
 }
 himnos[569] = {
@@ -26528,25 +26621,29 @@ himnos[569] = {
 		lineas: [
 			'Cristo me ama, bien lo sé,',
 			'pues la Biblia dice así;',
-			'desde el cielo él me ve']
+			'desde el cielo él me ve',
+			'y me dice: “Ven a mí”.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Cristo me ama,',
 			'Cristo me ama,',
-			'Cristo me ama,']
+			'Cristo me ama,',
+			'la Biblia dice así.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Cristo me ama, él murió',
 			'y con Dios ahora está;',
-			'mis pecados él lavó,']
+			'mis pecados él lavó,',
+			'su poder me sostendrá.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Cristo me ama, débil soy,',
 			'su poder me sostendrá;',
-			'él me ve por donde voy']
+			'él me ve por donde voy',
+			'y por mí velando está.']
 	}]
 }
 himnos[570] = {
@@ -26568,25 +26665,29 @@ himnos[570] = {
 		lineas: [
 			'Feliz, feliz cumpleaños',
 			'deseamos para ti;',
-			'que el Dios omnipotente']
+			'que el Dios omnipotente',
+			'te quiera bendecir.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Feliz, feliz cumpleaños,',
 			'de Dios felicidad,',
-			'que tengas en la vida']
+			'que tengas en la vida',
+			'y allá en la eternidad.']
 	},{
 		nombre: '2',
 		lineas: [
 			'A Dios le damos gracias',
 			'que, con sin par bondad,',
-			'al fin de este año hermoso']
+			'al fin de este año hermoso',
+			'te permitió llegar.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Oremos pues, unidos,',
 			'que te bendiga aún más;',
-			'te colme en el futuro']
+			'te colme en el futuro',
+			'de bien, prosperidad.']
 	}]
 }
 himnos[571] = {
@@ -26611,7 +26712,8 @@ himnos[571] = {
 			'hoy cantamos con fervor;',
 			'te deseamos muchos años',
 			'de completa bendición,',
-			'que tu vida sea en Cristo,']
+			'que tu vida sea en Cristo,',
+			'tu delicia y tu porción.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -26619,7 +26721,8 @@ himnos[571] = {
 			'felicidad (sí, cantad)',
 			'deseamos hoy de corazón;',
 			'su nombre alabad,',
-			'su nombre alabad;']
+			'su nombre alabad;',
+			'que Dios te dé su protección.']
 	},{
 		nombre: '',
 		lineas: [
@@ -26627,7 +26730,8 @@ himnos[571] = {
 			'te guiará (te guiará)',
 			'en sendas de paz y de amor,',
 			'pues que contigo Cristo',
-			'siempre está,']
+			'siempre está,',
+			'¡cantad, cantad, cantad!']
 	},{
 		nombre: 'Coro optativo',
 		lineas: [
@@ -26635,7 +26739,8 @@ himnos[571] = {
 			'porque en su amor (en su amor)',
 			'un año más te concedió;',
 			'dio bendición (bendición)',
-			'y protección (protección)']
+			'y protección (protección)',
+			'y con sus alas te cubrió.']
 	},{
 		nombre: '',
 		lineas: [
@@ -26643,7 +26748,8 @@ himnos[571] = {
 			'y guiará (guiará)',
 			'y en todo te prosperará,',
 			'pues a tu lado',
-			'ha prometido estar;']
+			'ha prometido estar;',
+			'¡a Dios todo loor!']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26653,7 +26759,8 @@ himnos[571] = {
 			'ricos dones te legó.',
 			'Dios que vela tus pisadas',
 			'y a tu lado siempre va,',
-			'por su gracia te sustenta']
+			'por su gracia te sustenta',
+			'con el célico maná.']
 	}]
 }
 himnos[572] = {
@@ -26676,14 +26783,16 @@ himnos[572] = {
 			'oh quinceañera feliz;',
 			'dale a Cristo la gloria,',
 			'por tu feliz existir,',
-			'nunca desprecies su gracia;']
+			'nunca desprecies su gracia;',
+			'quiérele siempre servir.']
 	},{
 		nombre: '',
 		lineas: [
 			'Gózate hoy, quinceañera feliz;',
 			'dale al Señor tu vida y corazón;',
 			'y vivirás bajo su fiel protección,',
-			'y en cada paso que des']
+			'y en cada paso que des',
+			'tú tendrás gran bendición.']
 	}]
 }
 himnos[573] = {
@@ -26708,7 +26817,8 @@ himnos[573] = {
 			'y damos gracias por su amor;',
 			'son quince años, que tal vez,',
 			'fueron de prueba y bendición,',
-			'felices días, tristes, tal vez,']
+			'felices días, tristes, tal vez,',
+			'pero el Señor nunca faltó.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26718,7 +26828,8 @@ himnos[573] = {
 			'sólo en Jesús, Hijo de Dios;',
 			'mas ahora tú, con tu razón',
 			'decidirás a quién servir,',
-			'si a este mundo engañador']
+			'si a este mundo engañador',
+			'o a Jesús, tu Salvador.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26728,7 +26839,8 @@ himnos[573] = {
 			'de él tendrás gran bendición;',
 			'sé sabia, pues, en elegir,',
 			'decide hoy a quién servir,',
-			'si a este mundo engañador']
+			'si a este mundo engañador',
+			'o a Jesús, tu Salvador.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -26738,7 +26850,8 @@ himnos[573] = {
 			'dándole toda protección;',
 			'tú con tu mano la asirás',
 			'y junto a ti caminará,',
-			'y así Satán jamás podrá']
+			'y así Satán jamás podrá',
+			'de ti su alma arrebatar.']
 	}]
 }
 himnos[574] = {
@@ -26758,13 +26871,15 @@ himnos[574] = {
 		lineas: [
 			'Te damos gracias, oh Señor,',
 			'porque hoy un año más',
-			'de vida, paz y bendición']
+			'de vida, paz y bendición',
+			'podemos celebrar.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Enséñanos a recordar',
 			'tus dones y tu amor,',
-			'y cada día a consagrar']
+			'y cada día a consagrar',
+			'la vida a ti, Señor. Amén.']
 	}]
 }
 himnos[575] = {
@@ -26787,7 +26902,8 @@ himnos[575] = {
 			'me gusta oír',
 			'cosas que él me contaría,',
 			'estando aquí.',
-			'Cuentos del campo, otros del mar.']
+			'Cuentos del campo, otros del mar.',
+			'¡Tan bella historia quiero escuchar!']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26795,7 +26911,8 @@ himnos[575] = {
 			'bendijo él,',
 			'y sentiré que su mano',
 			'posa en mi sien.',
-			'Tiernas palabras, actos de amor,']
+			'Tiernas palabras, actos de amor,',
+			'luz en el rostro de mi Señor.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26803,7 +26920,8 @@ himnos[575] = {
 			'triunfal entró',
 			'con la infantil comitiva',
 			'que lo siguió,',
-			'yo hubiera ido, feliz también,']
+			'yo hubiera ido, feliz también,',
+			'cantando: ”¡Hosanna, Jesús es Rey!”']
 	}]
 }
 himnos[576] = {
@@ -26821,19 +26939,22 @@ himnos[576] = {
 		lineas: [
 			'Hay un lugar, que Dios me dio,',
 			'para crecer y para vivir;',
-			'es el hogar, lugar de Dios,']
+			'es el hogar, lugar de Dios,',
+			'donde el amor puedo sentir.']
 	},{
 		nombre: '',
 		lineas: [
 			'Familia feliz',
 			'es donde reina Dios;',
-			'familia feliz,']
+			'familia feliz,',
+			'gran bendición de Dios.']
 	},{
 		nombre: '',
 		lineas: [
 			'Hay un lugar, que Dios me dio,',
 			'para crecer y para vivir;',
-			'es el hogar, lugar de Dios,']
+			'es el hogar, lugar de Dios,',
+			'donde el amor puedo sentir.']
 	}]
 }
 himnos[577] = {
@@ -26852,7 +26973,8 @@ himnos[577] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Mi hogar desea tu presencia,']
+			'Mi hogar desea tu presencia,',
+			'sólo tú eres digno de reverencia.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -26861,11 +26983,13 @@ himnos[577] = {
 			'mas mi casa y yo',
 			'serviremos al Señor;',
 			'mas mi casa y yo',
-			'serviremos al Señor;']
+			'serviremos al Señor;',
+			'serviremos al Señor.']
 	},{
 		nombre: '2',
 		lineas: [
-			'En santidad viviremos']
+			'En santidad viviremos',
+			'y sólo a ti nos postraremos.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26875,7 +26999,8 @@ himnos[577] = {
 			'confiando en el Señor;',
 			'nos respaldamos',
 			'padres y madres,',
-			'hermanos y hermanas']
+			'hermanos y hermanas',
+			'unidos en su amor.']
 	}]
 }
 himnos[578] = {
@@ -26901,13 +27026,15 @@ himnos[578] = {
 			'de Cristo y de su amor;',
 			'dímela con llaneza',
 			'propia de la niñez,',
-			'porque es mi mente flaca']
+			'porque es mi mente flaca',
+			'y anhela sencillez.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Dime la antigua historia,',
 			'cuéntame la victoria,',
-			'háblame de la gloria']
+			'háblame de la gloria',
+			'de Cristo y de su amor.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -26917,7 +27044,8 @@ himnos[578] = {
 			'que Cristo hizo por mí;',
 			'dímela con frecuencia,',
 			'soy dado a olvidar,',
-			'y el matinal rocío']
+			'y el matinal rocío',
+			'suele el sol disipar.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -26927,7 +27055,8 @@ himnos[578] = {
 			'yo quiero ser por él;',
 			'dime esa historia siempre,',
 			'si, en tiempo de aflicción,',
-			'deseas a mi alma']
+			'deseas a mi alma',
+			'traer consolación.']
 	}]
 }
 himnos[579] = {
@@ -26949,7 +27078,8 @@ himnos[579] = {
 			'tú siempre me das y yo te bendigo.',
 			'Te sigo riendo si entre rosas vas,',
 			'si vas entre cardos y zarzas te sigo.',
-			'Contigo en lo menos,']
+			'Contigo en lo menos,',
+			'contigo en lo más y siempre contigo.']
 	}]
 }
 himnos[580] = {
@@ -26968,7 +27098,8 @@ himnos[580] = {
 		lineas: [
 			'Te damos gracias, oh Señor,',
 			'por estas pruebas de tu amor.',
-			'Ven nuestra mesa a compartir']
+			'Ven nuestra mesa a compartir',
+			'y nuestra vida a bendecir. Amén.']
 	}]
 }
 himnos[581] = {
@@ -26987,7 +27118,8 @@ himnos[581] = {
 		lineas: [
 			'Por el sustento que nos das,',
 			'te damos gracias, oh Señor;',
-			'que el pan del cielo, tu maná,']
+			'que el pan del cielo, tu maná,',
+			'nos dé poder y salvación. Amén.']
 	}]
 }
 himnos[582] = {
@@ -27006,7 +27138,8 @@ himnos[582] = {
 			'Gracias damos, Señor, por el pan;',
 			'gracias damos, Señor, por el pan;',
 			'por el pan espiritual',
-			'que alimenta a cada cual,']
+			'que alimenta a cada cual,',
+			'y también por el pan material.']
 	}]
 }
 himnos[583] = {
@@ -27027,7 +27160,8 @@ himnos[583] = {
 			'Dios inmenso de bondad,',
 			'tú nos mandas que pidamos',
 			'bendición por nuestro pan;',
-			'tú nos mandas que pidamos']
+			'tú nos mandas que pidamos',
+			'bendición por nuestro pan.']
 	}]
 }
 himnos[584] = {
@@ -27050,7 +27184,8 @@ himnos[584] = {
 		lineas: [
 			'Pecador, ven al dulce Jesús,',
 			'y feliz para siempre serás,',
-			'que si tú le quisieres tener']
+			'que si tú le quisieres tener',
+			'al divino Señor hallarás.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -27058,25 +27193,29 @@ himnos[584] = {
 			'que te espera',
 			'tu buen Salvador;',
 			'ven a él, ven a él,',
-			'que te espera']
+			'que te espera',
+			'tu buen Salvador.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Si cual hijo que necio pecó,',
 			'vas buscando a sus pies compasión,',
-			'tierno padre en Jesús hallarás,']
+			'tierno padre en Jesús hallarás,',
+			'y tendrás en sus brazos perdón.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Si enfermo te sientes morir,',
 			'él será tu doctor celestial;',
-			'y hallarás en su sangre también,']
+			'y hallarás en su sangre también,',
+			'medicina que cure tu mal.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Ovejuela que huyó del redil,',
 			'¡he aquí tu benigno Señor!',
-			'y en los hombros llevada serás']
+			'y en los hombros llevada serás',
+			'de tan dulce y amante Pastor.']
 	}]
 }
 himnos[585] = {
@@ -27097,26 +27236,30 @@ himnos[585] = {
 		lineas: [
 			'A Jesucristo ven, sin tardar,',
 			'que entre nosotros hoy él está;',
-			'y te convida con dulce afán,']
+			'y te convida con dulce afán,',
+			'tierno, diciendo: “Ven”.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'¡Oh, cuán grata nuestra reunión,',
 			'cuando allá, Señor,',
 			'en tu mansión,',
-			'contigo estemos en comunión,']
+			'contigo estemos en comunión,',
+			'gozando eterno bien!']
 	},{
 		nombre: '2',
 		lineas: [
 			'Piensa que él sólo puede colmar',
 			'tu triste pecho de gozo y paz;',
-			'y porque anhela tu bienestar,']
+			'y porque anhela tu bienestar,',
+			'vuelve a decirte: ven.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Su voz escucha sin vacilar,',
 			'y grato acepta lo que hoy te da.',
-			'Tal vez, mañana no habrá lugar,']
+			'Tal vez, mañana no habrá lugar,',
+			'no te detengas, ven.']
 	}]
 }
 himnos[586] = {
@@ -27138,25 +27281,29 @@ himnos[586] = {
 		lineas: [
 			'Con voz benigna te llama Jesús,',
 			'invitación de puro amor.',
-			'¿Por qué le dejas en vano llamar?']
+			'¿Por qué le dejas en vano llamar?',
+			'¿Sordo serás pecador?']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Hoy te convida,',
 			'hoy te convida;',
-			'voz bendecida,']
+			'voz bendecida,',
+			'benigna convídate hoy.']
 	},{
 		nombre: '2',
 		lineas: [
 			'A los cansados convida Jesús,',
 			'con compasión mira el dolor;',
-			'tráele tu carga, te bendecirá;']
+			'tráele tu carga, te bendecirá;',
+			'te ayudará el Señor.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Siempre aguardando contempla a Jesús.',
 			'¡Tanto esperar! ¡Con tanto amor!',
-			'Hasta sus plantas ven mísero, y trae']
+			'Hasta sus plantas ven mísero, y trae',
+			'tu tentación, tu dolor.']
 	}]
 }
 himnos[587] = {
@@ -27180,13 +27327,15 @@ himnos[587] = {
 			'hoy nos llama,',
 			'con insistente bondad,',
 			'toca a las puertas',
-			'del alma y espera']
+			'del alma y espera',
+			'con amorosa ansiedad.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'“Venid a mí, venid,',
 			'los que cansados estéis”.',
-			'Dulce descanso Jesús nos ofrece,']
+			'Dulce descanso Jesús nos ofrece,',
+			'hoy aceptarlo debéis.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -27194,7 +27343,8 @@ himnos[587] = {
 			'que nos llama',
 			'y no atender a su voz?',
 			'¿Cómo escuchar',
-			'que nos llama a seguirlo']
+			'que nos llama a seguirlo',
+			'y nunca de él ir en pos?']
 	},{
 		nombre: '3',
 		lineas: [
@@ -27202,7 +27352,8 @@ himnos[587] = {
 			'oportuno se pasa',
 			'para servir al Señor,',
 			'y a nuestra puerta',
-			'llamando la muerte']
+			'llamando la muerte',
+			'vamos a ver con pavor.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -27210,7 +27361,8 @@ himnos[587] = {
 			'que su amor admirable,',
 			'él sin medida nos da.',
 			'Y aunque pecamos',
-			'y somos ingratos,']
+			'y somos ingratos,',
+			'siempre llamando él está.']
 	}]
 }
 himnos[588] = {
@@ -27231,25 +27383,29 @@ himnos[588] = {
 		lineas: [
 			'Oh, alma cansada y turbada,',
 			'¿sin luz en tu senda andarás?',
-			'Al Salvador mira y vive,']
+			'Al Salvador mira y vive,',
+			'del mundo la luz es su faz.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Fija tus ojos en Cristo,',
 			'tan lleno de gracia y amor,',
-			'y lo terrenal su valor tendrá']
+			'y lo terrenal su valor tendrá',
+			'a la luz del glorioso Señor.']
 	},{
 		nombre: '2',
 		lineas: [
 			'De muerte a vida eterna',
 			'te llama el Salvador fiel.',
-			'En ti no domine el pecado,']
+			'En ti no domine el pecado,',
+			'hay siempre victoria en él.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Jamás faltará su promesa:',
 			'“He aquí, yo contigo estoy”.',
-			'Al mundo perdido, aprisa,']
+			'Al mundo perdido, aprisa,',
+			'anuncia la salvación hoy.']
 	}]
 }
 himnos[589] = {
@@ -27273,13 +27429,15 @@ himnos[589] = {
 			'en pecado se vio:',
 			'Jesús es la luz del mundo;',
 			'mas en las tinieblas',
-			'la gloria brilló:']
+			'la gloria brilló:',
+			'Jesús es la luz del mundo.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'¡Ven a la luz; no quieras perder',
 			'gozo perfecto al amanecer!',
-			'Yo ciego fui, mas ya puedo ver.']
+			'Yo ciego fui, mas ya puedo ver.',
+			'¡Jesús es la luz del mundo!']
 	},{
 		nombre: '2',
 		lineas: [
@@ -27287,7 +27445,8 @@ himnos[589] = {
 			'la noche en día:',
 			'Jesús es la luz del mundo;',
 			'andemos en luz',
-			'y sigamos al guía:']
+			'y sigamos al guía:',
+			'Jesús es la luz del mundo.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -27295,7 +27454,8 @@ himnos[589] = {
 			'del lóbrego error!',
 			'Jesús es la luz del mundo;',
 			'él manda lavaros',
-			'y ver su fulgor:']
+			'y ver su fulgor:',
+			'Jesús es la luz del mundo.']
 	},{
 		nombre: '4',
 		lineas: [
@@ -27303,7 +27463,8 @@ himnos[589] = {
 			'el cielo tendrá:',
 			'Jesús es la luz del mundo;',
 			'la luz de su rostro',
-			'lo iluminará:']
+			'lo iluminará:',
+			'Jesús es la luz del mundo.']
 	}]
 }
 himnos[590] = {
@@ -27325,32 +27486,37 @@ himnos[590] = {
 		lineas: [
 			'Hay un alma que va por el valle',
 			'donde nunca fulgura la luz;',
-			'va buscando las gotas de sangre']
+			'va buscando las gotas de sangre',
+			'que cayeron de la cruenta cruz.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'¿Quién responde:',
 			'“Yo soy el que vaga',
 			'por un valle desierto y sin luz;',
-			'tengo sed de sentir en mi alma,']
+			'tengo sed de sentir en mi alma,',
+			'las caricias de Cristo Jesús”?']
 	},{
 		nombre: '2',
 		lineas: [
 			'Por las sombras un alma camina,',
 			'va gimiendo de sed y dolor;',
-			'va llorando su negra desdicha']
+			'va llorando su negra desdicha',
+			'por el valle del mundo traidor.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Va buscando la fuente de vida,',
 			'¿quién le quiere ayudar a llegar?',
-			'¡Pobrecita del alma perdida!']
+			'¡Pobrecita del alma perdida!',
+			'Fatigada de tanto pecar.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Alma triste que gimes y lloras,',
 			'hoy te encuentras al pie de la cruz;',
-			'ya no dejes pasar otras horas,']
+			'ya no dejes pasar otras horas,',
+			'haz tu entrega al divino Jesús.']
 	}]
 }
 himnos[591] = {
@@ -27372,25 +27538,29 @@ himnos[591] = {
 		lineas: [
 			'La grata nueva escucha hoy:',
 			'En Cristo hay perdón,',
-			'confía en él, confía en él,']
+			'confía en él, confía en él,',
+			'en él hay salvación.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Ven a Cristo, ven a Cristo,',
 			'ven confiado a él,',
-			'y la vida, y la vida']
+			'y la vida, y la vida',
+			'hallarás en él.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Por redimirte, el Señor',
 			'su sangre derramó,',
-			'y en la cruz, y en la cruz']
+			'y en la cruz, y en la cruz',
+			'tu redención obró.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Camino cierto es Jesús',
 			'al Dios de vida y paz,',
-			'acude a él, acude a él,']
+			'acude a él, acude a él,',
+			'reposo te dará.']
 	}]
 }
 himnos[592] = {
@@ -27411,25 +27581,29 @@ himnos[592] = {
 		lineas: [
 			'¿Quieres ser salvo de toda maldad?',
 			'Tan sólo hay poder en mi Jesús.',
-			'¿Quieres vivir y gozar santidad?']
+			'¿Quieres vivir y gozar santidad?',
+			'Tan sólo hay poder en Jesús.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Hay poder, poder, sin igual poder,',
 			'en Jesús quien murió;',
-			'hay poder, poder, sin igual poder,']
+			'hay poder, poder, sin igual poder,',
+			'en la sangre que él vertió.']
 	},{
 		nombre: '2',
 		lineas: [
 			'¿Quieres ser libre de orgullo y pasión?',
 			'Tan sólo hay poder en mi Jesús.',
-			'¿Quieres vencer toda cruel tentación?']
+			'¿Quieres vencer toda cruel tentación?',
+			'Tan sólo hay poder en Jesús.']
 	},{
 		nombre: '3',
 		lineas: [
 			'¿Quieres servir a tu Rey y Señor?',
 			'Tan sólo hay poder en mi Jesús.',
-			'Ven y ser salvo podrás en su amor,']
+			'Ven y ser salvo podrás en su amor,',
+			'tan sólo hay poder en Jesús.']
 	}]
 }
 himnos[593] = {
@@ -27450,7 +27624,8 @@ himnos[593] = {
 			'la prueba yo te doy,',
 			'él me ha cambiado a mí;',
 			'¿no ves que soy feliz',
-			'siguiendo al Señor?']
+			'siguiendo al Señor?',
+			'Nueva criatura soy, nueva soy.']
 	}]
 }
 himnos[594] = {
@@ -27475,13 +27650,15 @@ himnos[594] = {
 			'buscando la senda',
 			'de vida y salud,',
 			'y Cristo le dijo:',
-			'“Si a Dios quieres ver,']
+			'“Si a Dios quieres ver,',
+			'tendrás que renacer”.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'“Tendrás que renacer;',
 			'tendrás que renacer;',
-			'de cierto, de cierto te digo a ti:']
+			'de cierto, de cierto te digo a ti:',
+			'Tendrás que renacer”.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -27490,7 +27667,8 @@ himnos[594] = {
 			'y con los benditos',
 			'allí descansar;',
 			'si vida eterna',
-			'quisieres tener,']
+			'quisieres tener,',
+			'tendrás que renacer.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -27499,7 +27677,8 @@ himnos[594] = {
 			'palabras que Cristo',
 			'dignóse hablar,',
 			'porque si no quieres',
-			'el alma perder,']
+			'el alma perder,',
+			'tendrás que renacer.']
 	}]
 }
 himnos[595] = {
@@ -27522,31 +27701,36 @@ himnos[595] = {
 		lineas: [
 			'Venid a mí los tristes,',
 			'cansados de luchar,',
-			'yo soy vuestro refugio,']
+			'yo soy vuestro refugio,',
+			'venid a descansar.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Venid, venid a mí,',
 			'cansados de pecar;',
-			'venid, venid a mí,']
+			'venid, venid a mí,',
+			'venid a descansar.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Venid a mí, cansados,',
 			'mi voz hoy escuchad,',
-			'y así seréis librados']
+			'y así seréis librados',
+			'de toda iniquidad.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Venid a mí, cansados,',
 			'os dice el Salvador,',
-			'por valles y montañas']
+			'por valles y montañas',
+			'os busca el buen Pastor.']
 	},{
 		nombre: '4',
 		lineas: [
 			'Venid a mí, cansados,',
 			'¿por qué queréis vagar?',
-			'A vuestro Padre amante']
+			'A vuestro Padre amante',
+			'venid sin esperar.']
 	}]
 }
 himnos[596] = {
@@ -27570,7 +27754,8 @@ himnos[596] = {
 			'que quiere darte a ti.',
 			'Mi buen Jesús murió',
 			'para darte perdón,',
-			'abre tu corazón']
+			'abre tu corazón',
+			'y dulce paz tendrás.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -27580,7 +27765,8 @@ himnos[596] = {
 			'y tú podrás entrar.',
 			'Mas gracia ya no habrá,',
 			'pues despreciaste hoy;',
-			'acepta, pecador,']
+			'acepta, pecador,',
+			'la salvación de Dios.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -27590,7 +27776,8 @@ himnos[596] = {
 			'y serás muy feliz.',
 			'Tus cuitas pon en Dios,',
 			'pues él las llevará;',
-			'quitará tu pesar']
+			'quitará tu pesar',
+			'por su consolación.']
 	}]
 }
 himnos[597] = {
@@ -27610,7 +27797,8 @@ himnos[597] = {
 			'Ya Jesús me ha salvado, ¿y a ti?',
 			'Él su vida me dio, su sangre vertió',
 			'para darme la paz y el perdón.',
-			'¡Aleluya, aleluya! Fiel a Jesús yo seré.']
+			'¡Aleluya, aleluya! Fiel a Jesús yo seré.',
+			'¡Aleluya, aleluya! Él salvó mi ser.']
 	}]
 }
 himnos[598] = {
@@ -27635,7 +27823,8 @@ himnos[598] = {
 			'hijos de nuestro Dios,',
 			'ninguna condena',
 			'hay para los santos,',
-			'los que creen en Cristo']
+			'los que creen en Cristo',
+			'como su Salvador.']
 	},{
 		nombre: 'Coro',
 		lineas: [
@@ -27645,7 +27834,8 @@ himnos[598] = {
 			'en los brazos de Dios.',
 			'Todo aquel que a Cristo',
 			'quiere entregar su alma',
-			'hallará dulce calma']
+			'hallará dulce calma',
+			'en los brazos de Dios.']
 	},{
 		nombre: '2',
 		lineas: [
@@ -27655,7 +27845,8 @@ himnos[598] = {
 			'en el seno de Dios,',
 			'allá en el cielo',
 			'estaremos reunidos',
-			'los lavados con sangre']
+			'los lavados con sangre',
+			'derramada en la cruz.']
 	},{
 		nombre: '3',
 		lineas: [
@@ -27665,7 +27856,8 @@ himnos[598] = {
 			'“Ven a mí, pecador”,',
 			'acepta la gracia',
 			'del Hijo bendito',
-			'que en la cruz del Calvario']
+			'que en la cruz del Calvario',
+			'tu castigo llevó.']
 	}]
 }
 himnos[599] = {
@@ -27686,25 +27878,29 @@ himnos[599] = {
 		lineas: [
 			'Cristo murió por mí',
 			'en cruenta y dura cruz.',
-			'También murió por ti, por ti,']
+			'También murió por ti, por ti,',
+			'cuán grande fue su amor.']
 	},{
 		nombre: 'Coro',
 		lineas: [
 			'Por mí bajó del cielo',
 			'y se humilló al morir;',
-			'es él todo consuelo,']
+			'es él todo consuelo,',
+			'te quiere redimir.']
 	},{
 		nombre: '2',
 		lineas: [
 			'Cristo murió por mí,',
 			'lo tengo que contar;',
-			'también murió por ti, por ti,']
+			'también murió por ti, por ti,',
+			'pues te quiere salvar.']
 	},{
 		nombre: '3',
 		lineas: [
 			'Cristo te llama hoy,',
 			'no tardes pecador;',
-			'él quiere rescatarte']
+			'él quiere rescatarte',
+			'y darte su perdón.']
 	}]
 }
 himnos[600] = {
@@ -29444,57 +29640,36 @@ himnos[632] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Viajaba en triste soledad',
-			'y nadie me buscó,',
-			'la carga horrible de impiedad',
-			'más grande se volvió;',
-			'le dije a Jesucristo',
-			'que me trataban mal,',
+			'Viajaba en triste soledad y nadie me buscó,',
+			'la carga horrible de impiedad más grande se volvió;',
+			'le dije a Jesucristo que me trataban mal,',
 			'entonces le oí así decir:',
-			'“Camino del Calvario,',
-			'mi pie también sufrió;',
-			'la cruz que yo cargaba',
-			'mi cuerpo doblegó.',
-			'Prosigue, peregrino,',
-			'que el alba ya vendrá;',
-			'tu cruz levanta',
-			'y ven en pos de mí.”']
+			'“Camino del Calvario, mi pie también sufrió;',
+			'la cruz que yo cargaba mi cuerpo doblegó.',
+			'Prosigue, peregrino, que el alba ya vendrá;',
+			'tu cruz levanta y ven en pos de mí.”']
 	},{
 		nombre: '2',
 		lineas: [
-			'A veces dije que “por ti',
-			'penoso es trabajar,',
-			'que mucho yo sacrifiqué,',
-			'tu senda por andar;',
-			'mi fama y mi fortuna,',
-			'por ti yo las dejé”,',
+			'A veces dije que “por ti penoso es trabajar,',
+			'que mucho yo sacrifiqué, tu senda por andar;',
+			'mi fama y mi fortuna, por ti yo las dejé”,',
 			'entonces le oí así decir:',
-			'“Mi hogar de eterna gloria',
-			'por ti abandoné,',
-			'mis manos enclavadas',
-			'en cruenta cruz miré.',
-			'Mas hoy caminaremos',
-			'unidos, tú y yo;',
-			'tu cruz levanta',
-			'y ven en pos de mí.”']
+			'“Mi hogar de eterna gloria por ti abandoné,',
+			'mis manos enclavadas en cruenta cruz miré.',
+			'Mas hoy caminaremos unidos, tú y yo;',
+			'tu cruz levanta y ven en pos de mí.”']
 	},{
 		nombre: '3',
 		lineas: [
-			'Y muchas veces yo pensé;',
-			'“Qué duro es caminar',
-			'en las pisadas de Jesús,',
-			'y hacer su voluntad”;',
-			'que sus demandas de servir,',
-			'no podía aguantar,',
+			'Y muchas veces yo pensé; “Qué duro es caminar',
+			'en las pisadas de Jesús, y hacer su voluntad”;',
+			'que sus demandas de servir, no podía aguantar,',
 			'y entonces le oí así decir:',
-			'“Si sólo un vaso de agua',
-			'te pido que has de dar,',
-			'tan sólo un vaso de agua',
-			'de ti he de demandar;',
-			'y si en tus aflicciones',
-			'un alma has de ayudar,',
-			'de ti, muy cerca',
-			'yo prometo estar.”']
+			'“Si sólo un vaso de agua te pido que has de dar,',
+			'tan sólo un vaso de agua de ti he de demandar;',
+			'y si en tus aflicciones un alma has de ayudar,',
+			'de ti, muy cerca yo prometo estar.”']
 	}]
 }
 himnos[633] = {
@@ -29741,20 +29916,13 @@ himnos[637] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Su nombre es “El Señor”',
-			'y pasa hambre,',
-			'y clama por la boca',
-			'del hambriento;',
-			'y muchos que lo ven',
-			'pasan de largo,',
-			'acaso por llegar temprano',
-			'al templo.',
-			'Su nombre es “El Señor”',
-			'y sed soporta,',
-			'y está en quien de justicia',
-			'va sediento,',
-			'y muchos que lo ven',
-			'pasan de largo,',
+			'Su nombre es “El Señor” y pasa hambre,',
+			'y clama por la boca del hambriento;',
+			'y muchos que lo ven pasan de largo,',
+			'acaso por llegar temprano al templo.',
+			'Su nombre es “El Señor” y sed soporta,',
+			'y está en quien de justicia va sediento,',
+			'y muchos que lo ven pasan de largo,',
 			'a veces ocupados en sus rezos.']
 	},{
 		nombre: 'Coro',
@@ -29766,39 +29934,25 @@ himnos[637] = {
 	},{
 		nombre: '2',
 		lineas: [
-			'Su nombre es “El Señor”',
-			'y está desnudo,',
-			'la ausencia del amor',
-			'hiela sus huesos,',
-			'y muchos que lo ven',
-			'pasan de largo,',
+			'Su nombre es “El Señor” y está desnudo,',
+			'la ausencia del amor hiela sus huesos,',
+			'y muchos que lo ven pasan de largo,',
 			'seguros y al calor de su dinero.',
-			'Su nombre es “El Señor”',
-			'y enfermo vive,',
+			'Su nombre es “El Señor” y enfermo vive,',
 			'y su dolor es el de la agonía,',
-			'y muchos que lo saben',
-			'no hacen caso,',
-			'tal vez no frecuentaba',
-			'mucho el templo.',
-			'En la sociedad']
+			'y muchos que lo saben no hacen caso,',
+			'tal vez no frecuentaba mucho el templo.']
 	},{
 		nombre: '3',
 		lineas: [
-			'Su nombre es “El Señor”',
-			'y está en la cárcel,',
-			'está en la soledad',
-			'de cada preso,',
+			'Su nombre es “El Señor” y está en la cárcel,',
+			'está en la soledad de cada preso,',
 			'y nadie lo visita y hasta dicen:',
-			'tal vez ése no era',
-			'de los nuestros.',
-			'Su nombre es “El Señor”,',
-			'el que sed tiene,',
-			'él pide por la boca',
-			'del hambriento,',
-			'está preso, está enfermo,',
-			'está desnudo,',
-			'pero él nos va a juzgar',
-			'por todo eso.']
+			'tal vez ése no era de los nuestros.',
+			'Su nombre es “El Señor”, el que sed tiene,',
+			'él pide por la boca del hambriento,',
+			'está preso, está enfermo, está desnudo,',
+			'pero él nos va a juzgar por todo eso.']
 	}]
 }
 himnos[638] = {
@@ -31061,56 +31215,36 @@ himnos[662] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Los cielos cuentan',
-			'la gloria del Señor,',
-			'y el firmamento la obra',
-			'de sus manos;',
+			'Los cielos cuentan la gloria del Señor,',
+			'y el firmamento la obra de sus manos;',
 			'un día emite palabra a otro día,',
 			'sabiduría de noche a otra noche.',
-			'Y cuando él habla,',
-			'se escucha en todo extremo,',
-			'pues para todos',
-			'lo emite con poder;',
-			'su ley perfecta,',
-			'también sus testimonios,',
-			'convierte al alma',
-			'y alegra el corazón.']
+			'Y cuando él habla, se escucha en todo extremo,',
+			'pues para todos lo emite con poder;',
+			'su ley perfecta, también sus testimonios,',
+			'convierte al alma y alegra el corazón.']
 	},{
 		nombre: '2',
 		lineas: [
-			'Limpio el temor de Jehová',
-			'es permanente,',
-			'y son eternos sus juicios,',
-			'son verdad;',
-			'yo tengo en Dios',
-			'mi confianza reverente,',
-			'y en el sendero',
-			'mis pasos guía fiel.',
-			'Son tus decretos,',
-			'que el oro más deseables,',
-			'y que la miel del panal',
-			'más dulces son,',
-			'tú me amonestas con ellos,',
-			'son amables,',
-			'y en guardarlos',
-			'hay grande galardón.']
+			'Limpio el temor de Jehová es permanente,',
+			'y son eternos sus juicios, son verdad;',
+			'yo tengo en Dios mi confianza reverente,',
+			'y en el sendero mis pasos guía fiel.',
+			'Son tus decretos, que el oro más deseables,',
+			'y que la miel del panal más dulces son,',
+			'tú me amonestas con ellos, son amables,',
+			'y en guardarlos hay grande galardón.']
 	},{
 		nombre: '3',
 		lineas: [
-			'Presérvame, oh Señor,',
-			'de mis errores,',
-			'de los ocultos',
-			'tú líbrame también;',
-			'de la soberbia',
-			'me guarden tus favores,',
+			'Presérvame, oh Señor, de mis errores,',
+			'de los ocultos tú líbrame también;',
+			'de la soberbia me guarden tus favores,',
 			'estaré limpio e íntegro seré.',
-			'Que sean gratos',
-			'los dichos de mi boca,',
+			'Que sean gratos los dichos de mi boca,',
 			'lo que medite también mi corazón;',
-			'mi Redentor, oh Jehová,',
-			'tú eres mi Roca;',
-			'Señor Jesús,',
-			'eres tú mi adoración.']
+			'mi Redentor, oh Jehová, tú eres mi Roca;',
+			'Señor Jesús, eres tú mi adoración.']
 	}]
 }
 himnos[663] = {
@@ -31571,54 +31705,34 @@ himnos[671] = {
 	versos: [{
 		nombre: '1',
 		lineas: [
-			'Bendeciré al Señor',
-			'en todo tiempo,',
-			'su alabanza',
-			'en mi boca estará;',
-			'en el Señor',
-			'se gloriará mi alma,',
-			'lo oirán los mansos',
-			'y se alegrarán.',
-			'Engrandeced',
-			'al Señor conmigo,',
-			'y exaltemos a una',
-			'su nombre.',
-			'Busqué al Señor',
-			'y él me oyó',
-			'y de todos mi temores',
-			'me libró.']
+			'Bendeciré al Señor en todo tiempo,',
+			'su alabanza en mi boca estará;',
+			'en el Señor se gloriará mi alma,',
+			'lo oirán los mansos y se alegrarán.',
+			'Engrandeced al Señor conmigo,',
+			'y exaltemos a una su nombre.',
+			'Busqué al Señor y él me oyó',
+			'y de todos mi temores me libró.']
 	},{
 		nombre: '2',
 		lineas: [
-			'Su luz dará el Señor',
-			'si lo miraren,',
-			'los sostiene',
-			'y no se avergonzarán.',
-			'Cuando clamé,',
-			'oyóme en mis angustias,',
-			'me libró de ellas,',
-			'mis ruegos escuchó.',
-			'Acampa fiel,',
-			'mi Dios es conmigo;',
-			'me defiende,',
-			'lo siento a mi lado;',
+			'Su luz dará el Señor si lo miraren,',
+			'los sostiene y no se avergonzarán.',
+			'Cuando clamé, oyóme en mis angustias,',
+			'me libró de ellas, mis ruegos escuchó.',
+			'Acampa fiel, mi Dios es conmigo;',
+			'me defiende, lo siento a mi lado;',
 			'con fe yo clamé al Señor,',
 			'y de todos mis temores me libró.']
 	},{
 		nombre: '3',
 		lineas: [
-			'A Jehová temerán',
-			'todos sus santos,',
-			'él es bueno,',
-			'apreciad su caridad.',
-			'El hombre fiel',
-			'en Dios será dichoso',
-			'y ningún bien',
-			'a su hijo faltará.',
-			'De todo mal',
-			'tu lengua reprime,',
-			'que tus labios',
-			'no digan engaño,',
+			'A Jehová temerán todos sus santos,',
+			'él es bueno, apreciad su caridad.',
+			'El hombre fiel en Dios será dichoso',
+			'y ningún bien a su hijo faltará.',
+			'De todo mal tu lengua reprime,',
+			'que tus labios no digan engaño,',
 			'tú busca la paz del Señor,',
 			'y en todos tus caminos estará.']
 	}]
@@ -31634,7 +31748,7 @@ himnos[672] = {
 	'C- Sal. 42.5                            ',
 	],
 	autores: [
-	'',
+		'LETRA Y MÚSICA: Martin Nystrom'
 	],
 	versos: [{
 		nombre: '1',
@@ -31663,8 +31777,7 @@ himnos[672] = {
 			'Mi amigo y hermano eres',
 			'aunque eres el gran Rey,',
 			'te amo más que todo,',
-			'más que cualquier posesión.',
-			'LETRA Y MÚSICA: Martin Nystrom']
+			'más que cualquier posesión.']
 	}]
 }
 himnos[673] = {
@@ -33360,20 +33473,29 @@ himnos[706] = {
 			'Alabad a nuestro Dios',
 			'en su santuario,',
 			'por la hermosura de su cielo,',
-			'por su proezas alabadle a él.',
-			'',
+			'por su proezas alabadle a él.']
+	},{
+		nombre: '',
+		lineas: [
 			'Alabadle por la grandeza',
 			'de su nombre,',
 			'con el sonido de bocina,',
-			'salterio y arpa, a la vez cantad.',
-			'',
+			'salterio y arpa, a la vez cantad.']
+	},{
+		nombre: '',
+		lineas: [
 			'Alabadle con el alegre pandero,',
 			'con el candor de la danza,',
-			'cantad con gozo al Señor.',
-			'',
+			'cantad con gozo al Señor.']
+	},{
+		nombre: '',
+		lineas: [
 			'Alabadle con cuerdas,',
 			'flautas y címbalos',
-			'de júbilo resonantes.',
+			'de júbilo resonantes.']
+	},{
+		nombre: '',
+		lineas: [
 			'En su lenguaje, todo',
 			'lo que respira alabe al Señor,',
 			'lo que respira alabe al Señor. Amén.']

@@ -12,7 +12,7 @@ export let favoritos = localStorage.getItem('favoritos')
 if (!favoritos) {
   favoritos = []
 } else {
-  favoritos = favoritos.split(',')
+  favoritos = favoritos.split(',').sort()
 }
 favoritos.forEach((favorito) => {
   console.log(himnos[favorito])
