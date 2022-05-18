@@ -1,13 +1,30 @@
 var cacheName = "himnario_v1";
 var filesToCache = [
-  '.',
-  'index.html',
-  'index.js'
+  './assets/color-circles/amber.svg',
+  './assets/color-circles/blue-grey.svg',
+  './assets/color-circles/blue.svg',
+  './assets/color-circles/brown.svg',
+  './assets/color-circles/cyan.svg',
+  './assets/color-circles/deep-orange.svg',
+  './assets/color-circles/deep-purple.svg',
+  './assets/color-circles/green.svg',
+  './assets/color-circles/grey.svg',
+  './assets/color-circles/indigo.svg',
+  './assets/color-circles/light-blue.svg',
+  './assets/color-circles/light-green.svg',
+  './modules/materialize.min.js',
+  './styles/global.css',
+  './styles/materialize.min.css',
+  './styles/revealjs/black.css',
+  './styles/revealjs/reveal.css',
+  './styles/revealjs/white.css'
 ];
 
 var himnosCache = "himnos_v1";
 var files_Himnos = [
-  '.'
+  '.',
+  './index.html',
+  './main.js'
 ];
 
 
