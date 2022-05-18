@@ -24,7 +24,11 @@ var himnosCache = "himnos_v1";
 var files_Himnos = [
   '.',
   './index.html',
-  './main.js'
+  './index.js',
+  './modules/cargar_himno.js',
+  './modules/cargar_home.js',
+  './modules/himnos.js',
+  './modules/reveal.js'
 ];
 
 
