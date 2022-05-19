@@ -123,7 +123,7 @@ export const cargar_himno = (himno) => {
     reproductor.innerHTML = `
     <audio id="player" src="https://a16016344.github.io/himnariop/himno/mp3/${himno.numero.toString().padStart(3, '0')}.mp3" type="audio/mp3"></audio>
     <div class="fixed-action-btn">
-  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large green hide" id="btnPlay">
+  <button onclick="player.play(); btnPlay.classList.add('pulse')" class="btn-floating btn-large grey hide" id="btnPlay">
     <i class="large material-icons">play_arrow</i>
   </button>
   <ul>
@@ -142,8 +142,13 @@ export const cargar_himno = (himno) => {
       btnPlay.classList.remove('pulse')
     }
 
-    player.oncanplaythrough = () => {
+    player.onloadedmetadata = () => {
       btnPlay.classList.remove('hide')
+    }
+
+    player.oncanplaythrough = () => {
+      btnPlay.classList.remove('grey')
+      btnPlay.classList.add('green')
     }
 
     btnPartitura.addEventListener('click', () => {
