@@ -237,14 +237,19 @@ export const cargar_home = () => {
 
     const himnos = listaHimnos.querySelectorAll('.collection-item')
     search.addEventListener('keyup', (e) => {
-      const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-      himnos.forEach((himno) => {
-        const nombreHimno = himno.innerText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-        himno.classList.add('hide')
-        if (nombreHimno.indexOf(busqueda) != -1){
-          himno.classList.remove('hide')
-        }
-      })
+      if (search.value.length > 3){
+        listaHimnos.classList.remove('hide')
+        const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        himnos.forEach((himno) => {
+          const nombreHimno = himno.innerText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+          himno.classList.add('hide')
+          if (nombreHimno.indexOf(busqueda) != -1){
+            himno.classList.remove('hide')
+          }
+        })
+      } else if (e.key != 'Enter'){
+        listaHimnos.classList.add('hide')
+      }
     })
 
     search.addEventListener('blur', (e) => {
@@ -263,6 +268,16 @@ export const cargar_home = () => {
       let numero = parseInt(search.value)
       if (numero > 0 && numero < 707){
         location.href = `#${numero}`
+      } else {
+        listaHimnos.classList.remove('hide')
+        const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        himnos.forEach((himno) => {
+          const nombreHimno = himno.innerText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+          himno.classList.add('hide')
+          if (nombreHimno.indexOf(busqueda) != -1){
+            himno.classList.remove('hide')
+          }
+        })
       }
 
     })
