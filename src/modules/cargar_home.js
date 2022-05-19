@@ -14,9 +14,6 @@ if (!favoritos) {
 } else {
   favoritos = favoritos.split(',').sort()
 }
-favoritos.forEach((favorito) => {
-  console.log(himnos[favorito])
-})
 
 export const cargar_home = () => {
   body.innerHTML = ''
@@ -55,7 +52,12 @@ export const cargar_home = () => {
     let btns = crearElemento('p', '', [])
 
     let listaFavoritos = crearElemento('ul', '', ['collection'])
-    favoritos.forEach(favorito => {
+
+  let favoritosOrdenados = favoritos.map((favorito)=>{
+    return parseInt(favorito)
+  })
+
+    favoritosOrdenados.sort((a,b)=>a-b).forEach(favorito => {
       let li = crearElemento('a', `${himnos[favorito].numero}. ${himnos[favorito].titulo}`, ['collection-item', color, 'white-text', 'modal-close'])
       li.href = `#${himnos[favorito].numero}`
       listaFavoritos.appendChild(li)
@@ -137,8 +139,16 @@ export const cargar_home = () => {
     btnInfo.href = "#info"
 
     let infoModal = crearElemento('aside', `<div class="modal-content">
-        <h4>Info</h4>
-          <p>App creada para uso gratuito</p>
+        <h4>Información</h4>
+          <p>App creada para uso gratuito. Este proyecto es independiente y no cuenta con ningún subsidio por parte de ninguna iglesia. Si deseas apoyar al mantenimiento del proyecto con una donación puedes ponerte en contacto con el desarrollador.</p>
+          <a href="https://www.mercadopago.com.mx/subscriptions/checkout?preapproval_plan_id=2c93808480710707018077566dd00124" target="_blank" class="btn blue">Donar mensualmente</a>
+          <h5>Contacto</h5>
+          <p>Si tienes alguna sugerencia o algo no funciona bien, puedes ponerte en contacto conmigo y en medida de lo posible atenderé tu solicitud.</p>
+          <a href="https://wa.me/529997700066" target="_blank" class="btn green">WhatsApp</a>
+          <a href="https://www.facebook.com/himnariop" target="_blank" class="btn blue">Facebook</a>
+          <p class="center">Desarrollada por DevZafiro <br>         
+          <img class="responsive-img" src="./assets/devZafiro.png" width="128">
+          </p>
       </div>
       <div class="modal-footer">
         <a href="#" class="modal-close waves-effect waves-${color} btn-flat">Cerrar</a>
@@ -235,9 +245,9 @@ export const cargar_home = () => {
 
     M.AutoInit();
 
-    const himnos = listaHimnos.querySelectorAll('.collection-item')
     search.addEventListener('keyup', (e) => {
       if (search.value.length > 3){
+        const himnos = listaHimnos.querySelectorAll('.collection-item')
         listaHimnos.classList.remove('hide')
         const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         himnos.forEach((himno) => {
@@ -269,6 +279,7 @@ export const cargar_home = () => {
       if (numero > 0 && numero < 707){
         location.href = `#${numero}`
       } else {
+        const himnos = listaHimnos.querySelectorAll('.collection-item')
         listaHimnos.classList.remove('hide')
         const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         himnos.forEach((himno) => {

@@ -2,8 +2,6 @@ import './reveal.js' //Para pruebas en src
 //import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
 import { favoritos } from './cargar_home.js'
 
-console.log(favoritos)
-
 export const cargar_himno = (himno) => {
 
     let color = localStorage.getItem('color')

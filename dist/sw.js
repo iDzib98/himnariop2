@@ -12,12 +12,23 @@ var filesToCache = [
   './assets/color-circles/indigo.svg',
   './assets/color-circles/light-blue.svg',
   './assets/color-circles/light-green.svg',
+  './assets/color-circles/lime.svg',
+  './assets/color-circles/orange.svg',
+  './assets/color-circles/pink.svg',
+  './assets/color-circles/purple.svg',
+  './assets/color-circles/red.svg',
+  './assets/color-circles/teal.svg',
+  './assets/color-circles/yellow.svg',
   './scripts/materialize.min.js',
   './styles/global.css',
   './styles/materialize.min.css',
   './styles/revealjs/black.css',
   './styles/revealjs/reveal.css',
-  './styles/revealjs/white.css'
+  './styles/revealjs/white.css',
+  './styles/revealjs/fonts/source-sans-pro/source-sans-pro-italic.woff',
+  './styles/revealjs/fonts/source-sans-pro/source-sans-pro-regular.woff',
+  './styles/revealjs/fonts/source-sans-pro/source-sans-pro-semibold.woff',
+  './styles/revealjs/fonts/source-sans-pro/source-sans-pro.css'
 ];
 
 var himnosCache = "himnos_v1";
