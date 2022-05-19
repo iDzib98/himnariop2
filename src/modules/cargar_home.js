@@ -235,18 +235,16 @@ export const cargar_home = () => {
 
     M.AutoInit();
 
+    const himnos = listaHimnos.querySelectorAll('.collection-item')
     search.addEventListener('keyup', (e) => {
-      setTimeout(()=>{
-        const himnos = listaHimnos.querySelectorAll('.collection-item')
-        const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-        himnos.forEach((himno) => {
-          const nombreHimno = himno.innerText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-          himno.classList.add('hide')
-          if (nombreHimno.indexOf(busqueda) != -1){
-            himno.classList.remove('hide')
-          }
-        })
-      },0)
+      const busqueda = search.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      himnos.forEach((himno) => {
+        const nombreHimno = himno.innerText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        himno.classList.add('hide')
+        if (nombreHimno.indexOf(busqueda) != -1){
+          himno.classList.remove('hide')
+        }
+      })
     })
 
     search.addEventListener('blur', (e) => {
