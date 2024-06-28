@@ -155,7 +155,7 @@ export const cargar_himno = (himno) => {
         main.classList.remove('container')
         main.style = `height: calc(100vh - 64px); margin: 0; padding: 0; overflow: hidden;`
         main.innerHTML = `
-        <iframe style="margin: 0; padding: 0;" src="https://docs.google.com/viewer?url=https://ipuertadesalvacion.com/HimnarioNotasPDF/${himno.numero}.pdf&amp;embedded=true" width="100%" height="100%"></iframe>
+        <iframe style="margin: 0; padding: 0;" src="https://docs.google.com/viewer?url=https://ipuertadesalvacion.com/_H1mnar10/${himno.numero}.pdf&amp;embedded=true" width="100%" height="100%"></iframe>
         `
         main.appendChild(reproductor)
     })
