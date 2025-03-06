@@ -28,14 +28,15 @@ var filesToCache = [
   './styles/revealjs/fonts/source-sans-pro/source-sans-pro-italic.woff',
   './styles/revealjs/fonts/source-sans-pro/source-sans-pro-regular.woff',
   './styles/revealjs/fonts/source-sans-pro/source-sans-pro-semibold.woff',
-  './styles/revealjs/fonts/source-sans-pro/source-sans-pro.css'
+  './styles/revealjs/fonts/source-sans-pro/source-sans-pro.css',
+  '.',
+  './index.html',
+  './main.js',
 ];
 
 var himnosCache = "himnos_v1";
 var files_Himnos = [
-  '.',
-  './index.html',
-  './main.js'
+  './himnos.json'
 ];
 
 
