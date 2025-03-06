@@ -1,8 +1,17 @@
-import './reveal.js' //Para pruebas en src
-//import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
+//import './reveal.js' //Para pruebas en src
+import Reveal from '/node_modules/reveal.js'; //Cambiarlo en dist
 import { favoritos } from './cargar_home.js'
 
-export const cargar_himno = (himno) => {
+export const cargar_himno = async (numero) => {
+  const response = await fetch('./himnos.json');
+  const himnos = await response.json();
+  console.log(himnos)
+  console.log(numero.numero)
+    const himno = himnos.find(h => h && h.numero == numero);
+    if (!himno) {
+        console.error(`Himno con número ${numero} no encontrado.`);
+        return;
+    }
 
     let color = localStorage.getItem('color')
     if (!color) {
@@ -262,7 +271,7 @@ export const cargar_himno = (himno) => {
       console.log(favoritos)
     })
 
-    refresh.addEventListener('click', () => {cargar_himno(himno)})
+    refresh.addEventListener('click', () => {cargar_himno(himno.numero)})
     M.AutoInit();
 
 }

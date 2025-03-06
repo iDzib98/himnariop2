@@ -1,4 +1,3 @@
-import { himnos } from "./modules/himnos.js";
 import { cargar_himno } from "./modules/cargar_himno.js";
 import { cargar_home } from "./modules/cargar_home.js"
 
@@ -52,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('hashchange', (e) => {
         himnoURL = window.location.hash.replace('#', '')
         if (himnoURL) {
-            cargar_himno(himnos[himnoURL])
+            cargar_himno(himnoURL)
         } else {
             cargar_home()
         }
@@ -62,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const himnoActual = localStorage.getItem('himnoActual')
 
     if (himnoActual) {
-        cargar_himno(himnos[himnoActual])
+        cargar_himno(himnoActual)
     } else {
         cargar_home()
     }

@@ -1,4 +1,4 @@
-import { himnos } from "./himnos.js";
+let himnos = [];
 
 let color = localStorage.getItem('color')
 if (!color) {
@@ -15,7 +15,9 @@ if (!favoritos) {
   favoritos = favoritos.split(',').sort()
 }
 
-export const cargar_home = () => {
+export const cargar_home = async () => {
+  const response = await fetch('./himnos.json');
+  himnos = await response.json();
   body.innerHTML = ''
 
     localStorage.removeItem('himnoActual')
@@ -58,9 +60,12 @@ export const cargar_home = () => {
   })
 
     favoritosOrdenados.sort((a,b)=>a-b).forEach(favorito => {
-      let li = crearElemento('a', `${himnos[favorito].numero}. ${himnos[favorito].titulo}`, ['collection-item', color, 'white-text', 'modal-close'])
-      li.href = `#${himnos[favorito].numero}`
-      listaFavoritos.appendChild(li)
+      let himno = himnos.find(h => h && h.numero === favorito);
+      if (himno) {
+          let li = crearElemento('a', `${himno.numero}. ${himno.titulo}`, ['collection-item', color, 'white-text', 'modal-close'])
+          li.href = `#${himno.numero}`
+          listaFavoritos.appendChild(li)
+      }
     })
     
     let favoritosModal = crearElemento('aside', `<div class="modal-content">
@@ -221,7 +226,7 @@ export const cargar_home = () => {
     main.appendChild(crearElemento('h2', `&nbsp`, ['titulo']))
 
 
-    const listaHimnos = crearListaHimnos()
+    const listaHimnos = await crearListaHimnos()
 
     body.appendChild(listaHimnos)
     body.appendChild(main)
@@ -367,7 +372,7 @@ export const cargar_home = () => {
       body.classList.remove('sans-serif')
       body.classList.add('monospace')
       btnSerif.classList.remove(color)
-      btnSans.classList.remove(color)
+      btnSans.classList.add(color)
       btnMono.classList.add(color)
     })
 }
@@ -390,8 +395,9 @@ const crearCollapsible = (titulo, inicio, fin) => {
     collapsibleBody.classList.add('collapsible-body')
     let lista = ''
     for (let i = inicio; i <= fin; i++){
-        if (himnos[i]){
-            lista += `<a href="#${himnos[i].numero}" class="collection-item ${color} white-text darken-3">${himnos[i].numero}. ${himnos[i].titulo}</a>`
+        let himno = himnos.find(h => h && h.numero === i);
+        if (himno){
+            lista += `<a href="#${himno.numero}" class="collection-item ${color} white-text darken-3">${himno.numero}. ${himno.titulo}</a>`
         }
     }
     collapsibleBody.innerHTML = `<div class="collection">${lista}</div>`
@@ -412,12 +418,15 @@ const crearElemento = (tipo, html, clases) => {
     return elem
 }
 
-const crearListaHimnos = () => {
+const crearListaHimnos = async () => {
+  const response = await fetch('./himnos.json');
+  himnos = await response.json();
   const container = crearElemento('ul', '', ['lista-himnos', 'collection'])
   let lista = ''
   for (let i = 1; i <= 706; i++){
-    if (himnos[i]){
-        lista += `<a href="#${himnos[i].numero}" class="collection-item ${color} white-text darken-3 hide">${himnos[i].numero}. ${himnos[i].titulo}</a>`
+    let himno = himnos.find(h => h && h.numero === i);
+    if (himno){
+        lista += `<a href="#${himno.numero}" class="collection-item ${color} white-text darken-3 hide">${himno.numero}. ${himno.titulo}</a>`
     }
   }
   container.innerHTML = lista
