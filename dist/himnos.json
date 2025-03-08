@@ -2697,7 +2697,9 @@
           "Y en ella yo me deleitaré,",
           "En tu verdad caminaré;",
           "Por tu senda de justicia",
-          "Guíame."
+          "Guíame.",
+          "",
+          "Este canto se puede enlazar con el siguiente"
         ]
       }
     ]
@@ -2883,10 +2885,10 @@
       {
         "nombre": "Coro",
         "lineas": [
-          "Somos tus hijo",
+          "Somos tus hijos",
           "Te adoramos",
-          "Y al par te amamos,",
-          "¡oh, Redentor!"
+          "Y a la par te amamos,",
+          "¡Oh, Redentor!"
         ]
       },
       {
@@ -2933,7 +2935,7 @@
         "nombre": "1",
         "lineas": [
           "¡Dios es amor! ¡Dios es amor!",
-          "La Biblia lo dice",
+          "La Biblia nos dice",
           "El mensaje sublime",
           "Que Dios es amor, ¡Oh sí!",
           "¡Dios es amor!",
@@ -2969,7 +2971,7 @@
           "En años venideros,",
           "Nuestro refugio",
           "En hórrida tormenta",
-          "Y en nuestro hogar eterno."
+          "Y nuestro hogar eterno."
         ]
       },
       {
@@ -3099,7 +3101,7 @@
           "Omnipotente Dios,",
           "Con humildad",
           "Alzamos hoy la voz;",
-          "A ti!oh, Rey",
+          "A ti ¡Oh, Rey",
           "De toda la creación!,",
           "Gloria y honor",
           "Rendimos con unción."
@@ -3239,7 +3241,7 @@
           "Con gran regocijo",
           "Tributen loor",
           "Al rey soberano,",
-          "Al buen salvador;",
+          "El buen salvador;",
           "Dignísimo es él",
           "Del más alto honor."
         ]
@@ -3318,7 +3320,7 @@
           "¡Load al gran Rey!",
           "¡Su gloria cantad!",
           "Su amor a su grey",
-          "Con su gracia enlazad.",
+          "Con gracia enzalzad.",
           "Él es nuestro escudo,",
           "Baluarte y sostén;",
           "El Omnipotente,",
@@ -3326,7 +3328,7 @@
         ]
       },
       {
-        "nombre": "Coro",
+        "nombre": "2",
         "lineas": [
           "Tu inmensa bondad,",
           "¿qué lengua dirá?",
@@ -3339,7 +3341,7 @@
         ]
       },
       {
-        "nombre": "2",
+        "nombre": "3",
         "lineas": [
           "Inmenso en poder,",
           "¡grandioso en amor!",
@@ -3407,12 +3409,12 @@
         "nombre": "",
         "lineas": [
           "¡Hosanna! ¡Hosanna! ¡Hosanna!",
-          "En el cielo y tierra es del Señor",
+          "Eo cielo y tierra, es del Señor",
           "La gloria y potestad,",
           "Y nos circunda con su amor",
           "La excelsa Trinidad.",
           "Alzad, pues, himnos de loor,",
-          "Que es grato al sumo Bien,",
+          "Que es grato al Sumo Bien,",
           "Y a Dios rindamos todo honor,",
           "Ahora y siempre, Amén.",
           "A Dios rindamos todo honor,",
@@ -3443,7 +3445,7 @@
           "El mundo es de mi Dios,",
           "Su eterna posesión;",
           "Eleva a Dios su dulce voz",
-          "La eterna creación.",
+          "La entera creación.",
           "El mundo es de mi Dios,",
           "Trae paz así pensar,",
           "Él hizo el sol y el arrebol,",
@@ -3455,7 +3457,7 @@
         "lineas": [
           "El mundo es de mi Dios,",
           "Escucho alegre son",
-          "Del ruiseñor que su señor",
+          "Del ruiseñor que a su Señor",
           "Eleva su canción.",
           "El mundo es de mi Dios",
           "Y en todo mi redor",
@@ -3500,7 +3502,7 @@
           "Jamás podré yo comprender",
           "Por que mi alma salva fue,",
           "Al punto ya de perecer,",
-          "Mi Salvador sabe el por qué."
+          "Mi Salvador sabe el porqué."
         ]
       },
       {
@@ -3518,7 +3520,7 @@
           "¿Por qué en Jesús yo tengo fe",
           "Cuando otros la quieren tener?",
           "No quiero yo saber por qué,",
-          "Si mi señor sabe le por qué."
+          "Si mi Señor sabe el porqué."
         ]
       },
       {
@@ -3567,7 +3569,7 @@
           "Al día nos llevarán",
           "En que al mundo",
           "La gloria de Dios cubrirá",
-          "Cual aguas cubren el mar."
+          "Cual las aguas cubren el mar."
         ]
       },
       {
@@ -3604,7 +3606,7 @@
           "Nuestras obras son vanidad",
           "Sin el favor de Dios,",
           "La cosecha en su mano está,",
-          "Él Rey y Señor;",
+          "Él es Rey y Señor;",
           "Pero se acerca el tiempo ya",
           "Y nada lo detendrá,",
           "En que al mundo",
@@ -3647,7 +3649,7 @@
         "nombre": "Coro",
         "lineas": [
           "Unimos las voces",
-          "Y la gloria te damos,",
+          "Y gloria te damos,",
           "Señor de la tierra,",
           "Señor del mar,",
           "Señor de los cielos,",
@@ -3717,7 +3719,7 @@
           "Sé exaltado, por siempre exaltado",
           "Y yo te alabaré.",
           "Tú ere Señor,",
-          " Por siempre tú reinarás;",
+          "Por siempre tú reinarás;",
           "La creación se goza en tu santidad.",
           "Sé exaltado,",
           "Por siempre exaltado, Señor."
@@ -3743,13 +3745,12 @@
           "Y él en su trono está",
           "Él reina con majestad,",
           "Yahvé asombroso es.",
-          "Yahvé asombrosos es,",
-          "Y él en su trono está;",
+          "Yahvé asombroso es,",
           "Y él en su trono está;",
           "Él reina con majestad,",
-          "Yahvé asombrosos es,",
-          "Yahvé asombrosos es,",
-          "Yahvé asombrosos es."
+          "Yahvé asombroso es,",
+          "Yahvé asombroso es,",
+          "Yahvé asombroso es."
         ]
       }
     ]
@@ -3832,7 +3833,7 @@
           "Y lleve al Cordero",
           "Sentado en el trono",
           "El dulce tributo",
-          "De la adoración."
+          "De su adoración."
         ]
       }
     ]
@@ -3873,6 +3874,7 @@
           "¡Cuán grande es él!",
           "¡Cuán grande es él!",
           "Mi corazón",
+          "Entona la canción:",
           "¡Cuán grande es él!",
           "¡Cuán grande es él!"
         ]
@@ -3895,7 +3897,7 @@
           "Cuando recuerdo",
           "Del amor divino",
           "Que desde el cielo",
-          "El salvador envió,",
+          "Al salvador envió,",
           "A aquel Jesús que por salvarme vino",
           "Y en una cruz",
           "Sufrió por mí y murió."
@@ -4405,11 +4407,11 @@
         "lineas": [
           "Oh, criaturas del Señor,",
           "Cantad con melodiosa voz:",
-          "¡Alabadle!¡Alabadle!",
+          "¡Alabadle! ¡Alabadle!",
           "Ardientes sol con tu fulgor,",
           "Oh, luna de suave esplendor;",
           "¡Alabadle! ¡Alabadle!",
-          "¡Aleluya! ¡Aleluya!¡Aleluya!"
+          "¡Aleluya! ¡Aleluya! ¡Aleluya!"
         ]
       },
       {
@@ -4417,10 +4419,10 @@
         "lineas": [
           "Viento veloz, potente alud,",
           "Nubes en claro cielo azul;",
-          "¡Alabandle!¡Alabadle!",
+          "¡Alabandle! ¡Alabadle!",
           "Suave, dorado amanecer;",
-          "¡Alabandle!¡Alabadle!",
-          "¡Aleluya! ¡Aleluya!¡Aleluya!"
+          "¡Alabandle! ¡Alabadle!",
+          "¡Aleluya! ¡Aleluya! ¡Aleluya!"
         ]
       },
       {
@@ -4428,11 +4430,11 @@
         "lineas": [
           "Pródiga tierra maternal",
           "Que frutos brindas sin cesar",
-          "¡Alabandle!¡Alabadle!",
+          "¡Alabandle! ¡Alabadle!",
           "Rica cosecha, bella flor,",
           "Magnificad al Creador:",
-          "¡Alabandle!¡Alabadle!",
-          "¡Aleluya! ¡Aleluya!¡Aleluya!"
+          "¡Alabandle! ¡Alabadle!",
+          "¡Aleluya! ¡Aleluya! ¡Aleluya!"
         ]
       },
       {
@@ -4440,23 +4442,23 @@
         "lineas": [
           "Hombre de tierno corazón",
           "Que paz buscáis y dais amor:",
-          "¡Alabandle!¡Alabadle!",
+          "¡Alabandle! ¡Alabadle!",
           "Los que sufrís de pena cruel",
           "Vuestro dolor confiadle a él",
-          "¡Alabandle!¡Alabadle!",
-          "¡Aleluya! ¡Aleluya!¡Aleluya!"
+          "¡Alabandle! ¡Alabadle!",
+          "¡Aleluya! ¡Aleluya! ¡Aleluya!"
         ]
       },
       {
         "nombre": "5",
         "lineas": [
           "Con humildad y con amor",
-          "Cante la eterna creación:",
-          "¡Alabandle!¡Alabadle!",
+          "Cante la entera creación:",
+          "¡Alabandle! ¡Alabadle!",
           "Al Padre, al hijo Redentor",
           "Y al eternal Consolador:",
-          "¡Alabandle!¡Alabadle!",
-          "¡Aleluya! ¡Aleluya!¡Aleluya!"
+          "¡Alabandle! ¡Alabadle!",
+          "¡Aleluya! ¡Aleluya! ¡Aleluya!"
         ]
       }
     ]
@@ -4587,7 +4589,7 @@
           "De su amor constante y fuerte,",
           "Ni la vida, ni la muerte,",
           "Nunca pueden separarles;",
-          "Protección se goza en darle."
+          "Protección se goza en darles."
         ]
       },
       {
@@ -4684,7 +4686,7 @@
         "nombre": "1",
         "lineas": [
           "Por la Hermosa creación",
-          "De los cielos, la tierra y el mar,",
+          "De los cielos, tierra y mar,",
           "Por la alas de tu amor",
           "Que nos cubren sin cesar,",
           "Te ofrecemos, oh Señor,",
@@ -4709,14 +4711,14 @@
           "Que en familia tú nos das,",
           "Los amigos que hay aquí,",
           "Y los que partieron ya,",
-          "Te ofrecemos, oh señor,",
+          "Te ofrecemos, oh Señor,",
           "Alabanzas con fervor."
         ]
       },
       {
         "nombre": "4",
         "lineas": [
-          "Y por el señor Jesús,",
+          "Y por el Señor Jesús,",
           "El gran don que tú nos das;",
           "En los cielos, gozo y luz,",
           "En la tierra, vida y paz,",
@@ -4815,7 +4817,7 @@
         "nombre": "4",
         "lineas": [
           "Tal como soy, tu compasión",
-          "Vencido ha toda oposición;",
+          "Vencido ha a toda oposición;",
           "Ya pertenezco sólo a ti;",
           "Cordero de Dios, heme aquí."
         ]
@@ -5113,7 +5115,7 @@
       {
         "nombre": "2",
         "lineas": [
-          "Si  tu pueblo se humillase",
+          "Si  tu pueblo se humillare",
           "Ante ti,",
           "Y si orando, busca tu rostro,",
           "Oh buen Dios,",
@@ -5146,7 +5148,7 @@
         "nombre": "1",
         "lineas": [
           "Límpiame, Señor,",
-          "De toda mi maldad;",
+          "De toda maldad;",
           "Borra mi pecado,",
           "Dame santidad.",
           "Quiero por tu sangre",
@@ -5301,7 +5303,7 @@
           "Jamás, jamás",
           "Mis pecados contará;",
           "Perdonados por siempre.",
-          "Ante mi mente",
+          "Y ante mi mente",
           "Nunca más los ha de mencionar."
         ]
       },
@@ -5344,8 +5346,8 @@
         "nombre": "Coro",
         "lineas": [
           "Toma mi vida, oh buen Jesús,",
-          "Que deposito sobre  tu altar;",
-          "Tú el alfarero eres, señor,",
+          "Que deposito sobre tu altar;",
+          "Tú el alfarero eres, Señor,",
           "Yo, vil arcilla",
           "Que habrás de usar."
         ]
@@ -5390,39 +5392,38 @@
         "lineas": [
           "Si fui motivo de dolor, oh Cristo,",
           "si por mi causa el débil tropezó,",
-          "si en tus pisadas caminar no quise,",
-          "perdón te ruego, mi Señor y Dios."
+          "Si en tus pisadas caminar no quise,",
+          "Perdón te ruego, mi Señor y Dios."
         ]
       },
       {
         "nombre": "Coro",
         "lineas": [
           "Escucha, oh Dios,",
-          "mi confesión humilde",
-          "y líbrame de tentación sutil;",
-          "oh, guarda siempre",
-          "mi alma en tu rebaño;",
-          "perdón te ruego,",
-          "mi Señor y Dios."
+          "Mi confesión humilde",
+          "Y líbrame de tentación sutil;",
+          "Oh, guarda siempre",
+          "Mi alma en tu rebaño;",
+          "Perdón te ruego,",
+          "Mi Señor y Dios."
         ]
       },
       {
         "nombre": "2",
         "lineas": [
-          "Si yana y fútil mi palabra ha sido,",
-          "si al que sufría en su dolor dejé,",
-          "si sólo agrado mío he buscado,",
-          "perdón te ruego, mi Señor y Dios."
+          "Si vana y fútil mi palabra ha sido,",
+          "Si al que sufría en su dolor dejé,",
+          "Si sólo agrado mío he buscado,",
+          "Perdón te ruego, mi Señor y Dios."
         ]
       },
       {
         "nombre": "3",
         "lineas": [
-          "Si por la vida quise andar",
-          "sin penas, tranquilo,",
-          "libre y sin luchar por ti,",
-          "cuando anhelabas yerme en la lucha,",
-          "perdón te ruego, mi Señor y Dios."
+          "Si por la vida quise andar sin penas",
+          "Tranquilo, libre y sin luchar por ti,",
+          "Cuando anhelabas verme en la lucha,",
+          "Perdón te ruego, mi Señor y Dios."
         ]
       }
     ]
